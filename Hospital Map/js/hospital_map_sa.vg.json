@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Map of South Australia showing Public and Private Hospitals",
+  "width": 600,
+  "height": 800,
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/suburb-10-sa.geojson",
+        "format": {
+          "type": "geojson"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+        "stroke": "white"
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/PublicHospitals_GDA2020.geojson",
+        "format": {
+          "type": "geojson"
+        }
+      },
+      "mark": "circle",
+      "encoding": {
+        "longitude": {"field": "geometry.coordinates[0]", "type": "quantitative"},
+        "latitude": {"field": "geometry.coordinates[1]", "type": "quantitative"},
+        "size": {"value": 100},
+        "color": {"value": "blue"},
+        "tooltip": {"field": "properties.name"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/PrivateHospitals_GDA2020.geojson",
+        "format": {
+          "type": "geojson"
+        }
+      },
+      "mark": "circle",
+      "encoding": {
+        "longitude": {"field": "geometry.coordinates[0]", "type": "quantitative"},
+        "latitude": {"field": "geometry.coordinates[1]", "type": "quantitative"},
+        "size": {"value": 100},
+        "color": {"value": "red"},
+        "tooltip": {"field": "properties.name"}
+      }
+    }
+  ]
+}
