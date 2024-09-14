@@ -1,0 +1,77 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/vic_hospitals.topojson",
+          "format": {
+            "type": "topojson",
+            "feature": "ckan_af33dd8c_0534_4e18_9245_fc64440f742e"
+          }
+        },
+        "mark": {
+          "type": "geoshape",
+          "stroke": "black",   
+          "strokeWidth": 0.5,
+          "fill": null        
+        }
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/vic_hospitals.topojson",
+          "format": {
+            "type": "topojson",
+            "feature": "149331_00_0 (1)"  
+          }
+        },
+        "mark": "circle",
+        "encoding": {
+          "longitude": {"field": "properties.NHSD_LONG"},
+          "latitude": {"field": "properties.NHSD_LAT"},    
+          "size": {
+            "value": 1  
+          },
+          "color": {"value": "red"}  
+        }
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/vic_hospitals.topojson",
+          "format": {
+            "type": "topojson",
+            "feature": "ckan_af33dd8c_0534_4e18_9245_fc64440f742e"  
+          }
+        },
+        "transform": [
+          {
+            "lookup": "2023 LGA Name",  
+            "from": {
+              "data": {
+                "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/death_by_states.csv",
+                "format": {"type": "csv"}
+              },
+              "key": "2023 LGA Name", 
+              "fields": ["Deaths"]
+            }
+          }
+        ],
+        "mark": "geoshape",
+        "encoding": {
+          "color": {
+            "field": "Deaths",  
+            "type": "quantitative",
+            "scale": {
+              "scheme": "reds"  
+            }
+          },
+          "tooltip": [
+            {"field": "properties.vic_loca_2", "title": "Area"},
+            {"field": "Deaths", "title": "Death Count"}
+          ]
+        }
+      }
+    ]
+  }
+  
