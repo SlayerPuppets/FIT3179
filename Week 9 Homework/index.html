@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Arrivals by Australian States</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        #vis {
+            width: 100%;
+            max-width: 700px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Short-term Visitor Arrivals by Australian States (July 2024)</h1>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+        const spec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 700,
+            "height": 500,
+            "title": "Short-term Visitor Arrivals by Australian States (July 2024)",
+            "data": {
+                "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/georef-australia-state@public.topojson",
+                "format": {
+                    "type": "topojson",
+                    "feature": "georef-australia-state@public"
+                }
+            },
+            "transform": [
+                {
+                    "lookup": "properties.ste_name",
+                    "from": {
+                        "data": {
+                            "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/tourist_by_state.csv"
+                        },
+                        "key": "Region",
+                        "fields": ["Number of visitor arrivals"]
+                    }
+                }
+            ],
+            "projection": {
+                "type": "mercator"
+            },
+            "mark": {
+                "type": "geoshape",
+                "stroke": "black",
+                "strokeWidth": 0.5
+            },
+            "encoding": {
+                "color": {
+                    "field": "Number of visitor arrivals",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [0, 50000, 100000, 150000, 200000, 250000],
+                        "range": ["#f7fbff", "#c6dbef", "#6baed6", "#2171b5", "#08306b"]
+                    },
+                    "legend": {
+                        "title": "Visitor Arrivals"
+                    }
+                },
+                "tooltip": [
+                    {"field": "properties.ste_name", "type": "nominal", "title": "State or Territory"},
+                    {"field": "Number of visitor arrivals", "type": "quantitative", "title": "Visitor Arrivals"}
+                ]
+            }
+        };
+
+        vegaEmbed('#vis', spec);
+    </script>
+</body>
+</html>
