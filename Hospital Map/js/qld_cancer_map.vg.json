@@ -9,45 +9,46 @@
     "layer": [
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/suburb-2-qld.topojson", 
+          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/suburb-2-qld.topojson",
           "format": {
-            "type": "topojson"  
+            "type": "topojson",
+            "feature": "suburb-2-qld" 
           }
         },
         "mark": {
           "type": "geoshape",
           "stroke": "white",
           "strokeWidth": 0.5
+        },
+        "encoding": {
+          "color": {
+            "field": "Incidence Rate",
+            "type": "quantitative",
+            "scale": {
+              "scheme": "reds"
+            },
+            "legend": {"title": "Incidence Rate"}
+          },
+          "tooltip": [
+            {"field": "qld_loca_2", "type": "nominal", "title": "Suburb"},
+            {"field": "Incidence Rate", "type": "quantitative", "title": "Incidence Rate"},
+            {"field": "Mortality Rate", "type": "quantitative", "title": "Mortality Rate"}
+          ]
         }
       }
     ],
     "transform": [
       {
-        "lookup": "qld_loca_2",  
+        "lookup": "qld_loca_2", 
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/queensland_cancer_data.csv",  
+            "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Hospital%20Map/data/queensland_cancer_data.csv",
             "format": {"type": "csv"}
           },
-          "key": "LGA",  
+          "key": "LGA",
           "fields": ["Incidence Rate", "Mortality Rate"]
         }
       }
-    ],
-    "encoding": {
-      "color": {
-        "field": "Incidence Rate", 
-        "type": "quantitative",
-        "scale": {
-          "scheme": "reds"
-        },
-        "legend": {"title": "Incidence Rate"}
-      },
-      "tooltip": [
-        {"field": "qld_loca_2", "type": "nominal", "title": "Suburb"},
-        {"field": "Incidence Rate", "type": "quantitative", "title": "Incidence Rate"},
-        {"field": "Mortality Rate", "type": "quantitative", "title": "Mortality Rate"}
-      ]
-    }
+    ]
   }
   

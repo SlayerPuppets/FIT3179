@@ -1,0 +1,51 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "height": 500,
+    "title": "Short-term Visitor Arrivals by Australian States (July 2024)",
+    "data": {
+      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%209%20Homework/data/georef-australia-state@public.topojson",
+      "format": {
+        "type": "topojson",
+        "feature": "georef-australia-state@public"
+      }
+    },
+    "transform": [
+      {
+        "lookup": "properties.ste_name",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%209%20Homework/data/tourist_by_state.csv"
+          },
+          "key": "Region",
+          "fields": ["Number of visitor arrivals"]
+        }
+      }
+    ],
+    "projection": {
+      "type": "mercator"
+    },
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "strokeWidth": 0.5
+    },
+    "encoding": {
+      "color": {
+        "field": "Number of visitor arrivals",
+        "type": "quantitative",
+        "scale": {
+          "domain": [0, 50000, 100000, 150000, 200000, 250000],
+          "range": ["#f7fbff", "#c6dbef", "#6baed6", "#2171b5", "#08306b"]
+        },
+        "legend": {
+          "title": "Visitor Arrivals"
+        }
+      },
+      "tooltip": [
+        {"field": "properties.ste_name", "type": "nominal", "title": "State or Territory"},
+        {"field": "Number of visitor arrivals", "type": "quantitative", "title": "Visitor Arrivals"}
+      ]
+    }
+  }
+  
