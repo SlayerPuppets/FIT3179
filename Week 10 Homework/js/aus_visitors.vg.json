@@ -1,0 +1,135 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Number of Tourists per Country (Selected Year)",
+      "subtitle": "Data Source: Australian Tourism Statistics",
+      "fontSize": 20,
+      "subtitleFontSize": 14,
+      "anchor": "start",
+      "font": "Helvetica Neue, Arial",
+      "color": "#333"
+    },
+    "description": "Vertical bar chart showing the number of tourists per country with a year filter, including an average line annotation.",
+    "data": {
+      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%2010%20Homework/data/2.2%20Short-term%20visitor%20arrivals,%20Australia%20-%20top%2010%20source%20countries(a).csv",
+      "format": {
+        "type": "csv"
+      }
+    },
+    "transform": [
+      {
+        "fold": ["Jul-19", "Jul-22", "Jul-23", "Jul-24"],
+        "as": ["Year", "Tourists"]
+      },
+      {
+        "calculate": "datum.Tourists != null ? parseFloat(replace(datum.Tourists, ',', '')) : 0",
+        "as": "Tourists"
+      },
+      {
+        "filter": "datum.Year === selected_year"
+      }
+    ],
+    "width": 800,
+    "height": 500,
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "Country of Residence",
+            "type": "nominal",
+            "axis": {
+              "title": "Country of Residence",
+              "labelAngle": -45
+            }
+          },
+          "y": {
+            "field": "Tourists",
+            "type": "quantitative",
+            "axis": {
+              "title": "Number of Tourists"
+            }
+          },
+          "color": {
+            "field": "Country of Residence",
+            "type": "nominal",
+            "legend": null
+          },
+          "tooltip": [
+            {"field": "Country of Residence", "type": "nominal", "title": "Country"},
+            {"field": "Year", "type": "nominal", "title": "Year"},
+            {"field": "Tourists", "type": "quantitative", "title": "Number of Tourists"}
+          ]
+        }
+      },
+      {
+        "transform": [
+          {
+            "aggregate": [
+              {
+                "op": "mean",
+                "field": "Tourists",
+                "as": "Average_Tourists"
+              }
+            ]
+          }
+        ],
+        "mark": {
+          "type": "rule",
+          "color": "red",
+          "strokeWidth": 2
+        },
+        "encoding": {
+          "y": {
+            "field": "Average_Tourists",
+            "type": "quantitative"
+          },
+          "tooltip": [
+            {"field": "Average_Tourists", "type": "quantitative", "title": "Average Tourists"}
+          ]
+        }
+      },
+      {
+        "transform": [
+          {
+            "aggregate": [
+              {
+                "op": "mean",
+                "field": "Tourists",
+                "as": "Average_Tourists"
+              }
+            ]
+          }
+        ],
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "dx": 5,
+          "dy": -5,
+          "color": "red",
+          "fontSize": 12
+        },
+        "encoding": {
+          "y": {
+            "field": "Average_Tourists",
+            "type": "quantitative"
+          },
+          "text": {
+            "value": "Average"
+          }
+        }
+      }
+    ],
+    "params": [
+      {
+        "name": "selected_year",
+        "bind": {
+          "input": "select",
+          "options": ["Jul-19", "Jul-22", "Jul-23", "Jul-24"],
+          "name": "Select Year: "
+        },
+        "value": "Jul-19"
+      }
+    ]
+  }
+  
