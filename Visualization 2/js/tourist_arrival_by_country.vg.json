@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Monthly Tourist Arrivals by Country (Jan 2019 - Jul 2024)",
+  "title": "Annual Tourist Arrivals by Country (2019 - 2024)",
   "width": 900,
   "height": 600,
   "projection": {
@@ -8,27 +8,12 @@
   },
   "params": [
     {
-      "name": "selectedMonth",
-      "value": "Jan-19",
+      "name": "selectedYear",
+      "value": 2024,
       "bind": {
         "input": "select",
-        "options": [
-          "Jan-19", "Feb-19", "Mar-19", "Apr-19", "May-19",
-          "Jun-19", "Jul-19", "Aug-19", "Sep-19", "Oct-19",
-          "Nov-19", "Dec-19", "Jan-20", "Feb-20",
-          "Mar-20", "Apr-20", "May-20", "Jun-20", "Jul-20",
-          "Aug-20", "Sep-20", "Oct-20", "Nov-20", "Dec-20",
-          "Jan-21", "Feb-21", "Mar-21", "Apr-21", "May-21",
-          "Jun-21", "Jul-21", "Aug-21", "Sep-21", "Oct-21",
-          "Nov-21", "Dec-21", "Jan-22", "Feb-22", "Mar-22",
-          "Apr-22", "May-22", "Jun-22", "Jul-22", "Aug-22",
-          "Sep-22", "Oct-22", "Nov-22", "Dec-22", "Jan-23",
-          "Feb-23", "Mar-23", "Apr-23", "May-23", "Jun-23",
-          "Jul-23", "Aug-23", "Sep-23", "Oct-23", "Nov-23",
-          "Dec-23", "Jan-24", "Feb-24", "Mar-24", "Apr-24",
-          "May-24", "Jun-24", "Jul-24"
-        ],
-        "name": "Select Month: "
+        "options": [2019, 2020, 2021, 2022, 2023, 2024],
+        "name": "Select Year: "
       }
     }
   ],
@@ -50,35 +35,36 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Tourist_Arrivals.csv",
+        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/ne_110m_admin_0_countries.topojson",
         "format": {
-          "type": "csv"
+          "type": "topojson",
+          "feature": "ne_110m_admin_0_countries"
         }
       },
       "transform": [
         {
-          "filter": "datum.Country !== 'Total'"
-        },
-        {
-          "filter": "datum.Month === selectedMonth"
-        },
-        {
-          "lookup": "Country",
+          "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/ne_110m_admin_0_countries.topojson",
+              "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Tourist_Arrivals_By_Year.csv",
               "format": {
-                "type": "topojson",
-                "feature": "ne_110m_admin_0_countries"
+                "type": "csv"
               }
             },
-            "key": "properties.NAME",
-            "fields": ["properties.NAME"],
-            "as": ["geo"]
-          }
+            "key": "Country",
+            "fields": ["Year", "Arrivals"]
+          },
+          "as": ["Year", "Arrivals"]
         },
         {
-          "filter": "datum.geo !== null"
+          "filter": "datum.Year == selectedYear"
+        },
+        {
+          "filter": "datum.Arrivals > 0"
+        },
+        {
+          "calculate": "toNumber(datum.Arrivals)",
+          "as": "Arrivals"
         }
       ],
       "mark": {
@@ -96,9 +82,9 @@
           },
           "title": "Number of Tourist Arrivals"
         },
-        "tooltip": [  
+        "tooltip": [
           {
-            "field": "Country",
+            "field": "properties.NAME",
             "type": "nominal",
             "title": "Country"
           },
@@ -108,9 +94,9 @@
             "title": "Arrivals"
           },
           {
-            "field": "Month",
+            "field": "Year",
             "type": "nominal",
-            "title": "Month"
+            "title": "Year"
           }
         ]
       }
