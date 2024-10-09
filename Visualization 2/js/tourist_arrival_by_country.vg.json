@@ -1,418 +1,188 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Monthly Tourist Arrivals by Country (Jan 2019 - Jul 2024)",
-    "width": 900,
-    "height": 600,
-    "projection": {
-      "type": "equalEarth"
-    },
-    "params": [
-      {
-        "name": "selectedMonth",
-        "value": "Jan-2019",
-        "bind": {
-          "input": "select",
-          "options": [
-            "Jan-2019", "Feb-2019", "Mar-2019", "Apr-2019", "May-2019",
-            "Jun-2019", "Jul-2019", "Aug-2019", "Sep-2019", "Oct-2019",
-            "Nov-2019", "Dec-2019", "Jan-2020", "Feb-2020",
-            "Mar-2020", "Apr-2020", "May-2020", "Jun-2020", "Jul-2020",
-            "Aug-2020", "Sep-2020", "Oct-2020", "Nov-2020", "Dec-2020",
-            "Jan-2021", "Feb-2021", "Mar-2021", "Apr-2021", "May-2021",
-            "Jun-2021", "Jul-2021", "Aug-2021", "Sep-2021", "Oct-2021",
-            "Nov-2021", "Dec-2021", "Jan-2022", "Feb-2022", "Mar-2022",
-            "Apr-2022", "May-2022", "Jun-2022", "Jul-2022", "Aug-2022",
-            "Sep-2022", "Oct-2022", "Nov-2022", "Dec-2022", "Jan-2023",
-            "Feb-2023", "Mar-2023", "Apr-2023", "May-2023", "Jun-2023",
-            "Jul-2023", "Aug-2023", "Sep-2023", "Oct-2023", "Nov-2023",
-            "Dec-2023", "Jan-2024", "Feb-2024", "Mar-2024", "Apr-2024",
-            "May-2024", "Jun-2024", "Jul-2024"
-          ],
-          "name": "Select Month: "
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Monthly Tourist Arrivals by Country (Jan 2019 - Jul 2024)",
+  "width": 900,
+  "height": 600,
+  "projection": {
+    "type": "equalEarth"
+  },
+  "params": [
+    {
+      "name": "selectedMonth",
+      "value": "Jan-2019",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Jan-2019", "Feb-2019", "Mar-2019", "Apr-2019", "May-2019",
+          "Jun-2019", "Jul-2019", "Aug-2019", "Sep-2019", "Oct-2019",
+          "Nov-2019", "Dec-2019", "Jan-2020", "Feb-2020",
+          "Mar-2020", "Apr-2020", "May-2020", "Jun-2020", "Jul-2020",
+          "Aug-2020", "Sep-2020", "Oct-2020", "Nov-2020", "Dec-2020",
+          "Jan-2021", "Feb-2021", "Mar-2021", "Apr-2021", "May-2021",
+          "Jun-2021", "Jul-2021", "Aug-2021", "Sep-2021", "Oct-2021",
+          "Nov-2021", "Dec-2021", "Jan-2022", "Feb-2022", "Mar-2022",
+          "Apr-2022", "May-2022", "Jun-2022", "Jul-2022", "Aug-2022",
+          "Sep-2022", "Oct-2022", "Nov-2022", "Dec-2022", "Jan-2023",
+          "Feb-2023", "Mar-2023", "Apr-2023", "May-2023", "Jun-2023",
+          "Jul-2023", "Aug-2023", "Sep-2023", "Oct-2023", "Nov-2023",
+          "Dec-2023", "Jan-2024", "Feb-2024", "Mar-2024", "Apr-2024",
+          "May-2024", "Jun-2024", "Jul-2024"
+        ],
+        "name": "Select Month: "
       }
-    ],
-    "layer": [
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/ne_110m_admin_0_countries.topojson",
-          "format": {
-            "type": "topojson",
-            "feature": "ne_110m_admin_0_countries"
-          }
-        },
-        "mark": {
-          "type": "geoshape",
-          "fill": "lightgray",
-          "stroke": "black",
-          "strokeWidth": 0.5
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/ne_110m_admin_0_countries.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_110m_admin_0_countries"
         }
       },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Tourist%20Arrivals.csv",
-          "format": {
-            "type": "csv"
-          }
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+        "stroke": "black",
+        "strokeWidth": 0.5
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Tourist%20Arrivals.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "fold": [
+            "Australia", "New Zealand", "Melanesia nfd", "New Caledonia", "PNG", 
+            "Solomon Islands", "Vanuatu", "Micronesia nfd", "Guam", "Kiribati", 
+            "Marshall Is", "Micronesia, F S", "Nauru", "Palau", "Polynesia nfd", 
+            "Cook Islands", "Fiji", "French Poly", "Niue", "Samoa", 
+            "Samoa American", "Tokelau", "Tonga", "Tuvalu", "Wallis/Futuna", 
+            "Pitcairn Is", "Polynesia, nec", "Antarctica nfd", "Adelie Land", 
+            "Argentinian A T", "Australian A T", "British A T", "Chilean A T", 
+            "Queen Maud Land", "Ross Dependency", "NW Europe nfd", 
+            "UK, CIs & IOM", "Ireland", "Western Europe nfd", "Austria", 
+            "Belgium", "France", "Germany", "Liechtenstein", "Luxembourg", 
+            "Monaco", "Netherlands", "Switzerland", "Northern Europe nfd", 
+            "Denmark", "Faroe Islands", "Finland", "Greenland", "Iceland", 
+            "Norway", "Sweden", "Aland Islands", "Andorra", "Gibraltar", 
+            "Holy See", "Italy", "Malta", "Portugal", "San Marino", "Spain", 
+            "SE Europe nfd", "Albania", "Bosnia/Herzegov", "Bulgaria", 
+            "Croatia", "Cyprus", "North Macedonia", "Greece", "Moldova", 
+            "Romania", "Slovenia", "Montenegro", "Serbia", "Kosovo", 
+            "Eastern Europe nfd", "Belarus", "Czechia", "Estonia", "Hungary", 
+            "Latvia", "Lithuania", "Poland", "Russia", "Slovakia", "Ukraine", 
+            "North Africa nfd", "Algeria", "Egypt", "Libya", "Morocco", 
+            "Sudan", "Tunisia", "Western Sahara", "Sp North Africa", 
+            "South Sudan", "Middle East nfd", "Bahrain", "Iran", "Iraq", 
+            "Israel", "Jordan", "Kuwait", "Lebanon", "Oman", "Qatar", 
+            "Saudi Arabia", "Syria", "Turkey", "Unit Arab Emir", "Yemen", 
+            "Mainld SE Asia nfd", "Myanmar", "Cambodia", "Laos", "Thailand", 
+            "Vietnam", "Brunei", "Indonesia", "Malaysia", "Philippines", 
+            "Singapore", "Timor-Leste", "North-East Asia nfd", "Chinese Asia nfd", 
+            "China", "Hong Kong", "Macau", "Mongolia", "Taiwan", "Japan & Koreas nfd", 
+            "Japan", "Korea, North", "Korea, South", "Bangladesh", "Bhutan", 
+            "India", "Maldives", "Nepal", "Pakistan", "Sri Lanka", "Afghanistan", 
+            "Armenia", "Azerbaijan", "Georgia", "Kazakhstan", "Kyrgyzstan", 
+            "Tajikistan", "Turkmenistan", "Uzbekistan", "Americas nfd", "Bermuda", 
+            "Canada", "USA", "Argentina", "Bolivia", "Brazil", "Chile", 
+            "Colombia", "Ecuador", "Falkland Is", "French Guiana", "Guyana", 
+            "Paraguay", "Peru", "Suriname", "Uruguay", "Venezuela", "Belize", 
+            "Costa Rica", "El Salvador", "Guatemala", "Honduras", "Mexico", 
+            "Nicaragua", "Panama", "Anguilla", "Antigua/Barbuda", "Aruba", 
+            "Bahamas", "Barbados", "Cayman Islands", "Cuba", "Dominica", 
+            "Dominican Rep", "Grenada", "Guadeloupe", "Haiti", "Jamaica", 
+            "Martinique", "Montserrat", "Puerto Rico", "St Kitts/Nevis", 
+            "St Lucia", "St Vinc/Grenad", "Trinidad/Tobago", "Turks/Caicos Is", 
+            "Virgin Is, Brit", "Virgin Is, US", "St Barthelemy", "St Martin (Fr)", 
+            "Bonaire/SE/Saba", "Curacao", "Sint Maarten Dp", "Sub-Saha Africa nfd", 
+            "Benin", "Burkina Faso", "Cameroon", "Cabo Verde", "Cent Africa Rep", 
+            "Chad", "Congo, Rep", "Congo, Dem Rep", "[Cote d\\'Ivoire]", "Equator Guinea", 
+            "Gabon", "Gambia", "Ghana", "Guinea", "Guinea-Bissau", "Liberia", 
+            "Mali", "Mauritania", "Niger", "Nigeria", "Sao Tome/Princ", "Senegal", 
+            "Sierra Leone", "Togo", "Angola", "Botswana", "Burundi", "Comoros", 
+            "Djibouti", "Eritrea", "Ethiopia", "Kenya", "Lesotho", "Madagascar", 
+            "Malawi", "Mauritius", "Mayotte", "Mozambique", "Namibia", "Reunion", 
+            "Rwanda", "St Helena", "Seychelles", "Somalia", "South Africa", 
+            "Eswatini", "Tanzania", "Uganda", "Zambia", "Zimbabwe"
+          ]
         },
-        "transform": [
-          {
-            "fold": [
-              "[Oceania nfd]",
-              "[Aust (incl E T) nfd]",
-              "[Australia]",
-              "[Norfolk Island]",
-              "[Aust E T, nec]",
-              "[New Zealand]",
-              "[Melanesia nfd]",
-              "[New Caledonia]",
-              "[PNG]",
-              "[Solomon Islands]",
-              "[Vanuatu]",
-              "[Micronesia nfd]",
-              "[Guam]",
-              "[Kiribati]",
-              "[Marshall Is]",
-              "[Micronesia, F S]",
-              "[Nauru]",
-              "[N Mariana Is]",
-              "[Palau]",
-              "[Polynesia nfd]",
-              "[Cook Islands]",
-              "[Fiji]",
-              "[French Poly]",
-              "[Niue]",
-              "[Samoa]",
-              "[Samoa American]",
-              "[Tokelau]",
-              "[Tonga]",
-              "[Tuvalu]",
-              "[Wallis/Futuna]",
-              "[Pitcairn Is]",
-              "[Polynesia, nec]",
-              "[Antarctica nfd]",
-              "[Adelie Land]",
-              "[Argentinian A T]",
-              "[Australian A T]",
-              "[British A T]",
-              "[Chilean A T]",
-              "[Queen Maud Land]",
-              "[Ross Dependency]",
-              "[NW Europe nfd]",
-              "[UK, CIs & IOM]",
-              "[Ireland]",
-              "[Western Europe nfd]",
-              "[Austria]",
-              "[Belgium]",
-              "[France]",
-              "[Germany]",
-              "[Liechtenstein]",
-              "[Luxembourg]",
-              "[Monaco]",
-              "[Netherlands]",
-              "[Switzerland]",
-              "[Northern Europe nfd]",
-              "[Denmark]",
-              "[Faroe Islands]",
-              "[Finland]",
-              "[Greenland]",
-              "[Iceland]",
-              "[Norway]",
-              "[Sweden]",
-              "[Aland Islands]",
-              "[S & E Europe nfd]",
-              "[Southern Europe nfd]",
-              "[Andorra]",
-              "[Gibraltar]",
-              "[Holy See]",
-              "[Italy]",
-              "[Malta]",
-              "[Portugal]",
-              "[San Marino]",
-              "[Spain]",
-              "[SE Europe nfd]",
-              "[Albania]",
-              "[Bosnia/Herzegov]",
-              "[Bulgaria]",
-              "[Croatia]",
-              "[Cyprus]",
-              "[North Macedonia]",
-              "[Greece]",
-              "[Moldova]",
-              "[Romania]",
-              "[Slovenia]",
-              "[Montenegro]",
-              "[Serbia]",
-              "[Kosovo]",
-              "[Eastern Europe nfd]",
-              "[Belarus]",
-              "[Czechia]",
-              "[Estonia]",
-              "[Hungary]",
-              "[Latvia]",
-              "[Lithuania]",
-              "[Poland]",
-              "[Russia]",
-              "[Slovakia]",
-              "[Ukraine]",
-              "[N Afr & Middl E nfd]",
-              "[North Africa nfd]",
-              "[Algeria]",
-              "[Egypt]",
-              "[Libya]",
-              "[Morocco]",
-              "[Sudan]",
-              "[Tunisia]",
-              "[Western Sahara]",
-              "[Sp North Africa]",
-              "[South Sudan]",
-              "[Middle East nfd]",
-              "[Bahrain]",
-              "[Occ Palestinian T]",
-              "[Iran]",
-              "[Iraq]",
-              "[Israel]",
-              "[Jordan]",
-              "[Kuwait]",
-              "[Lebanon]",
-              "[Oman]",
-              "[Qatar]",
-              "[Saudi Arabia]",
-              "[Syria]",
-              "[Türkiy]",
-              "[Unit Arab Emir]",
-              "[Yemen]",
-              "[South-East Asia nfd]",
-              "[Mainld SE Asia nfd]",
-              "[Myanmar]",
-              "[Cambodia]",
-              "[Laos]",
-              "[Thailand]",
-              "[Vietnam]",
-              "[M\\'time SE Asia nfd]",
-              "[Brunei]",
-              "[Indonesia]",
-              "[Malaysia]",
-              "[Philippines]",
-              "[Singapore]",
-              "[Timor-Leste]",
-              "[North-East Asia nfd]",
-              "[Chinese Asia nfd]",
-              "[China]",
-              "[Hong Kong]",
-              "[Macau]",
-              "[Mongolia]",
-              "[Taiwan]",
-              "[Japan & Koreas nfd]",
-              "[Japan]",
-              "[Korea, North]",
-              "[Korea, South]",
-              "[S & C Asia nfd]",
-              "[Southern Asia nfd]",
-              "[Bangladesh]",
-              "[Bhutan]",
-              "[India]",
-              "[Maldives]",
-              "[Nepal]",
-              "[Pakistan]",
-              "[Sri Lanka]",
-              "[Central Asia nfd]",
-              "[Afghanistan]",
-              "[Armenia]",
-              "[Azerbaijan]",
-              "[Georgia]",
-              "[Kazakhstan]",
-              "[Kyrgyzstan]",
-              "[Tajikistan]",
-              "[Turkmenistan]",
-              "[Uzbekistan]",
-              "[Americas nfd]",
-              "[N\\'thern America nfd]",
-              "[Bermuda]",
-              "[Canada]",
-              "[St Pierre/Mique]",
-              "[USA]",
-              "[South America nfd]",
-              "[Argentina]",
-              "[Bolivia]",
-              "[Brazil]",
-              "[Chile]",
-              "[Colombia]",
-              "[Ecuador]",
-              "[Falkland Is]",
-              "[French Guiana]",
-              "[Guyana]",
-              "[Paraguay]",
-              "[Peru]",
-              "[Suriname]",
-              "[Uruguay]",
-              "[Venezuela]",
-              "[S America, nec]",
-              "[Central America nfd]",
-              "[Belize]",
-              "[Costa Rica]",
-              "[El Salvador]",
-              "[Guatemala]",
-              "[Honduras]",
-              "[Mexico]",
-              "[Nicaragua]",
-              "[Panama]",
-              "[Caribbean nfd]",
-              "[Anguilla]",
-              "[Antigua/Barbuda]",
-              "[Aruba]",
-              "[Bahamas]",
-              "[Barbados]",
-              "[Cayman Islands]",
-              "[Cuba]",
-              "[Dominica]",
-              "[Dominican Rep]",
-              "[Grenada]",
-              "[Guadeloupe]",
-              "[Haiti]",
-              "[Jamaica]",
-              "[Martinique]",
-              "[Montserrat]",
-              "[Puerto Rico]",
-              "[St Kitts/Nevis]",
-              "[St Lucia]",
-              "[St Vinc/Grenad]",
-              "[Trinidad/Tobago]",
-              "[Turks/Caicos Is]",
-              "[Virgin Is, Brit]",
-              "[Virgin Is, US]",
-              "[St Barthelemy]",
-              "[St Martin (Fr)]",
-              "[Bonaire/SE/Saba]",
-              "[Curacao]",
-              "[Sint Maarten Dp]",
-              "[Sub-Saha Africa nfd]",
-              "[Cent & W Africa nfd]",
-              "[Benin]",
-              "[Burkina Faso]",
-              "[Cameroon]",
-              "[Cabo Verde]",
-              "[Cent Africa Rep]",
-              "[Chad]",
-              "[Congo, Rep]",
-              "[Congo, Dem Rep]",
-              "[Cote d\\'Ivoire]",
-              "[Equator Guinea]",
-              "[Gabon]",
-              "[Gambia]",
-              "[Ghana]",
-              "[Guinea]",
-              "[Guinea-Bissau]",
-              "[Liberia]",
-              "[Mali]",
-              "[Mauritania]",
-              "[Niger]",
-              "[Nigeria]",
-              "[Sao Tome/Princ]",
-              "[Senegal]",
-              "[Sierra Leone]",
-              "[Togo]",
-              "[S & E Africa nfd]",
-              "[Angola]",
-              "[Botswana]",
-              "[Burundi]",
-              "[Comoros]",
-              "[Djibouti]",
-              "[Eritrea]",
-              "[Ethiopia]",
-              "[Kenya]",
-              "[Lesotho]",
-              "[Madagascar]",
-              "[Malawi]",
-              "[Mauritius]",
-              "[Mayotte]",
-              "[Mozambique]",
-              "[Namibia]",
-              "[Reunion]",
-              "[Rwanda]",
-              "[St Helena]",
-              "[Seychelles]",
-              "[Somalia]",
-              "[South Africa]",
-              "[Eswatini]",
-              "[Tanzania]",
-              "[Uganda]",
-              "[Zambia]",
-              "[Zimbabwe]",
-              "[S & E Afr, nec]",
-              "[Inadequately Described]"
-            ],
-            "as": ["Country", "Arrivals"]
-          },
-          {
-            "filter": "datum.Country !== 'Total'"
-          },
-          {
-            "aggregate": [
-              {
-                "op": "sum",
-                "field": "Arrivals",
-                "as": "Total_Arrivals"
-              }
-            ],
-            "groupby": ["Month", "Country"]
-          },
-          {
-            "lookup": "Country",
-            "from": {
-              "data": {
-                "name": "countries"
-              },
-              "key": "properties.NAME",
-              "fields": ["Country"],
-              "as": ["geo"]
+        {
+          "calculate": "datum.key",
+          "as": "Country"
+        },
+        {
+          "filter": "datum.Country !== 'Total'"
+        },
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "value",
+              "as": "Total_Arrivals"
             }
-          },
-          {
-            "calculate": "datum.Total_Arrivals",
-            "as": "Tourist_Arrivals"
-          },
-          {
-            "filter": "datum.geo !== null"
-          },
-          {
-            "filter": "datum.Month === selectedMonth"
-          }
-        ],
-        "mark": {
-          "type": "geoshape",
-          "stroke": "black",
-          "strokeWidth": 0.5
+          ],
+          "groupby": ["Month", "Country"]
         },
-        "encoding": {
-          "color": {
+        {
+          "lookup": "Country",
+          "from": {
+            "data": {
+              "name": "countries"
+            },
+            "key": "properties.NAME",
+            "fields": ["NAME"]
+          }
+        },
+        {
+          "calculate": "datum.Total_Arrivals",
+          "as": "Tourist_Arrivals"
+        },
+        {
+          "filter": "datum.NAME !== null"
+        },
+        {
+          "filter": "datum.Month === selectedMonth"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "black",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+        "color": {
+          "field": "Tourist_Arrivals",
+          "type": "quantitative",
+          "scale": {
+            "type": "log",
+            "scheme": "blues"
+          },
+          "title": "Number of Tourist Arrivals"
+        },
+        "tooltip": [
+          {
+            "field": "Country",
+            "type": "nominal",
+            "title": "Country"
+          },
+          {
             "field": "Tourist_Arrivals",
             "type": "quantitative",
-            "scale": {
-              "type": "log",
-              "scheme": "blues"
-            },
-            "title": "Number of Tourist Arrivals"
+            "title": "Arrivals"
           },
-          "tooltip": [
-            {
-              "field": "Country",
-              "type": "nominal",
-              "title": "Country"
-            },
-            {
-              "field": "Tourist_Arrivals",
-              "type": "quantitative",
-              "title": "Arrivals"
-            },
-            {
-              "field": "Month",
-              "type": "nominal",
-              "title": "Month"
-            }
-          ]
-        }
+          {
+            "field": "Month",
+            "type": "nominal",
+            "title": "Month"
+          }
+        ]
       }
-    ]
-  }
-  
+    }
+  ]
+}

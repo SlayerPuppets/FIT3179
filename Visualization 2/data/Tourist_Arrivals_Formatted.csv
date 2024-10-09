@@ -1,0 +1,9678 @@
+Month,Country,Arrivals
+Jan-19,Australia,1152060
+Feb-19,Australia,627250
+Mar-19,Australia,652850
+Apr-19,Australia,795470
+May-19,Australia,749420
+Jun-19,Australia,739170
+Jul-19,Australia,1007860
+Aug-19,Australia,822420
+Sep-19,Australia,872340
+Oct-19,Australia,1012410
+Nov-19,Australia,744790
+Dec-19,Australia,708150
+Jan-20,Australia,1159940
+Feb-20,Australia,663830
+Mar-20,Australia,475420
+Apr-20,Australia,14700
+May-20,Australia,10890
+Jun-20,Australia,13790
+Jul-20,Australia,10330
+Aug-20,Australia,8530
+Sep-20,Australia,8540
+Oct-20,Australia,11770
+Nov-20,Australia,15190
+Dec-20,Australia,17610
+Jan-21,Australia,13990
+Feb-21,Australia,11190
+Mar-21,Australia,14010
+Apr-21,Australia,19350
+May-21,Australia,44250
+Jun-21,Australia,40260
+Jul-21,Australia,33730
+Aug-21,Australia,11340
+Sep-21,Australia,8260
+Oct-21,Australia,6950
+Nov-21,Australia,35530
+Dec-21,Australia,82590
+Jan-22,Australia,139240
+Feb-22,Australia,112150
+Mar-22,Australia,144120
+Apr-22,Australia,253060
+May-22,Australia,305910
+Jun-22,Australia,351460
+Jul-22,Australia,605420
+Aug-22,Australia,537100
+Sep-22,Australia,564960
+Oct-22,Australia,648150
+Nov-22,Australia,549250
+Dec-22,Australia,519430
+Jan-23,Australia,936160
+Feb-23,Australia,578070
+Mar-23,Australia,575080
+Apr-23,Australia,681440
+May-23,Australia,643650
+Jun-23,Australia,679980
+Jul-23,Australia,938730
+Aug-23,Australia,774960
+Sep-23,Australia,843780
+Oct-23,Australia,940730
+Nov-23,Australia,726390
+Dec-23,Australia,692010
+Jan-24,Australia,1173890
+Feb-24,Australia,668050
+Mar-24,Australia,676790
+Apr-24,Australia,833550
+May-24,Australia,738240
+Jun-24,Australia,762790
+Jul-24,Australia,1027680
+Jan-19,New Zealand,178510
+Feb-19,New Zealand,130700
+Mar-19,New Zealand,150250
+Apr-19,New Zealand,159280
+May-19,New Zealand,152700
+Jun-19,New Zealand,144990
+Jul-19,New Zealand,171800
+Aug-19,New Zealand,163220
+Sep-19,New Zealand,166870
+Oct-19,New Zealand,186490
+Nov-19,New Zealand,157970
+Dec-19,New Zealand,176480
+Jan-20,New Zealand,179430
+Feb-20,New Zealand,130040
+Mar-20,New Zealand,83580
+Apr-20,New Zealand,1170
+May-20,New Zealand,2310
+Jun-20,New Zealand,2730
+Jul-20,New Zealand,1540
+Aug-20,New Zealand,1130
+Sep-20,New Zealand,1200
+Oct-20,New Zealand,2450
+Nov-20,New Zealand,3710
+Dec-20,New Zealand,4940
+Jan-21,New Zealand,4380
+Feb-21,New Zealand,4060
+Mar-21,New Zealand,5060
+Apr-21,New Zealand,20290
+May-21,New Zealand,52260
+Jun-21,New Zealand,43750
+Jul-21,New Zealand,27050
+Aug-21,New Zealand,4080
+Sep-21,New Zealand,470
+Oct-21,New Zealand,740
+Nov-21,New Zealand,3680
+Dec-21,New Zealand,8340
+Jan-22,New Zealand,9170
+Feb-22,New Zealand,10080
+Mar-22,New Zealand,29510
+Apr-22,New Zealand,67080
+May-22,New Zealand,73520
+Jun-22,New Zealand,81490
+Jul-22,New Zealand,111480
+Aug-22,New Zealand,107390
+Sep-22,New Zealand,113790
+Oct-22,New Zealand,130320
+Nov-22,New Zealand,123410
+Dec-22,New Zealand,123600
+Jan-23,New Zealand,139100
+Feb-23,New Zealand,111460
+Mar-23,New Zealand,129190
+Apr-23,New Zealand,143980
+May-23,New Zealand,129080
+Jun-23,New Zealand,133660
+Jul-23,New Zealand,146940
+Aug-23,New Zealand,139560
+Sep-23,New Zealand,164430
+Oct-23,New Zealand,167620
+Nov-23,New Zealand,155570
+Dec-23,New Zealand,160090
+Jan-24,New Zealand,175330
+Feb-24,New Zealand,144840
+Mar-24,New Zealand,155930
+Apr-24,New Zealand,161860
+May-24,New Zealand,148020
+Jun-24,New Zealand,142810
+Jul-24,New Zealand,164880
+Jan-19,PNG,3830
+Feb-19,PNG,2760
+Mar-19,PNG,2900
+Apr-19,PNG,3430
+May-19,PNG,3070
+Jun-19,PNG,3300
+Jul-19,PNG,3950
+Aug-19,PNG,3510
+Sep-19,PNG,3610
+Oct-19,PNG,3700
+Nov-19,PNG,3540
+Dec-19,PNG,4260
+Jan-20,PNG,3900
+Feb-20,PNG,2670
+Mar-20,PNG,1560
+Apr-20,PNG,30
+May-20,PNG,60
+Jun-20,PNG,60
+Jul-20,PNG,70
+Aug-20,PNG,30
+Sep-20,PNG,60
+Oct-20,PNG,60
+Nov-20,PNG,60
+Dec-20,PNG,100
+Jan-21,PNG,80
+Feb-21,PNG,90
+Mar-21,PNG,90
+Apr-21,PNG,50
+May-21,PNG,60
+Jun-21,PNG,80
+Jul-21,PNG,60
+Aug-21,PNG,70
+Sep-21,PNG,40
+Oct-21,PNG,60
+Nov-21,PNG,120
+Dec-21,PNG,150
+Jan-22,PNG,240
+Feb-22,PNG,350
+Mar-22,PNG,800
+Apr-22,PNG,890
+May-22,PNG,1160
+Jun-22,PNG,1280
+Jul-22,PNG,1780
+Aug-22,PNG,1650
+Sep-22,PNG,2240
+Oct-22,PNG,2030
+Nov-22,PNG,2280
+Dec-22,PNG,3530
+Jan-23,PNG,3040
+Feb-23,PNG,2240
+Mar-23,PNG,2250
+Apr-23,PNG,2490
+May-23,PNG,2710
+Jun-23,PNG,2830
+Jul-23,PNG,3180
+Aug-23,PNG,2810
+Sep-23,PNG,3350
+Oct-23,PNG,2880
+Nov-23,PNG,2780
+Dec-23,PNG,5320
+Jan-24,PNG,3920
+Feb-24,PNG,2810
+Mar-24,PNG,2930
+Apr-24,PNG,3020
+May-24,PNG,3280
+Jun-24,PNG,3270
+Jul-24,PNG,3860
+Jan-19,Solomon Islands,690
+Feb-19,Solomon Islands,440
+Mar-19,Solomon Islands,440
+Apr-19,Solomon Islands,450
+May-19,Solomon Islands,610
+Jun-19,Solomon Islands,560
+Jul-19,Solomon Islands,660
+Aug-19,Solomon Islands,460
+Sep-19,Solomon Islands,630
+Oct-19,Solomon Islands,700
+Nov-19,Solomon Islands,720
+Dec-19,Solomon Islands,690
+Jan-20,Solomon Islands,620
+Feb-20,Solomon Islands,490
+Mar-20,Solomon Islands,240
+Jul-20,Solomon Islands,10
+Oct-20,Solomon Islands,10
+Nov-20,Solomon Islands,180
+Dec-20,Solomon Islands,10
+Jan-21,Solomon Islands,10
+Feb-21,Solomon Islands,20
+Mar-21,Solomon Islands,160
+Apr-21,Solomon Islands,360
+May-21,Solomon Islands,330
+Jun-21,Solomon Islands,180
+Jul-21,Solomon Islands,180
+Aug-21,Solomon Islands,200
+Sep-21,Solomon Islands,200
+Oct-21,Solomon Islands,460
+Nov-21,Solomon Islands,280
+Dec-21,Solomon Islands,230
+Jan-22,Solomon Islands,30
+Feb-22,Solomon Islands,70
+Mar-22,Solomon Islands,170
+Apr-22,Solomon Islands,480
+May-22,Solomon Islands,380
+Jun-22,Solomon Islands,570
+Jul-22,Solomon Islands,550
+Aug-22,Solomon Islands,390
+Sep-22,Solomon Islands,560
+Oct-22,Solomon Islands,500
+Nov-22,Solomon Islands,680
+Dec-22,Solomon Islands,630
+Jan-23,Solomon Islands,860
+Feb-23,Solomon Islands,590
+Mar-23,Solomon Islands,690
+Apr-23,Solomon Islands,840
+May-23,Solomon Islands,830
+Jun-23,Solomon Islands,810
+Jul-23,Solomon Islands,840
+Aug-23,Solomon Islands,830
+Sep-23,Solomon Islands,750
+Oct-23,Solomon Islands,910
+Nov-23,Solomon Islands,830
+Dec-23,Solomon Islands,970
+Jan-24,Solomon Islands,1320
+Feb-24,Solomon Islands,880
+Mar-24,Solomon Islands,750
+Apr-24,Solomon Islands,760
+May-24,Solomon Islands,960
+Jun-24,Solomon Islands,930
+Jul-24,Solomon Islands,840
+Jan-19,Vanuatu,630
+Feb-19,Vanuatu,700
+Mar-19,Vanuatu,710
+Apr-19,Vanuatu,640
+May-19,Vanuatu,1060
+Jun-19,Vanuatu,810
+Jul-19,Vanuatu,600
+Aug-19,Vanuatu,880
+Sep-19,Vanuatu,1400
+Oct-19,Vanuatu,1090
+Nov-19,Vanuatu,1220
+Dec-19,Vanuatu,770
+Jan-20,Vanuatu,1050
+Feb-20,Vanuatu,790
+Mar-20,Vanuatu,430
+Sep-20,Vanuatu,170
+Oct-20,Vanuatu,170
+Nov-20,Vanuatu,10
+Dec-20,Vanuatu,160
+Jan-21,Vanuatu,570
+Feb-21,Vanuatu,10
+Mar-21,Vanuatu,170
+Apr-21,Vanuatu,510
+May-21,Vanuatu,600
+Jun-21,Vanuatu,770
+Jul-21,Vanuatu,390
+Aug-21,Vanuatu,810
+Sep-21,Vanuatu,430
+Oct-21,Vanuatu,440
+Nov-21,Vanuatu,270
+Dec-21,Vanuatu,540
+Jan-22,Vanuatu,280
+Feb-22,Vanuatu,130
+Mar-22,Vanuatu,260
+Apr-22,Vanuatu,210
+May-22,Vanuatu,380
+Jun-22,Vanuatu,410
+Jul-22,Vanuatu,500
+Aug-22,Vanuatu,720
+Sep-22,Vanuatu,1100
+Oct-22,Vanuatu,1330
+Nov-22,Vanuatu,1610
+Dec-22,Vanuatu,1160
+Jan-23,Vanuatu,660
+Feb-23,Vanuatu,1300
+Mar-23,Vanuatu,830
+Apr-23,Vanuatu,870
+May-23,Vanuatu,1110
+Jun-23,Vanuatu,1150
+Jul-23,Vanuatu,1190
+Aug-23,Vanuatu,1150
+Sep-23,Vanuatu,1260
+Oct-23,Vanuatu,1320
+Nov-23,Vanuatu,1530
+Dec-23,Vanuatu,1070
+Jan-24,Vanuatu,950
+Feb-24,Vanuatu,1130
+Mar-24,Vanuatu,990
+Apr-24,Vanuatu,980
+May-24,Vanuatu,1000
+Jun-24,Vanuatu,1020
+Jul-24,Vanuatu,850
+Jan-19,Kiribati,170
+Feb-19,Kiribati,140
+Mar-19,Kiribati,100
+Apr-19,Kiribati,100
+May-19,Kiribati,260
+Jun-19,Kiribati,170
+Jul-19,Kiribati,120
+Aug-19,Kiribati,120
+Sep-19,Kiribati,140
+Oct-19,Kiribati,140
+Nov-19,Kiribati,190
+Dec-19,Kiribati,190
+Jan-20,Kiribati,100
+Feb-20,Kiribati,110
+Mar-20,Kiribati,60
+Oct-20,Kiribati,60
+Mar-21,Kiribati,10
+May-21,Kiribati,200
+Aug-21,Kiribati,10
+Sep-21,Kiribati,90
+Nov-21,Kiribati,10
+Dec-21,Kiribati,10
+Jan-22,Kiribati,100
+Feb-22,Kiribati,30
+Mar-22,Kiribati,80
+Apr-22,Kiribati,20
+May-22,Kiribati,60
+Jun-22,Kiribati,130
+Jul-22,Kiribati,140
+Aug-22,Kiribati,180
+Sep-22,Kiribati,90
+Oct-22,Kiribati,240
+Nov-22,Kiribati,210
+Dec-22,Kiribati,130
+Jan-23,Kiribati,130
+Feb-23,Kiribati,210
+Mar-23,Kiribati,310
+Apr-23,Kiribati,90
+May-23,Kiribati,370
+Jun-23,Kiribati,240
+Jul-23,Kiribati,260
+Aug-23,Kiribati,130
+Sep-23,Kiribati,300
+Oct-23,Kiribati,210
+Nov-23,Kiribati,290
+Dec-23,Kiribati,300
+Jan-24,Kiribati,240
+Feb-24,Kiribati,270
+Mar-24,Kiribati,200
+Apr-24,Kiribati,120
+May-24,Kiribati,270
+Jun-24,Kiribati,310
+Jul-24,Kiribati,170
+Feb-19,Marshall Is,10
+Mar-19,Marshall Is,10
+Apr-19,Marshall Is,10
+May-19,Marshall Is,10
+Jun-19,Marshall Is,10
+Jul-19,Marshall Is,10
+Aug-19,Marshall Is,10
+Sep-19,Marshall Is,10
+Oct-19,Marshall Is,10
+Nov-19,Marshall Is,10
+Dec-19,Marshall Is,10
+Aug-22,Marshall Is,10
+Oct-22,Marshall Is,10
+Nov-22,Marshall Is,30
+Dec-22,Marshall Is,20
+Jan-23,Marshall Is,10
+Feb-23,Marshall Is,30
+Mar-23,Marshall Is,20
+Apr-23,Marshall Is,10
+May-23,Marshall Is,20
+Jun-23,Marshall Is,10
+Jul-23,Marshall Is,20
+Aug-23,Marshall Is,20
+Sep-23,Marshall Is,10
+Oct-23,Marshall Is,20
+Nov-23,Marshall Is,20
+Dec-23,Marshall Is,20
+Jan-24,Marshall Is,10
+Feb-24,Marshall Is,10
+Mar-24,Marshall Is,20
+Apr-24,Marshall Is,10
+May-24,Marshall Is,10
+Jun-24,Marshall Is,20
+Jul-24,Marshall Is,20
+Jan-19,"Micronesia, F S",10
+Feb-19,"Micronesia, F S",10
+Mar-19,"Micronesia, F S",10
+Apr-19,"Micronesia, F S",10
+May-19,"Micronesia, F S",30
+Jun-19,"Micronesia, F S",20
+Jul-19,"Micronesia, F S",10
+Aug-19,"Micronesia, F S",10
+Sep-19,"Micronesia, F S",10
+Oct-19,"Micronesia, F S",20
+Nov-19,"Micronesia, F S",30
+Dec-19,"Micronesia, F S",10
+Jan-20,"Micronesia, F S",10
+Feb-20,"Micronesia, F S",10
+Jun-22,"Micronesia, F S",10
+Aug-22,"Micronesia, F S",10
+Sep-22,"Micronesia, F S",10
+Oct-22,"Micronesia, F S",10
+Nov-22,"Micronesia, F S",20
+Dec-22,"Micronesia, F S",10
+Jan-23,"Micronesia, F S",10
+Feb-23,"Micronesia, F S",30
+Mar-23,"Micronesia, F S",20
+Apr-23,"Micronesia, F S",20
+May-23,"Micronesia, F S",20
+Jun-23,"Micronesia, F S",10
+Jul-23,"Micronesia, F S",10
+Aug-23,"Micronesia, F S",20
+Sep-23,"Micronesia, F S",10
+Oct-23,"Micronesia, F S",10
+Nov-23,"Micronesia, F S",20
+Dec-23,"Micronesia, F S",10
+Jan-24,"Micronesia, F S",10
+Feb-24,"Micronesia, F S",10
+Mar-24,"Micronesia, F S",20
+Apr-24,"Micronesia, F S",20
+May-24,"Micronesia, F S",10
+Jun-24,"Micronesia, F S",20
+Jul-24,"Micronesia, F S",20
+Jan-19,Nauru,290
+Feb-19,Nauru,260
+Mar-19,Nauru,460
+Apr-19,Nauru,350
+May-19,Nauru,330
+Jun-19,Nauru,330
+Jul-19,Nauru,520
+Aug-19,Nauru,470
+Sep-19,Nauru,660
+Oct-19,Nauru,540
+Nov-19,Nauru,420
+Dec-19,Nauru,580
+Jan-20,Nauru,440
+Feb-20,Nauru,290
+Mar-20,Nauru,130
+Apr-20,Nauru,10
+Jun-20,Nauru,20
+Jul-20,Nauru,10
+Aug-20,Nauru,10
+Sep-20,Nauru,20
+Oct-20,Nauru,20
+Nov-20,Nauru,10
+Dec-20,Nauru,10
+Jan-21,Nauru,20
+Feb-21,Nauru,10
+Mar-21,Nauru,10
+Apr-21,Nauru,10
+May-21,Nauru,10
+Jun-21,Nauru,10
+Sep-21,Nauru,10
+Oct-21,Nauru,10
+Nov-21,Nauru,10
+Dec-21,Nauru,10
+Jan-22,Nauru,10
+Feb-22,Nauru,70
+Mar-22,Nauru,170
+Apr-22,Nauru,200
+May-22,Nauru,120
+Jun-22,Nauru,160
+Jul-22,Nauru,290
+Aug-22,Nauru,340
+Sep-22,Nauru,370
+Oct-22,Nauru,620
+Nov-22,Nauru,630
+Dec-22,Nauru,540
+Jan-23,Nauru,470
+Feb-23,Nauru,360
+Mar-23,Nauru,420
+Apr-23,Nauru,400
+May-23,Nauru,540
+Jun-23,Nauru,470
+Jul-23,Nauru,610
+Aug-23,Nauru,460
+Sep-23,Nauru,790
+Oct-23,Nauru,580
+Nov-23,Nauru,540
+Dec-23,Nauru,680
+Jan-24,Nauru,470
+Feb-24,Nauru,360
+Mar-24,Nauru,580
+Apr-24,Nauru,390
+May-24,Nauru,480
+Jun-24,Nauru,600
+Jul-24,Nauru,640
+Feb-19,Palau,20
+Mar-19,Palau,10
+May-19,Palau,10
+Jun-19,Palau,10
+Jul-19,Palau,10
+Aug-19,Palau,20
+Sep-19,Palau,10
+Oct-19,Palau,10
+Nov-19,Palau,20
+Dec-19,Palau,10
+Feb-20,Palau,10
+Jul-22,Palau,10
+Aug-22,Palau,10
+Sep-22,Palau,10
+Oct-22,Palau,10
+Nov-22,Palau,10
+Dec-22,Palau,10
+Jan-23,Palau,10
+Feb-23,Palau,20
+Mar-23,Palau,10
+Apr-23,Palau,20
+May-23,Palau,10
+Jun-23,Palau,10
+Jul-23,Palau,30
+Aug-23,Palau,20
+Sep-23,Palau,10
+Oct-23,Palau,10
+Nov-23,Palau,30
+Dec-23,Palau,20
+Jan-24,Palau,20
+Feb-24,Palau,20
+Mar-24,Palau,20
+Apr-24,Palau,20
+May-24,Palau,10
+Jun-24,Palau,20
+Jul-24,Palau,10
+Jan-19,Fiji,4390
+Feb-19,Fiji,3920
+Mar-19,Fiji,4060
+Apr-19,Fiji,4140
+May-19,Fiji,3890
+Jun-19,Fiji,3660
+Jul-19,Fiji,3520
+Aug-19,Fiji,4280
+Sep-19,Fiji,3990
+Oct-19,Fiji,3940
+Nov-19,Fiji,4870
+Dec-19,Fiji,7130
+Jan-20,Fiji,4440
+Feb-20,Fiji,3820
+Mar-20,Fiji,1950
+Apr-20,Fiji,30
+May-20,Fiji,30
+Jun-20,Fiji,30
+Jul-20,Fiji,10
+Aug-20,Fiji,20
+Sep-20,Fiji,20
+Oct-20,Fiji,60
+Nov-20,Fiji,230
+Dec-20,Fiji,50
+Jan-21,Fiji,260
+Feb-21,Fiji,70
+Mar-21,Fiji,220
+Apr-21,Fiji,220
+May-21,Fiji,90
+Jun-21,Fiji,140
+Jul-21,Fiji,50
+Aug-21,Fiji,50
+Sep-21,Fiji,60
+Oct-21,Fiji,40
+Nov-21,Fiji,160
+Dec-21,Fiji,670
+Jan-22,Fiji,1020
+Feb-22,Fiji,1450
+Mar-22,Fiji,1970
+Apr-22,Fiji,2470
+May-22,Fiji,2640
+Jun-22,Fiji,2720
+Jul-22,Fiji,3140
+Aug-22,Fiji,3230
+Sep-22,Fiji,3550
+Oct-22,Fiji,3760
+Nov-22,Fiji,3720
+Dec-22,Fiji,5680
+Jan-23,Fiji,4300
+Feb-23,Fiji,3740
+Mar-23,Fiji,4050
+Apr-23,Fiji,4770
+May-23,Fiji,4980
+Jun-23,Fiji,3980
+Jul-23,Fiji,4700
+Aug-23,Fiji,4650
+Sep-23,Fiji,5050
+Oct-23,Fiji,5190
+Nov-23,Fiji,5040
+Dec-23,Fiji,9220
+Jan-24,Fiji,6120
+Feb-24,Fiji,5090
+Mar-24,Fiji,5340
+Apr-24,Fiji,5480
+May-24,Fiji,5490
+Jun-24,Fiji,4420
+Jul-24,Fiji,4790
+Jan-19,Samoa,450
+Feb-19,Samoa,560
+Mar-19,Samoa,660
+Apr-19,Samoa,570
+May-19,Samoa,670
+Jun-19,Samoa,570
+Jul-19,Samoa,600
+Aug-19,Samoa,560
+Sep-19,Samoa,710
+Oct-19,Samoa,660
+Nov-19,Samoa,760
+Dec-19,Samoa,1010
+Jan-20,Samoa,580
+Feb-20,Samoa,580
+Mar-20,Samoa,270
+Apr-20,Samoa,30
+May-20,Samoa,10
+Oct-20,Samoa,10
+Dec-20,Samoa,10
+Apr-21,Samoa,330
+May-21,Samoa,200
+Jun-21,Samoa,530
+Jul-21,Samoa,230
+Aug-21,Samoa,320
+Sep-21,Samoa,370
+Oct-21,Samoa,330
+Nov-21,Samoa,560
+Dec-21,Samoa,470
+Jan-22,Samoa,260
+Feb-22,Samoa,10
+Mar-22,Samoa,460
+Apr-22,Samoa,220
+May-22,Samoa,150
+Jun-22,Samoa,160
+Jul-22,Samoa,180
+Aug-22,Samoa,400
+Sep-22,Samoa,390
+Oct-22,Samoa,460
+Nov-22,Samoa,690
+Dec-22,Samoa,700
+Jan-23,Samoa,360
+Feb-23,Samoa,510
+Mar-23,Samoa,560
+Apr-23,Samoa,390
+May-23,Samoa,480
+Jun-23,Samoa,790
+Jul-23,Samoa,520
+Aug-23,Samoa,560
+Sep-23,Samoa,730
+Oct-23,Samoa,610
+Nov-23,Samoa,690
+Dec-23,Samoa,880
+Jan-24,Samoa,700
+Feb-24,Samoa,820
+Mar-24,Samoa,720
+Apr-24,Samoa,600
+May-24,Samoa,660
+Jun-24,Samoa,680
+Jul-24,Samoa,560
+Jan-19,Tonga,1230
+Feb-19,Tonga,1310
+Mar-19,Tonga,1170
+Apr-19,Tonga,1350
+May-19,Tonga,1710
+Jun-19,Tonga,1220
+Jul-19,Tonga,1210
+Aug-19,Tonga,1160
+Sep-19,Tonga,1300
+Oct-19,Tonga,1520
+Nov-19,Tonga,2050
+Dec-19,Tonga,1900
+Jan-20,Tonga,1220
+Feb-20,Tonga,1080
+Mar-20,Tonga,660
+Apr-20,Tonga,60
+May-20,Tonga,10
+Jun-20,Tonga,10
+Jul-20,Tonga,10
+Oct-20,Tonga,160
+Nov-20,Tonga,140
+Dec-20,Tonga,180
+Jan-21,Tonga,160
+Feb-21,Tonga,300
+Mar-21,Tonga,240
+Apr-21,Tonga,400
+May-21,Tonga,400
+Jun-21,Tonga,350
+Jul-21,Tonga,190
+Aug-21,Tonga,10
+Sep-21,Tonga,290
+Oct-21,Tonga,370
+Nov-21,Tonga,150
+Dec-21,Tonga,180
+Jan-22,Tonga,30
+Feb-22,Tonga,20
+Mar-22,Tonga,300
+Apr-22,Tonga,290
+May-22,Tonga,280
+Jun-22,Tonga,480
+Jul-22,Tonga,460
+Aug-22,Tonga,470
+Sep-22,Tonga,660
+Oct-22,Tonga,780
+Nov-22,Tonga,1350
+Dec-22,Tonga,1360
+Jan-23,Tonga,990
+Feb-23,Tonga,960
+Mar-23,Tonga,980
+Apr-23,Tonga,1050
+May-23,Tonga,1360
+Jun-23,Tonga,1130
+Jul-23,Tonga,1000
+Aug-23,Tonga,960
+Sep-23,Tonga,1320
+Oct-23,Tonga,1140
+Nov-23,Tonga,1730
+Dec-23,Tonga,1960
+Jan-24,Tonga,1580
+Feb-24,Tonga,1270
+Mar-24,Tonga,1330
+Apr-24,Tonga,1290
+May-24,Tonga,1430
+Jun-24,Tonga,1360
+Jul-24,Tonga,1180
+Jan-19,Tuvalu,30
+Feb-19,Tuvalu,40
+Mar-19,Tuvalu,40
+Apr-19,Tuvalu,40
+May-19,Tuvalu,30
+Jun-19,Tuvalu,30
+Jul-19,Tuvalu,50
+Aug-19,Tuvalu,40
+Sep-19,Tuvalu,20
+Oct-19,Tuvalu,40
+Nov-19,Tuvalu,70
+Dec-19,Tuvalu,60
+Jan-20,Tuvalu,30
+Feb-20,Tuvalu,60
+Mar-20,Tuvalu,20
+Feb-21,Tuvalu,10
+Oct-21,Tuvalu,10
+Nov-21,Tuvalu,10
+Dec-21,Tuvalu,10
+Mar-22,Tuvalu,10
+Apr-22,Tuvalu,10
+May-22,Tuvalu,10
+Jun-22,Tuvalu,50
+Jul-22,Tuvalu,10
+Aug-22,Tuvalu,50
+Sep-22,Tuvalu,50
+Oct-22,Tuvalu,40
+Nov-22,Tuvalu,70
+Dec-22,Tuvalu,30
+Jan-23,Tuvalu,40
+Feb-23,Tuvalu,40
+Mar-23,Tuvalu,90
+Apr-23,Tuvalu,60
+May-23,Tuvalu,70
+Jun-23,Tuvalu,80
+Jul-23,Tuvalu,80
+Aug-23,Tuvalu,50
+Sep-23,Tuvalu,110
+Oct-23,Tuvalu,80
+Nov-23,Tuvalu,130
+Dec-23,Tuvalu,100
+Jan-24,Tuvalu,70
+Feb-24,Tuvalu,50
+Mar-24,Tuvalu,50
+Apr-24,Tuvalu,50
+May-24,Tuvalu,130
+Jun-24,Tuvalu,190
+Jul-24,Tuvalu,130
+Jan-19,"UK, CIs & IOM",106700
+Feb-19,"UK, CIs & IOM",102910
+Mar-19,"UK, CIs & IOM",91770
+Apr-19,"UK, CIs & IOM",81970
+May-19,"UK, CIs & IOM",52790
+Jun-19,"UK, CIs & IOM",51290
+Jul-19,"UK, CIs & IOM",66450
+Aug-19,"UK, CIs & IOM",62730
+Sep-19,"UK, CIs & IOM",68300
+Oct-19,"UK, CIs & IOM",88430
+Nov-19,"UK, CIs & IOM",89910
+Dec-19,"UK, CIs & IOM",128230
+Jan-20,"UK, CIs & IOM",103720
+Feb-20,"UK, CIs & IOM",99370
+Mar-20,"UK, CIs & IOM",50580
+Apr-20,"UK, CIs & IOM",530
+May-20,"UK, CIs & IOM",550
+Jun-20,"UK, CIs & IOM",800
+Jul-20,"UK, CIs & IOM",650
+Aug-20,"UK, CIs & IOM",640
+Sep-20,"UK, CIs & IOM",850
+Oct-20,"UK, CIs & IOM",1160
+Nov-20,"UK, CIs & IOM",1280
+Dec-20,"UK, CIs & IOM",1140
+Jan-21,"UK, CIs & IOM",1090
+Feb-21,"UK, CIs & IOM",960
+Mar-21,"UK, CIs & IOM",1040
+Apr-21,"UK, CIs & IOM",1200
+May-21,"UK, CIs & IOM",2460
+Jun-21,"UK, CIs & IOM",2230
+Jul-21,"UK, CIs & IOM",1750
+Aug-21,"UK, CIs & IOM",1090
+Sep-21,"UK, CIs & IOM",960
+Oct-21,"UK, CIs & IOM",780
+Nov-21,"UK, CIs & IOM",3400
+Dec-21,"UK, CIs & IOM",10510
+Jan-22,"UK, CIs & IOM",14280
+Feb-22,"UK, CIs & IOM",14920
+Mar-22,"UK, CIs & IOM",29770
+Apr-22,"UK, CIs & IOM",36490
+May-22,"UK, CIs & IOM",25220
+Jun-22,"UK, CIs & IOM",27500
+Jul-22,"UK, CIs & IOM",39140
+Aug-22,"UK, CIs & IOM",39200
+Sep-22,"UK, CIs & IOM",48720
+Oct-22,"UK, CIs & IOM",61890
+Nov-22,"UK, CIs & IOM",67410
+Dec-22,"UK, CIs & IOM",98120
+Jan-23,"UK, CIs & IOM",72280
+Feb-23,"UK, CIs & IOM",79360
+Mar-23,"UK, CIs & IOM",81350
+Apr-23,"UK, CIs & IOM",54100
+May-23,"UK, CIs & IOM",36500
+Jun-23,"UK, CIs & IOM",36830
+Jul-23,"UK, CIs & IOM",47120
+Aug-23,"UK, CIs & IOM",49670
+Sep-23,"UK, CIs & IOM",55030
+Oct-23,"UK, CIs & IOM",68310
+Nov-23,"UK, CIs & IOM",72280
+Dec-23,"UK, CIs & IOM",101930
+Jan-24,"UK, CIs & IOM",81990
+Feb-24,"UK, CIs & IOM",88570
+Mar-24,"UK, CIs & IOM",89430
+Apr-24,"UK, CIs & IOM",54880
+May-24,"UK, CIs & IOM",41010
+Jun-24,"UK, CIs & IOM",40570
+Jul-24,"UK, CIs & IOM",50940
+Jan-19,Ireland,15180
+Feb-19,Ireland,8840
+Mar-19,Ireland,9340
+Apr-19,Ireland,9480
+May-19,Ireland,6710
+Jun-19,Ireland,7240
+Jul-19,Ireland,8790
+Aug-19,Ireland,8820
+Sep-19,Ireland,9030
+Oct-19,Ireland,10330
+Nov-19,Ireland,9160
+Dec-19,Ireland,15100
+Jan-20,Ireland,15270
+Feb-20,Ireland,8840
+Mar-20,Ireland,5420
+Apr-20,Ireland,60
+May-20,Ireland,70
+Jun-20,Ireland,90
+Jul-20,Ireland,70
+Aug-20,Ireland,90
+Sep-20,Ireland,160
+Oct-20,Ireland,160
+Nov-20,Ireland,120
+Dec-20,Ireland,130
+Jan-21,Ireland,210
+Feb-21,Ireland,120
+Mar-21,Ireland,130
+Apr-21,Ireland,160
+May-21,Ireland,260
+Jun-21,Ireland,280
+Jul-21,Ireland,280
+Aug-21,Ireland,260
+Sep-21,Ireland,210
+Oct-21,Ireland,180
+Nov-21,Ireland,430
+Dec-21,Ireland,1210
+Jan-22,Ireland,2660
+Feb-22,Ireland,1920
+Mar-22,Ireland,3750
+Apr-22,Ireland,5070
+May-22,Ireland,4030
+Jun-22,Ireland,5050
+Jul-22,Ireland,7230
+Aug-22,Ireland,7450
+Sep-22,Ireland,8190
+Oct-22,Ireland,8120
+Nov-22,Ireland,8230
+Dec-22,Ireland,13780
+Jan-23,Ireland,11970
+Feb-23,Ireland,9290
+Mar-23,Ireland,11210
+Apr-23,Ireland,7910
+May-23,Ireland,6070
+Jun-23,Ireland,7790
+Jul-23,Ireland,9480
+Aug-23,Ireland,9400
+Sep-23,Ireland,10540
+Oct-23,Ireland,10330
+Nov-23,Ireland,10450
+Dec-23,Ireland,16710
+Jan-24,Ireland,15950
+Feb-24,Ireland,10400
+Mar-24,Ireland,13300
+Apr-24,Ireland,8750
+May-24,Ireland,7280
+Jun-24,Ireland,8570
+Jul-24,Ireland,9760
+Jan-19,Austria,2480
+Feb-19,Austria,2590
+Mar-19,Austria,2170
+Apr-19,Austria,1420
+May-19,Austria,1070
+Jun-19,Austria,1100
+Jul-19,Austria,2320
+Aug-19,Austria,1590
+Sep-19,Austria,1750
+Oct-19,Austria,2230
+Nov-19,Austria,2000
+Dec-19,Austria,3240
+Jan-20,Austria,2430
+Feb-20,Austria,2380
+Mar-20,Austria,1250
+Apr-20,Austria,20
+Jun-20,Austria,10
+Jul-20,Austria,20
+Aug-20,Austria,10
+Sep-20,Austria,20
+Oct-20,Austria,30
+Nov-20,Austria,20
+Dec-20,Austria,20
+Jan-21,Austria,60
+Feb-21,Austria,20
+Mar-21,Austria,30
+Apr-21,Austria,30
+May-21,Austria,50
+Jun-21,Austria,30
+Jul-21,Austria,30
+Aug-21,Austria,30
+Sep-21,Austria,20
+Oct-21,Austria,20
+Nov-21,Austria,70
+Dec-21,Austria,140
+Jan-22,Austria,230
+Feb-22,Austria,260
+Mar-22,Austria,500
+Apr-22,Austria,610
+May-22,Austria,490
+Jun-22,Austria,540
+Jul-22,Austria,1000
+Aug-22,Austria,880
+Sep-22,Austria,1040
+Oct-22,Austria,1420
+Nov-22,Austria,1460
+Dec-22,Austria,1890
+Jan-23,Austria,1560
+Feb-23,Austria,1990
+Mar-23,Austria,1760
+Apr-23,Austria,1100
+May-23,Austria,790
+Jun-23,Austria,870
+Jul-23,Austria,1430
+Aug-23,Austria,1160
+Sep-23,Austria,1300
+Oct-23,Austria,1800
+Nov-23,Austria,1700
+Dec-23,Austria,2340
+Jan-24,Austria,1930
+Feb-24,Austria,1960
+Mar-24,Austria,1950
+Apr-24,Austria,1190
+May-24,Austria,880
+Jun-24,Austria,840
+Jul-24,Austria,1570
+Jan-19,Belgium,2450
+Feb-19,Belgium,2380
+Mar-19,Belgium,2050
+Apr-19,Belgium,2030
+May-19,Belgium,1470
+Jun-19,Belgium,1510
+Jul-19,Belgium,2690
+Aug-19,Belgium,1820
+Sep-19,Belgium,2150
+Oct-19,Belgium,2590
+Nov-19,Belgium,2570
+Dec-19,Belgium,2960
+Jan-20,Belgium,2430
+Feb-20,Belgium,2270
+Mar-20,Belgium,1240
+Apr-20,Belgium,10
+May-20,Belgium,10
+Jun-20,Belgium,10
+Jul-20,Belgium,10
+Aug-20,Belgium,20
+Sep-20,Belgium,20
+Oct-20,Belgium,30
+Nov-20,Belgium,30
+Dec-20,Belgium,30
+Jan-21,Belgium,40
+Feb-21,Belgium,20
+Mar-21,Belgium,20
+Apr-21,Belgium,40
+May-21,Belgium,50
+Jun-21,Belgium,40
+Jul-21,Belgium,40
+Aug-21,Belgium,30
+Sep-21,Belgium,30
+Oct-21,Belgium,10
+Nov-21,Belgium,60
+Dec-21,Belgium,230
+Jan-22,Belgium,300
+Feb-22,Belgium,310
+Mar-22,Belgium,680
+Apr-22,Belgium,810
+May-22,Belgium,600
+Jun-22,Belgium,700
+Jul-22,Belgium,1190
+Aug-22,Belgium,1000
+Sep-22,Belgium,1470
+Oct-22,Belgium,1690
+Nov-22,Belgium,1640
+Dec-22,Belgium,1920
+Jan-23,Belgium,1410
+Feb-23,Belgium,1910
+Mar-23,Belgium,1790
+Apr-23,Belgium,1340
+May-23,Belgium,1000
+Jun-23,Belgium,990
+Jul-23,Belgium,1700
+Aug-23,Belgium,1190
+Sep-23,Belgium,1810
+Oct-23,Belgium,2350
+Nov-23,Belgium,2010
+Dec-23,Belgium,2290
+Jan-24,Belgium,1920
+Feb-24,Belgium,2050
+Mar-24,Belgium,2030
+Apr-24,Belgium,1410
+May-24,Belgium,1150
+Jun-24,Belgium,1220
+Jul-24,Belgium,1800
+Jan-19,France,25380
+Feb-19,France,22430
+Mar-19,France,19680
+Apr-19,France,16360
+May-19,France,14480
+Jun-19,France,14740
+Jul-19,France,20010
+Aug-19,France,18810
+Sep-19,France,17640
+Oct-19,France,21580
+Nov-19,France,20750
+Dec-19,France,27350
+Jan-20,France,24320
+Feb-20,France,20960
+Mar-20,France,10690
+Apr-20,France,90
+May-20,France,80
+Jun-20,France,110
+Jul-20,France,110
+Aug-20,France,150
+Sep-20,France,150
+Oct-20,France,280
+Nov-20,France,250
+Dec-20,France,230
+Jan-21,France,310
+Feb-21,France,220
+Mar-21,France,220
+Apr-21,France,220
+May-21,France,330
+Jun-21,France,410
+Jul-21,France,330
+Aug-21,France,220
+Sep-21,France,150
+Oct-21,France,210
+Nov-21,France,430
+Dec-21,France,1570
+Jan-22,France,2760
+Feb-22,France,2470
+Mar-22,France,4790
+Apr-22,France,7610
+May-22,France,6230
+Jun-22,France,7320
+Jul-22,France,9590
+Aug-22,France,10860
+Sep-22,France,11200
+Oct-22,France,14270
+Nov-22,France,13360
+Dec-22,France,17310
+Jan-23,France,15050
+Feb-23,France,16370
+Mar-23,France,15780
+Apr-23,France,12940
+May-23,France,12020
+Jun-23,France,11390
+Jul-23,France,13590
+Aug-23,France,14150
+Sep-23,France,15050
+Oct-23,France,18390
+Nov-23,France,17800
+Dec-23,France,22160
+Jan-24,France,21110
+Feb-24,France,18570
+Mar-24,France,18330
+Apr-24,France,15020
+May-24,France,12080
+Jun-24,France,10070
+Jul-24,France,13270
+Jan-19,Germany,24630
+Feb-19,Germany,29770
+Mar-19,Germany,24610
+Apr-19,Germany,16990
+May-19,Germany,12370
+Jun-19,Germany,11830
+Jul-19,Germany,19140
+Aug-19,Germany,17000
+Sep-19,Germany,18830
+Oct-19,Germany,23900
+Nov-19,Germany,21920
+Dec-19,Germany,33280
+Jan-20,Germany,23750
+Feb-20,Germany,25400
+Mar-20,Germany,13930
+Apr-20,Germany,220
+May-20,Germany,60
+Jun-20,Germany,130
+Jul-20,Germany,100
+Aug-20,Germany,100
+Sep-20,Germany,130
+Oct-20,Germany,200
+Nov-20,Germany,220
+Dec-20,Germany,170
+Jan-21,Germany,210
+Feb-21,Germany,170
+Mar-21,Germany,230
+Apr-21,Germany,210
+May-21,Germany,310
+Jun-21,Germany,310
+Jul-21,Germany,270
+Aug-21,Germany,170
+Sep-21,Germany,150
+Oct-21,Germany,140
+Nov-21,Germany,490
+Dec-21,Germany,1520
+Jan-22,Germany,2070
+Feb-22,Germany,2500
+Mar-22,Germany,5220
+Apr-22,Germany,6130
+May-22,Germany,4970
+Jun-22,Germany,5060
+Jul-22,Germany,9570
+Aug-22,Germany,9940
+Sep-22,Germany,11290
+Oct-22,Germany,14670
+Nov-22,Germany,14560
+Dec-22,Germany,20320
+Jan-23,Germany,15580
+Feb-23,Germany,19600
+Mar-23,Germany,18500
+Apr-23,Germany,12030
+May-23,Germany,8400
+Jun-23,Germany,8490
+Jul-23,Germany,13380
+Aug-23,Germany,12380
+Sep-23,Germany,13850
+Oct-23,Germany,17940
+Nov-23,Germany,17110
+Dec-23,Germany,24610
+Jan-24,Germany,18940
+Feb-24,Germany,21400
+Mar-24,Germany,22560
+Apr-24,Germany,12510
+May-24,Germany,9160
+Jun-24,Germany,8880
+Jul-24,Germany,14080
+Jan-19,Liechtenstein,30
+Feb-19,Liechtenstein,20
+Mar-19,Liechtenstein,20
+Apr-19,Liechtenstein,10
+May-19,Liechtenstein,10
+Jul-19,Liechtenstein,10
+Aug-19,Liechtenstein,10
+Sep-19,Liechtenstein,10
+Oct-19,Liechtenstein,10
+Nov-19,Liechtenstein,10
+Dec-19,Liechtenstein,30
+Jan-20,Liechtenstein,20
+Feb-20,Liechtenstein,10
+Mar-20,Liechtenstein,10
+Mar-22,Liechtenstein,10
+May-22,Liechtenstein,10
+Jun-22,Liechtenstein,10
+Jul-22,Liechtenstein,10
+Sep-22,Liechtenstein,10
+Oct-22,Liechtenstein,10
+Nov-22,Liechtenstein,10
+Dec-22,Liechtenstein,20
+Feb-23,Liechtenstein,10
+Mar-23,Liechtenstein,10
+Apr-23,Liechtenstein,10
+Jul-23,Liechtenstein,10
+Aug-23,Liechtenstein,10
+Sep-23,Liechtenstein,10
+Oct-23,Liechtenstein,10
+Nov-23,Liechtenstein,10
+Dec-23,Liechtenstein,20
+Jan-24,Liechtenstein,10
+Feb-24,Liechtenstein,10
+Mar-24,Liechtenstein,10
+Apr-24,Liechtenstein,10
+May-24,Liechtenstein,10
+Jul-24,Liechtenstein,10
+Jan-19,Luxembourg,110
+Feb-19,Luxembourg,120
+Mar-19,Luxembourg,130
+Apr-19,Luxembourg,80
+May-19,Luxembourg,40
+Jun-19,Luxembourg,50
+Jul-19,Luxembourg,150
+Aug-19,Luxembourg,140
+Sep-19,Luxembourg,80
+Oct-19,Luxembourg,90
+Nov-19,Luxembourg,120
+Dec-19,Luxembourg,180
+Jan-20,Luxembourg,80
+Feb-20,Luxembourg,100
+Mar-20,Luxembourg,60
+Dec-21,Luxembourg,10
+Jan-22,Luxembourg,10
+Feb-22,Luxembourg,10
+Mar-22,Luxembourg,20
+Apr-22,Luxembourg,50
+May-22,Luxembourg,30
+Jun-22,Luxembourg,20
+Jul-22,Luxembourg,70
+Aug-22,Luxembourg,60
+Sep-22,Luxembourg,60
+Oct-22,Luxembourg,50
+Nov-22,Luxembourg,70
+Dec-22,Luxembourg,100
+Jan-23,Luxembourg,70
+Feb-23,Luxembourg,80
+Mar-23,Luxembourg,150
+Apr-23,Luxembourg,70
+May-23,Luxembourg,30
+Jun-23,Luxembourg,30
+Jul-23,Luxembourg,70
+Aug-23,Luxembourg,100
+Sep-23,Luxembourg,90
+Oct-23,Luxembourg,70
+Nov-23,Luxembourg,130
+Dec-23,Luxembourg,140
+Jan-24,Luxembourg,100
+Feb-24,Luxembourg,120
+Mar-24,Luxembourg,130
+Apr-24,Luxembourg,70
+May-24,Luxembourg,40
+Jun-24,Luxembourg,40
+Jul-24,Luxembourg,100
+Mar-19,Monaco,20
+Apr-19,Monaco,10
+Jul-19,Monaco,10
+Aug-19,Monaco,10
+Sep-19,Monaco,10
+Nov-19,Monaco,10
+Dec-19,Monaco,10
+Jan-20,Monaco,10
+Mar-20,Monaco,10
+Apr-22,Monaco,10
+Sep-22,Monaco,10
+Feb-23,Monaco,10
+Mar-23,Monaco,10
+Sep-23,Monaco,10
+Dec-23,Monaco,10
+Jan-24,Monaco,10
+Mar-24,Monaco,10
+Jan-19,Netherlands,9210
+Feb-19,Netherlands,8510
+Mar-19,Netherlands,8340
+Apr-19,Netherlands,6790
+May-19,Netherlands,5200
+Jun-19,Netherlands,4910
+Jul-19,Netherlands,10510
+Aug-19,Netherlands,5870
+Sep-19,Netherlands,7160
+Oct-19,Netherlands,9470
+Nov-19,Netherlands,8850
+Dec-19,Netherlands,10800
+Jan-20,Netherlands,8540
+Feb-20,Netherlands,8210
+Mar-20,Netherlands,4390
+Apr-20,Netherlands,30
+May-20,Netherlands,50
+Jun-20,Netherlands,60
+Jul-20,Netherlands,70
+Aug-20,Netherlands,50
+Sep-20,Netherlands,100
+Oct-20,Netherlands,100
+Nov-20,Netherlands,100
+Dec-20,Netherlands,130
+Jan-21,Netherlands,140
+Feb-21,Netherlands,120
+Mar-21,Netherlands,90
+Apr-21,Netherlands,160
+May-21,Netherlands,250
+Jun-21,Netherlands,170
+Jul-21,Netherlands,150
+Aug-21,Netherlands,80
+Sep-21,Netherlands,70
+Oct-21,Netherlands,50
+Nov-21,Netherlands,250
+Dec-21,Netherlands,820
+Jan-22,Netherlands,980
+Feb-22,Netherlands,1120
+Mar-22,Netherlands,2160
+Apr-22,Netherlands,2770
+May-22,Netherlands,2420
+Jun-22,Netherlands,2480
+Jul-22,Netherlands,5200
+Aug-22,Netherlands,3640
+Sep-22,Netherlands,4950
+Oct-22,Netherlands,6130
+Nov-22,Netherlands,5910
+Dec-22,Netherlands,7600
+Jan-23,Netherlands,5740
+Feb-23,Netherlands,6730
+Mar-23,Netherlands,6190
+Apr-23,Netherlands,4940
+May-23,Netherlands,3600
+Jun-23,Netherlands,3670
+Jul-23,Netherlands,7020
+Aug-23,Netherlands,4560
+Sep-23,Netherlands,5580
+Oct-23,Netherlands,7710
+Nov-23,Netherlands,6920
+Dec-23,Netherlands,8620
+Jan-24,Netherlands,7060
+Feb-24,Netherlands,7170
+Mar-24,Netherlands,6700
+Apr-24,Netherlands,4940
+May-24,Netherlands,3790
+Jun-24,Netherlands,3740
+Jul-24,Netherlands,7370
+Jan-19,Switzerland,5660
+Feb-19,Switzerland,4890
+Mar-19,Switzerland,4350
+Apr-19,Switzerland,3410
+May-19,Switzerland,2070
+Jun-19,Switzerland,1810
+Jul-19,Switzerland,3980
+Aug-19,Switzerland,2230
+Sep-19,Switzerland,3440
+Oct-19,Switzerland,4250
+Nov-19,Switzerland,4320
+Dec-19,Switzerland,7440
+Jan-20,Switzerland,4980
+Feb-20,Switzerland,4370
+Mar-20,Switzerland,2510
+Apr-20,Switzerland,20
+May-20,Switzerland,20
+Jun-20,Switzerland,10
+Jul-20,Switzerland,20
+Aug-20,Switzerland,10
+Sep-20,Switzerland,20
+Oct-20,Switzerland,30
+Nov-20,Switzerland,20
+Dec-20,Switzerland,30
+Jan-21,Switzerland,40
+Feb-21,Switzerland,30
+Mar-21,Switzerland,30
+Apr-21,Switzerland,20
+May-21,Switzerland,40
+Jun-21,Switzerland,40
+Jul-21,Switzerland,30
+Aug-21,Switzerland,30
+Sep-21,Switzerland,20
+Oct-21,Switzerland,20
+Nov-21,Switzerland,80
+Dec-21,Switzerland,230
+Jan-22,Switzerland,250
+Feb-22,Switzerland,340
+Mar-22,Switzerland,680
+Apr-22,Switzerland,970
+May-22,Switzerland,680
+Jun-22,Switzerland,720
+Jul-22,Switzerland,1630
+Aug-22,Switzerland,1120
+Sep-22,Switzerland,1820
+Oct-22,Switzerland,2530
+Nov-22,Switzerland,2670
+Dec-22,Switzerland,4150
+Jan-23,Switzerland,3010
+Feb-23,Switzerland,3510
+Mar-23,Switzerland,3030
+Apr-23,Switzerland,2380
+May-23,Switzerland,1400
+Jun-23,Switzerland,1300
+Jul-23,Switzerland,2770
+Aug-23,Switzerland,1680
+Sep-23,Switzerland,2450
+Oct-23,Switzerland,3290
+Nov-23,Switzerland,3550
+Dec-23,Switzerland,5490
+Jan-24,Switzerland,3770
+Feb-24,Switzerland,3930
+Mar-24,Switzerland,3700
+Apr-24,Switzerland,2460
+May-24,Switzerland,1400
+Jun-24,Switzerland,1460
+Jul-24,Switzerland,2800
+Jan-19,Denmark,4280
+Feb-19,Denmark,4210
+Mar-19,Denmark,3140
+Apr-19,Denmark,2370
+May-19,Denmark,1450
+Jun-19,Denmark,1590
+Jul-19,Denmark,3160
+Aug-19,Denmark,1600
+Sep-19,Denmark,2170
+Oct-19,Denmark,3070
+Nov-19,Denmark,3050
+Dec-19,Denmark,5270
+Jan-20,Denmark,4010
+Feb-20,Denmark,4050
+Mar-20,Denmark,1620
+Apr-20,Denmark,20
+May-20,Denmark,30
+Jun-20,Denmark,20
+Jul-20,Denmark,10
+Aug-20,Denmark,20
+Sep-20,Denmark,30
+Oct-20,Denmark,40
+Nov-20,Denmark,40
+Dec-20,Denmark,40
+Jan-21,Denmark,40
+Feb-21,Denmark,30
+Mar-21,Denmark,30
+Apr-21,Denmark,30
+May-21,Denmark,50
+Jun-21,Denmark,50
+Jul-21,Denmark,30
+Aug-21,Denmark,20
+Sep-21,Denmark,10
+Oct-21,Denmark,10
+Nov-21,Denmark,110
+Dec-21,Denmark,270
+Jan-22,Denmark,310
+Feb-22,Denmark,320
+Mar-22,Denmark,680
+Apr-22,Denmark,970
+May-22,Denmark,790
+Jun-22,Denmark,780
+Jul-22,Denmark,1550
+Aug-22,Denmark,1120
+Sep-22,Denmark,1640
+Oct-22,Denmark,2450
+Nov-22,Denmark,2210
+Dec-22,Denmark,3180
+Jan-23,Denmark,2570
+Feb-23,Denmark,3400
+Mar-23,Denmark,2710
+Apr-23,Denmark,1700
+May-23,Denmark,1170
+Jun-23,Denmark,1140
+Jul-23,Denmark,2050
+Aug-23,Denmark,1300
+Sep-23,Denmark,1760
+Oct-23,Denmark,2960
+Nov-23,Denmark,2750
+Dec-23,Denmark,3740
+Jan-24,Denmark,3260
+Feb-24,Denmark,3510
+Mar-24,Denmark,2970
+Apr-24,Denmark,1760
+May-24,Denmark,1140
+Jun-24,Denmark,1130
+Jul-24,Denmark,1910
+Jan-19,Finland,2250
+Feb-19,Finland,2080
+Mar-19,Finland,1610
+Apr-19,Finland,1120
+May-19,Finland,810
+Jun-19,Finland,980
+Jul-19,Finland,1010
+Aug-19,Finland,960
+Sep-19,Finland,1190
+Oct-19,Finland,1620
+Nov-19,Finland,1990
+Dec-19,Finland,3430
+Jan-20,Finland,2020
+Feb-20,Finland,1880
+Mar-20,Finland,810
+Apr-20,Finland,10
+May-20,Finland,10
+Jun-20,Finland,10
+Jul-20,Finland,20
+Aug-20,Finland,20
+Sep-20,Finland,10
+Oct-20,Finland,20
+Nov-20,Finland,10
+Dec-20,Finland,30
+Jan-21,Finland,20
+Feb-21,Finland,10
+Mar-21,Finland,20
+Apr-21,Finland,20
+May-21,Finland,40
+Jun-21,Finland,30
+Jul-21,Finland,30
+Aug-21,Finland,20
+Sep-21,Finland,10
+Oct-21,Finland,20
+Nov-21,Finland,50
+Dec-21,Finland,100
+Jan-22,Finland,200
+Feb-22,Finland,180
+Mar-22,Finland,320
+Apr-22,Finland,400
+May-22,Finland,300
+Jun-22,Finland,430
+Jul-22,Finland,480
+Aug-22,Finland,600
+Sep-22,Finland,640
+Oct-22,Finland,890
+Nov-22,Finland,1090
+Dec-22,Finland,1670
+Jan-23,Finland,1000
+Feb-23,Finland,1290
+Mar-23,Finland,1140
+Apr-23,Finland,690
+May-23,Finland,540
+Jun-23,Finland,650
+Jul-23,Finland,690
+Aug-23,Finland,690
+Sep-23,Finland,910
+Oct-23,Finland,1170
+Nov-23,Finland,1330
+Dec-23,Finland,1940
+Jan-24,Finland,1380
+Feb-24,Finland,1470
+Mar-24,Finland,1160
+Apr-24,Finland,750
+May-24,Finland,600
+Jun-24,Finland,690
+Jul-24,Finland,670
+Jan-19,Iceland,110
+Feb-19,Iceland,170
+Mar-19,Iceland,140
+Apr-19,Iceland,160
+May-19,Iceland,90
+Jun-19,Iceland,70
+Jul-19,Iceland,90
+Aug-19,Iceland,80
+Sep-19,Iceland,80
+Oct-19,Iceland,140
+Nov-19,Iceland,100
+Dec-19,Iceland,200
+Jan-20,Iceland,100
+Feb-20,Iceland,140
+Mar-20,Iceland,60
+Oct-20,Iceland,10
+Dec-21,Iceland,10
+Jan-22,Iceland,10
+Feb-22,Iceland,10
+Mar-22,Iceland,20
+Apr-22,Iceland,50
+May-22,Iceland,30
+Jun-22,Iceland,40
+Jul-22,Iceland,40
+Aug-22,Iceland,30
+Sep-22,Iceland,50
+Oct-22,Iceland,90
+Nov-22,Iceland,90
+Dec-22,Iceland,140
+Jan-23,Iceland,90
+Feb-23,Iceland,100
+Mar-23,Iceland,100
+Apr-23,Iceland,60
+May-23,Iceland,70
+Jun-23,Iceland,60
+Jul-23,Iceland,80
+Aug-23,Iceland,40
+Sep-23,Iceland,50
+Oct-23,Iceland,70
+Nov-23,Iceland,90
+Dec-23,Iceland,100
+Jan-24,Iceland,90
+Feb-24,Iceland,80
+Mar-24,Iceland,80
+Apr-24,Iceland,50
+May-24,Iceland,50
+Jun-24,Iceland,80
+Jul-24,Iceland,90
+Jan-19,Norway,2600
+Feb-19,Norway,2920
+Mar-19,Norway,1960
+Apr-19,Norway,1910
+May-19,Norway,1010
+Jun-19,Norway,1440
+Jul-19,Norway,2550
+Aug-19,Norway,1180
+Sep-19,Norway,1380
+Oct-19,Norway,1830
+Nov-19,Norway,2070
+Dec-19,Norway,4460
+Jan-20,Norway,2380
+Feb-20,Norway,2740
+Mar-20,Norway,1140
+Apr-20,Norway,10
+May-20,Norway,20
+Jun-20,Norway,20
+Jul-20,Norway,20
+Aug-20,Norway,10
+Sep-20,Norway,20
+Oct-20,Norway,30
+Nov-20,Norway,30
+Dec-20,Norway,40
+Jan-21,Norway,30
+Feb-21,Norway,20
+Mar-21,Norway,20
+Apr-21,Norway,20
+May-21,Norway,50
+Jun-21,Norway,40
+Jul-21,Norway,30
+Aug-21,Norway,30
+Sep-21,Norway,20
+Oct-21,Norway,10
+Nov-21,Norway,90
+Dec-21,Norway,210
+Jan-22,Norway,270
+Feb-22,Norway,370
+Mar-22,Norway,420
+Apr-22,Norway,560
+May-22,Norway,410
+Jun-22,Norway,740
+Jul-22,Norway,1670
+Aug-22,Norway,860
+Sep-22,Norway,980
+Oct-22,Norway,1240
+Nov-22,Norway,1400
+Dec-22,Norway,2920
+Jan-23,Norway,1600
+Feb-23,Norway,2530
+Mar-23,Norway,1880
+Apr-23,Norway,1110
+May-23,Norway,670
+Jun-23,Norway,1110
+Jul-23,Norway,2050
+Aug-23,Norway,1000
+Sep-23,Norway,1140
+Oct-23,Norway,1530
+Nov-23,Norway,1640
+Dec-23,Norway,3140
+Jan-24,Norway,1930
+Feb-24,Norway,2590
+Mar-24,Norway,2170
+Apr-24,Norway,1070
+May-24,Norway,770
+Jun-24,Norway,1160
+Jul-24,Norway,2190
+Jan-19,Sweden,5830
+Feb-19,Sweden,5730
+Mar-19,Sweden,4020
+Apr-19,Sweden,2920
+May-19,Sweden,1740
+Jun-19,Sweden,2070
+Jul-19,Sweden,2880
+Aug-19,Sweden,2220
+Sep-19,Sweden,2550
+Oct-19,Sweden,3850
+Nov-19,Sweden,4070
+Dec-19,Sweden,10400
+Jan-20,Sweden,5620
+Feb-20,Sweden,4920
+Mar-20,Sweden,1990
+Apr-20,Sweden,10
+May-20,Sweden,20
+Jun-20,Sweden,20
+Jul-20,Sweden,30
+Aug-20,Sweden,30
+Sep-20,Sweden,30
+Oct-20,Sweden,40
+Nov-20,Sweden,50
+Dec-20,Sweden,50
+Jan-21,Sweden,60
+Feb-21,Sweden,30
+Mar-21,Sweden,40
+Apr-21,Sweden,40
+May-21,Sweden,70
+Jun-21,Sweden,70
+Jul-21,Sweden,40
+Aug-21,Sweden,50
+Sep-21,Sweden,30
+Oct-21,Sweden,30
+Nov-21,Sweden,130
+Dec-21,Sweden,430
+Jan-22,Sweden,580
+Feb-22,Sweden,630
+Mar-22,Sweden,950
+Apr-22,Sweden,1020
+May-22,Sweden,820
+Jun-22,Sweden,1050
+Jul-22,Sweden,1550
+Aug-22,Sweden,1450
+Sep-22,Sweden,1600
+Oct-22,Sweden,2120
+Nov-22,Sweden,2640
+Dec-22,Sweden,5240
+Jan-23,Sweden,2910
+Feb-23,Sweden,3500
+Mar-23,Sweden,3010
+Apr-23,Sweden,1900
+May-23,Sweden,1230
+Jun-23,Sweden,1550
+Jul-23,Sweden,1900
+Aug-23,Sweden,1800
+Sep-23,Sweden,1940
+Oct-23,Sweden,2670
+Nov-23,Sweden,3020
+Dec-23,Sweden,5690
+Jan-24,Sweden,3680
+Feb-24,Sweden,3620
+Mar-24,Sweden,2890
+Apr-24,Sweden,1740
+May-24,Sweden,1160
+Jun-24,Sweden,1570
+Jul-24,Sweden,1970
+Jan-19,Andorra,10
+Feb-19,Andorra,10
+Mar-19,Andorra,10
+Apr-19,Andorra,10
+Jul-19,Andorra,10
+Aug-19,Andorra,10
+Sep-19,Andorra,10
+Oct-19,Andorra,10
+Jan-20,Andorra,20
+Feb-20,Andorra,10
+Dec-21,Andorra,10
+Sep-22,Andorra,10
+Oct-22,Andorra,10
+Nov-22,Andorra,10
+Dec-22,Andorra,10
+Jan-23,Andorra,10
+Feb-23,Andorra,10
+Mar-23,Andorra,10
+Apr-23,Andorra,10
+Jun-23,Andorra,10
+Jul-23,Andorra,10
+Aug-23,Andorra,10
+Sep-23,Andorra,10
+Oct-23,Andorra,10
+Jan-24,Andorra,10
+Mar-24,Andorra,10
+Apr-24,Andorra,10
+Jun-24,Andorra,10
+Jul-19,Holy See,10
+Aug-19,Holy See,10
+Sep-19,Holy See,10
+Apr-23,Holy See,10
+Apr-24,Holy See,10
+Jan-19,Italy,10990
+Feb-19,Italy,8890
+Mar-19,Italy,8410
+Apr-19,Italy,6660
+May-19,Italy,6120
+Jun-19,Italy,6160
+Jul-19,Italy,9430
+Aug-19,Italy,11020
+Sep-19,Italy,9500
+Oct-19,Italy,9530
+Nov-19,Italy,9570
+Dec-19,Italy,14170
+Jan-20,Italy,10500
+Feb-20,Italy,8140
+Mar-20,Italy,3990
+Apr-20,Italy,40
+May-20,Italy,30
+Jun-20,Italy,90
+Jul-20,Italy,50
+Aug-20,Italy,40
+Sep-20,Italy,60
+Oct-20,Italy,130
+Nov-20,Italy,120
+Dec-20,Italy,90
+Jan-21,Italy,190
+Feb-21,Italy,100
+Mar-21,Italy,90
+Apr-21,Italy,120
+May-21,Italy,190
+Jun-21,Italy,200
+Jul-21,Italy,140
+Aug-21,Italy,60
+Sep-21,Italy,70
+Oct-21,Italy,70
+Nov-21,Italy,310
+Dec-21,Italy,980
+Jan-22,Italy,1500
+Feb-22,Italy,1520
+Mar-22,Italy,2530
+Apr-22,Italy,3380
+May-22,Italy,2940
+Jun-22,Italy,3320
+Jul-22,Italy,4600
+Aug-22,Italy,6550
+Sep-22,Italy,6630
+Oct-22,Italy,6330
+Nov-22,Italy,7500
+Dec-22,Italy,8380
+Jan-23,Italy,6260
+Feb-23,Italy,7390
+Mar-23,Italy,7180
+Apr-23,Italy,5090
+May-23,Italy,5000
+Jun-23,Italy,5400
+Jul-23,Italy,6400
+Aug-23,Italy,8200
+Sep-23,Italy,8120
+Oct-23,Italy,8130
+Nov-23,Italy,8350
+Dec-23,Italy,10560
+Jan-24,Italy,9200
+Feb-24,Italy,8180
+Mar-24,Italy,8030
+Apr-24,Italy,6150
+May-24,Italy,5700
+Jun-24,Italy,5640
+Jul-24,Italy,7340
+Jan-19,Malta,320
+Feb-19,Malta,200
+Mar-19,Malta,180
+Apr-19,Malta,160
+May-19,Malta,140
+Jun-19,Malta,160
+Jul-19,Malta,200
+Aug-19,Malta,350
+Sep-19,Malta,270
+Oct-19,Malta,260
+Nov-19,Malta,320
+Dec-19,Malta,510
+Jan-20,Malta,300
+Feb-20,Malta,200
+Mar-20,Malta,140
+May-21,Malta,10
+Jun-21,Malta,10
+Jul-21,Malta,10
+Nov-21,Malta,10
+Dec-21,Malta,30
+Jan-22,Malta,40
+Feb-22,Malta,10
+Mar-22,Malta,60
+Apr-22,Malta,60
+May-22,Malta,50
+Jun-22,Malta,50
+Jul-22,Malta,90
+Aug-22,Malta,110
+Sep-22,Malta,170
+Oct-22,Malta,130
+Nov-22,Malta,180
+Dec-22,Malta,360
+Jan-23,Malta,180
+Feb-23,Malta,220
+Mar-23,Malta,190
+Apr-23,Malta,110
+May-23,Malta,100
+Jun-23,Malta,100
+Jul-23,Malta,110
+Aug-23,Malta,170
+Sep-23,Malta,200
+Oct-23,Malta,210
+Nov-23,Malta,210
+Dec-23,Malta,420
+Jan-24,Malta,240
+Feb-24,Malta,220
+Mar-24,Malta,190
+Apr-24,Malta,120
+May-24,Malta,120
+Jun-24,Malta,120
+Jul-24,Malta,160
+Jan-19,Portugal,1680
+Feb-19,Portugal,1650
+Mar-19,Portugal,1430
+Apr-19,Portugal,1480
+May-19,Portugal,1010
+Jun-19,Portugal,1090
+Jul-19,Portugal,1610
+Aug-19,Portugal,1770
+Sep-19,Portugal,1420
+Oct-19,Portugal,1530
+Nov-19,Portugal,1440
+Dec-19,Portugal,2480
+Jan-20,Portugal,1750
+Feb-20,Portugal,1500
+Mar-20,Portugal,720
+Apr-20,Portugal,10
+May-20,Portugal,10
+Jun-20,Portugal,40
+Jul-20,Portugal,20
+Aug-20,Portugal,10
+Sep-20,Portugal,20
+Oct-20,Portugal,30
+Nov-20,Portugal,30
+Dec-20,Portugal,10
+Jan-21,Portugal,40
+Feb-21,Portugal,40
+Mar-21,Portugal,30
+Apr-21,Portugal,40
+May-21,Portugal,50
+Jun-21,Portugal,50
+Jul-21,Portugal,30
+Aug-21,Portugal,10
+Sep-21,Portugal,30
+Oct-21,Portugal,30
+Nov-21,Portugal,50
+Dec-21,Portugal,130
+Jan-22,Portugal,200
+Feb-22,Portugal,270
+Mar-22,Portugal,390
+Apr-22,Portugal,570
+May-22,Portugal,490
+Jun-22,Portugal,510
+Jul-22,Portugal,660
+Aug-22,Portugal,810
+Sep-22,Portugal,890
+Oct-22,Portugal,890
+Nov-22,Portugal,970
+Dec-22,Portugal,1380
+Jan-23,Portugal,1020
+Feb-23,Portugal,1200
+Mar-23,Portugal,1080
+Apr-23,Portugal,1100
+May-23,Portugal,770
+Jun-23,Portugal,810
+Jul-23,Portugal,1070
+Aug-23,Portugal,1230
+Sep-23,Portugal,1160
+Oct-23,Portugal,1260
+Nov-23,Portugal,1320
+Dec-23,Portugal,1900
+Jan-24,Portugal,1510
+Feb-24,Portugal,1450
+Mar-24,Portugal,1490
+Apr-24,Portugal,1060
+May-24,Portugal,920
+Jun-24,Portugal,860
+Jul-24,Portugal,1320
+Dec-19,San Marino,10
+Aug-23,San Marino,10
+Oct-23,San Marino,10
+Jan-19,Spain,5390
+Feb-19,Spain,4350
+Mar-19,Spain,4070
+Apr-19,Spain,3840
+May-19,Spain,3090
+Jun-19,Spain,2910
+Jul-19,Spain,5050
+Aug-19,Spain,5090
+Sep-19,Spain,4820
+Oct-19,Spain,5480
+Nov-19,Spain,4750
+Dec-19,Spain,5970
+Jan-20,Spain,5480
+Feb-20,Spain,4370
+Mar-20,Spain,2490
+Apr-20,Spain,10
+May-20,Spain,30
+Jun-20,Spain,60
+Jul-20,Spain,40
+Aug-20,Spain,30
+Sep-20,Spain,50
+Oct-20,Spain,80
+Nov-20,Spain,50
+Dec-20,Spain,90
+Jan-21,Spain,130
+Feb-21,Spain,50
+Mar-21,Spain,60
+Apr-21,Spain,70
+May-21,Spain,100
+Jun-21,Spain,110
+Jul-21,Spain,70
+Aug-21,Spain,50
+Sep-21,Spain,50
+Oct-21,Spain,40
+Nov-21,Spain,160
+Dec-21,Spain,390
+Jan-22,Spain,1020
+Feb-22,Spain,700
+Mar-22,Spain,1190
+Apr-22,Spain,1560
+May-22,Spain,1400
+Jun-22,Spain,1480
+Jul-22,Spain,2600
+Aug-22,Spain,2850
+Sep-22,Spain,3420
+Oct-22,Spain,3740
+Nov-22,Spain,3690
+Dec-22,Spain,3500
+Jan-23,Spain,3580
+Feb-23,Spain,3920
+Mar-23,Spain,4050
+Apr-23,Spain,2840
+May-23,Spain,2510
+Jun-23,Spain,2590
+Jul-23,Spain,3640
+Aug-23,Spain,4380
+Sep-23,Spain,4380
+Oct-23,Spain,4810
+Nov-23,Spain,4640
+Dec-23,Spain,4780
+Jan-24,Spain,4990
+Feb-24,Spain,4100
+Mar-24,Spain,4930
+Apr-24,Spain,3290
+May-24,Spain,2970
+Jun-24,Spain,2880
+Jul-24,Spain,4280
+Jan-19,Albania,70
+Feb-19,Albania,60
+Mar-19,Albania,70
+Apr-19,Albania,70
+May-19,Albania,30
+Jun-19,Albania,40
+Jul-19,Albania,50
+Aug-19,Albania,90
+Sep-19,Albania,120
+Oct-19,Albania,60
+Nov-19,Albania,60
+Dec-19,Albania,110
+Jan-20,Albania,90
+Feb-20,Albania,60
+Mar-20,Albania,40
+Jun-20,Albania,10
+Mar-21,Albania,10
+Apr-21,Albania,10
+May-21,Albania,10
+Nov-21,Albania,10
+Dec-21,Albania,30
+Jan-22,Albania,30
+Feb-22,Albania,40
+Mar-22,Albania,30
+Apr-22,Albania,30
+May-22,Albania,20
+Jun-22,Albania,40
+Jul-22,Albania,30
+Aug-22,Albania,80
+Sep-22,Albania,110
+Oct-22,Albania,70
+Nov-22,Albania,120
+Dec-22,Albania,130
+Jan-23,Albania,70
+Feb-23,Albania,80
+Mar-23,Albania,70
+Apr-23,Albania,60
+May-23,Albania,50
+Jun-23,Albania,50
+Jul-23,Albania,40
+Aug-23,Albania,100
+Sep-23,Albania,110
+Oct-23,Albania,70
+Nov-23,Albania,90
+Dec-23,Albania,130
+Jan-24,Albania,80
+Feb-24,Albania,70
+Mar-24,Albania,40
+Apr-24,Albania,50
+May-24,Albania,30
+Jun-24,Albania,50
+Jul-24,Albania,60
+Jan-19,Bosnia/Herzegov,190
+Feb-19,Bosnia/Herzegov,160
+Mar-19,Bosnia/Herzegov,90
+Apr-19,Bosnia/Herzegov,60
+May-19,Bosnia/Herzegov,70
+Jun-19,Bosnia/Herzegov,110
+Jul-19,Bosnia/Herzegov,100
+Aug-19,Bosnia/Herzegov,110
+Sep-19,Bosnia/Herzegov,160
+Oct-19,Bosnia/Herzegov,110
+Nov-19,Bosnia/Herzegov,150
+Dec-19,Bosnia/Herzegov,280
+Jan-20,Bosnia/Herzegov,160
+Feb-20,Bosnia/Herzegov,140
+Mar-20,Bosnia/Herzegov,60
+Dec-20,Bosnia/Herzegov,10
+Jan-21,Bosnia/Herzegov,10
+Feb-21,Bosnia/Herzegov,10
+Mar-21,Bosnia/Herzegov,10
+Apr-21,Bosnia/Herzegov,10
+May-21,Bosnia/Herzegov,10
+Jul-21,Bosnia/Herzegov,10
+Nov-21,Bosnia/Herzegov,10
+Dec-21,Bosnia/Herzegov,30
+Jan-22,Bosnia/Herzegov,30
+Feb-22,Bosnia/Herzegov,20
+Mar-22,Bosnia/Herzegov,20
+Apr-22,Bosnia/Herzegov,20
+May-22,Bosnia/Herzegov,30
+Jun-22,Bosnia/Herzegov,60
+Jul-22,Bosnia/Herzegov,40
+Aug-22,Bosnia/Herzegov,90
+Sep-22,Bosnia/Herzegov,140
+Oct-22,Bosnia/Herzegov,60
+Nov-22,Bosnia/Herzegov,120
+Dec-22,Bosnia/Herzegov,160
+Jan-23,Bosnia/Herzegov,80
+Feb-23,Bosnia/Herzegov,130
+Mar-23,Bosnia/Herzegov,90
+Apr-23,Bosnia/Herzegov,60
+May-23,Bosnia/Herzegov,60
+Jun-23,Bosnia/Herzegov,60
+Jul-23,Bosnia/Herzegov,50
+Aug-23,Bosnia/Herzegov,110
+Sep-23,Bosnia/Herzegov,140
+Oct-23,Bosnia/Herzegov,90
+Nov-23,Bosnia/Herzegov,120
+Dec-23,Bosnia/Herzegov,190
+Jan-24,Bosnia/Herzegov,110
+Feb-24,Bosnia/Herzegov,100
+Mar-24,Bosnia/Herzegov,70
+Apr-24,Bosnia/Herzegov,50
+May-24,Bosnia/Herzegov,40
+Jun-24,Bosnia/Herzegov,60
+Jul-24,Bosnia/Herzegov,60
+Jan-19,Bulgaria,340
+Feb-19,Bulgaria,390
+Mar-19,Bulgaria,260
+Apr-19,Bulgaria,200
+May-19,Bulgaria,150
+Jun-19,Bulgaria,190
+Jul-19,Bulgaria,180
+Aug-19,Bulgaria,230
+Sep-19,Bulgaria,220
+Oct-19,Bulgaria,260
+Nov-19,Bulgaria,370
+Dec-19,Bulgaria,500
+Jan-20,Bulgaria,320
+Feb-20,Bulgaria,420
+Mar-20,Bulgaria,150
+May-20,Bulgaria,10
+Jun-20,Bulgaria,20
+Jul-20,Bulgaria,10
+Aug-20,Bulgaria,10
+Oct-20,Bulgaria,10
+Nov-20,Bulgaria,10
+Dec-20,Bulgaria,10
+Jan-21,Bulgaria,20
+Mar-21,Bulgaria,20
+Apr-21,Bulgaria,10
+May-21,Bulgaria,20
+Jun-21,Bulgaria,10
+Jul-21,Bulgaria,10
+Aug-21,Bulgaria,10
+Sep-21,Bulgaria,10
+Oct-21,Bulgaria,10
+Nov-21,Bulgaria,20
+Dec-21,Bulgaria,40
+Jan-22,Bulgaria,40
+Feb-22,Bulgaria,50
+Mar-22,Bulgaria,70
+Apr-22,Bulgaria,60
+May-22,Bulgaria,80
+Jun-22,Bulgaria,80
+Jul-22,Bulgaria,100
+Aug-22,Bulgaria,120
+Sep-22,Bulgaria,140
+Oct-22,Bulgaria,150
+Nov-22,Bulgaria,260
+Dec-22,Bulgaria,310
+Jan-23,Bulgaria,230
+Feb-23,Bulgaria,270
+Mar-23,Bulgaria,250
+Apr-23,Bulgaria,190
+May-23,Bulgaria,160
+Jun-23,Bulgaria,130
+Jul-23,Bulgaria,100
+Aug-23,Bulgaria,160
+Sep-23,Bulgaria,160
+Oct-23,Bulgaria,200
+Nov-23,Bulgaria,290
+Dec-23,Bulgaria,420
+Jan-24,Bulgaria,270
+Feb-24,Bulgaria,370
+Mar-24,Bulgaria,260
+Apr-24,Bulgaria,150
+May-24,Bulgaria,130
+Jun-24,Bulgaria,140
+Jul-24,Bulgaria,160
+Jan-19,Croatia,460
+Feb-19,Croatia,490
+Mar-19,Croatia,390
+Apr-19,Croatia,310
+May-19,Croatia,220
+Jun-19,Croatia,290
+Jul-19,Croatia,320
+Aug-19,Croatia,370
+Sep-19,Croatia,400
+Oct-19,Croatia,340
+Nov-19,Croatia,460
+Dec-19,Croatia,940
+Jan-20,Croatia,600
+Feb-20,Croatia,500
+Mar-20,Croatia,210
+Apr-20,Croatia,10
+May-20,Croatia,30
+Jun-20,Croatia,40
+Jul-20,Croatia,20
+Aug-20,Croatia,20
+Sep-20,Croatia,10
+Oct-20,Croatia,20
+Nov-20,Croatia,20
+Dec-20,Croatia,20
+Jan-21,Croatia,40
+Feb-21,Croatia,30
+Mar-21,Croatia,20
+Apr-21,Croatia,30
+May-21,Croatia,30
+Jun-21,Croatia,30
+Jul-21,Croatia,20
+Aug-21,Croatia,10
+Sep-21,Croatia,20
+Oct-21,Croatia,10
+Nov-21,Croatia,20
+Dec-21,Croatia,80
+Jan-22,Croatia,100
+Feb-22,Croatia,80
+Mar-22,Croatia,110
+Apr-22,Croatia,100
+May-22,Croatia,80
+Jun-22,Croatia,100
+Jul-22,Croatia,110
+Aug-22,Croatia,200
+Sep-22,Croatia,240
+Oct-22,Croatia,210
+Nov-22,Croatia,290
+Dec-22,Croatia,430
+Jan-23,Croatia,320
+Feb-23,Croatia,310
+Mar-23,Croatia,270
+Apr-23,Croatia,180
+May-23,Croatia,170
+Jun-23,Croatia,160
+Jul-23,Croatia,210
+Aug-23,Croatia,250
+Sep-23,Croatia,280
+Oct-23,Croatia,300
+Nov-23,Croatia,340
+Dec-23,Croatia,790
+Jan-24,Croatia,520
+Feb-24,Croatia,470
+Mar-24,Croatia,370
+Apr-24,Croatia,260
+May-24,Croatia,170
+Jun-24,Croatia,150
+Jul-24,Croatia,250
+Jan-19,Cyprus,190
+Feb-19,Cyprus,210
+Mar-19,Cyprus,120
+Apr-19,Cyprus,120
+May-19,Cyprus,90
+Jun-19,Cyprus,130
+Jul-19,Cyprus,160
+Aug-19,Cyprus,150
+Sep-19,Cyprus,120
+Oct-19,Cyprus,150
+Nov-19,Cyprus,160
+Dec-19,Cyprus,430
+Jan-20,Cyprus,160
+Feb-20,Cyprus,190
+Mar-20,Cyprus,70
+Oct-20,Cyprus,10
+Aug-21,Cyprus,10
+Nov-21,Cyprus,10
+Dec-21,Cyprus,20
+Jan-22,Cyprus,20
+Feb-22,Cyprus,20
+Mar-22,Cyprus,50
+Apr-22,Cyprus,60
+May-22,Cyprus,70
+Jun-22,Cyprus,40
+Jul-22,Cyprus,80
+Aug-22,Cyprus,100
+Sep-22,Cyprus,90
+Oct-22,Cyprus,80
+Nov-22,Cyprus,120
+Dec-22,Cyprus,200
+Jan-23,Cyprus,100
+Feb-23,Cyprus,140
+Mar-23,Cyprus,120
+Apr-23,Cyprus,100
+May-23,Cyprus,90
+Jun-23,Cyprus,80
+Jul-23,Cyprus,130
+Aug-23,Cyprus,100
+Sep-23,Cyprus,110
+Oct-23,Cyprus,140
+Nov-23,Cyprus,150
+Dec-23,Cyprus,330
+Jan-24,Cyprus,170
+Feb-24,Cyprus,160
+Mar-24,Cyprus,120
+Apr-24,Cyprus,110
+May-24,Cyprus,80
+Jun-24,Cyprus,100
+Jul-24,Cyprus,120
+Jan-19,North Macedonia,300
+Feb-19,North Macedonia,260
+Mar-19,North Macedonia,190
+Apr-19,North Macedonia,150
+May-19,North Macedonia,170
+Jun-19,North Macedonia,170
+Jul-19,North Macedonia,180
+Aug-19,North Macedonia,240
+Sep-19,North Macedonia,250
+Oct-19,North Macedonia,160
+Nov-19,North Macedonia,180
+Dec-19,North Macedonia,160
+Jan-20,North Macedonia,220
+Feb-20,North Macedonia,310
+Mar-20,North Macedonia,120
+Apr-20,North Macedonia,10
+Aug-20,North Macedonia,10
+Nov-20,North Macedonia,10
+Dec-20,North Macedonia,10
+Jan-21,North Macedonia,10
+Feb-21,North Macedonia,10
+Mar-21,North Macedonia,10
+Apr-21,North Macedonia,10
+May-21,North Macedonia,10
+Jun-21,North Macedonia,10
+Jul-21,North Macedonia,10
+Aug-21,North Macedonia,10
+Sep-21,North Macedonia,10
+Oct-21,North Macedonia,10
+Nov-21,North Macedonia,30
+Dec-21,North Macedonia,150
+Jan-22,North Macedonia,50
+Feb-22,North Macedonia,80
+Mar-22,North Macedonia,80
+Apr-22,North Macedonia,50
+May-22,North Macedonia,100
+Jun-22,North Macedonia,140
+Jul-22,North Macedonia,110
+Aug-22,North Macedonia,240
+Sep-22,North Macedonia,340
+Oct-22,North Macedonia,210
+Nov-22,North Macedonia,490
+Dec-22,North Macedonia,490
+Jan-23,North Macedonia,230
+Feb-23,North Macedonia,300
+Mar-23,North Macedonia,280
+Apr-23,North Macedonia,150
+May-23,North Macedonia,140
+Jun-23,North Macedonia,160
+Jul-23,North Macedonia,140
+Aug-23,North Macedonia,290
+Sep-23,North Macedonia,340
+Oct-23,North Macedonia,290
+Nov-23,North Macedonia,330
+Dec-23,North Macedonia,530
+Jan-24,North Macedonia,220
+Feb-24,North Macedonia,220
+Mar-24,North Macedonia,150
+Apr-24,North Macedonia,140
+May-24,North Macedonia,90
+Jun-24,North Macedonia,130
+Jul-24,North Macedonia,120
+Jan-19,Greece,990
+Feb-19,Greece,960
+Mar-19,Greece,750
+Apr-19,Greece,640
+May-19,Greece,550
+Jun-19,Greece,560
+Jul-19,Greece,700
+Aug-19,Greece,820
+Sep-19,Greece,1080
+Oct-19,Greece,880
+Nov-19,Greece,890
+Dec-19,Greece,1640
+Jan-20,Greece,890
+Feb-20,Greece,880
+Mar-20,Greece,400
+Apr-20,Greece,10
+May-20,Greece,10
+Jun-20,Greece,20
+Jul-20,Greece,40
+Aug-20,Greece,20
+Sep-20,Greece,20
+Oct-20,Greece,20
+Nov-20,Greece,30
+Dec-20,Greece,30
+Jan-21,Greece,40
+Feb-21,Greece,20
+Mar-21,Greece,20
+Apr-21,Greece,20
+May-21,Greece,40
+Jun-21,Greece,20
+Jul-21,Greece,20
+Aug-21,Greece,10
+Sep-21,Greece,20
+Oct-21,Greece,20
+Nov-21,Greece,60
+Dec-21,Greece,120
+Jan-22,Greece,160
+Feb-22,Greece,140
+Mar-22,Greece,310
+Apr-22,Greece,380
+May-22,Greece,350
+Jun-22,Greece,320
+Jul-22,Greece,330
+Aug-22,Greece,620
+Sep-22,Greece,730
+Oct-22,Greece,630
+Nov-22,Greece,780
+Dec-22,Greece,880
+Jan-23,Greece,560
+Feb-23,Greece,740
+Mar-23,Greece,610
+Apr-23,Greece,500
+May-23,Greece,420
+Jun-23,Greece,430
+Jul-23,Greece,470
+Aug-23,Greece,530
+Sep-23,Greece,690
+Oct-23,Greece,640
+Nov-23,Greece,770
+Dec-23,Greece,1180
+Jan-24,Greece,620
+Feb-24,Greece,820
+Mar-24,Greece,610
+Apr-24,Greece,470
+May-24,Greece,400
+Jun-24,Greece,360
+Jul-24,Greece,430
+Jan-19,Moldova,30
+Feb-19,Moldova,40
+Mar-19,Moldova,10
+Apr-19,Moldova,20
+May-19,Moldova,10
+Jun-19,Moldova,20
+Jul-19,Moldova,20
+Aug-19,Moldova,10
+Sep-19,Moldova,20
+Oct-19,Moldova,50
+Nov-19,Moldova,40
+Dec-19,Moldova,50
+Jan-20,Moldova,30
+Feb-20,Moldova,20
+Mar-20,Moldova,20
+Dec-21,Moldova,10
+Jan-22,Moldova,10
+Feb-22,Moldova,10
+Apr-22,Moldova,10
+May-22,Moldova,10
+Jun-22,Moldova,10
+Jul-22,Moldova,10
+Aug-22,Moldova,20
+Sep-22,Moldova,20
+Oct-22,Moldova,20
+Nov-22,Moldova,20
+Dec-22,Moldova,30
+Jan-23,Moldova,10
+Feb-23,Moldova,10
+Mar-23,Moldova,20
+Apr-23,Moldova,30
+May-23,Moldova,10
+Jun-23,Moldova,10
+Jul-23,Moldova,10
+Aug-23,Moldova,20
+Sep-23,Moldova,20
+Oct-23,Moldova,10
+Nov-23,Moldova,20
+Dec-23,Moldova,30
+Jan-24,Moldova,20
+Feb-24,Moldova,20
+Mar-24,Moldova,20
+Apr-24,Moldova,20
+May-24,Moldova,10
+Jun-24,Moldova,20
+Jul-24,Moldova,10
+Jan-19,Romania,770
+Feb-19,Romania,700
+Mar-19,Romania,610
+Apr-19,Romania,440
+May-19,Romania,390
+Jun-19,Romania,340
+Jul-19,Romania,400
+Aug-19,Romania,460
+Sep-19,Romania,560
+Oct-19,Romania,600
+Nov-19,Romania,940
+Dec-19,Romania,1300
+Jan-20,Romania,820
+Feb-20,Romania,660
+Mar-20,Romania,310
+Apr-20,Romania,10
+May-20,Romania,20
+Jun-20,Romania,30
+Jul-20,Romania,20
+Aug-20,Romania,20
+Sep-20,Romania,10
+Oct-20,Romania,20
+Nov-20,Romania,30
+Dec-20,Romania,10
+Jan-21,Romania,40
+Feb-21,Romania,20
+Mar-21,Romania,50
+Apr-21,Romania,20
+May-21,Romania,40
+Jun-21,Romania,30
+Jul-21,Romania,10
+Aug-21,Romania,20
+Sep-21,Romania,10
+Oct-21,Romania,20
+Nov-21,Romania,60
+Dec-21,Romania,120
+Jan-22,Romania,100
+Feb-22,Romania,140
+Mar-22,Romania,190
+Apr-22,Romania,240
+May-22,Romania,220
+Jun-22,Romania,200
+Jul-22,Romania,210
+Aug-22,Romania,250
+Sep-22,Romania,350
+Oct-22,Romania,380
+Nov-22,Romania,670
+Dec-22,Romania,780
+Jan-23,Romania,480
+Feb-23,Romania,750
+Mar-23,Romania,520
+Apr-23,Romania,350
+May-23,Romania,290
+Jun-23,Romania,360
+Jul-23,Romania,370
+Aug-23,Romania,390
+Sep-23,Romania,380
+Oct-23,Romania,530
+Nov-23,Romania,730
+Dec-23,Romania,1030
+Jan-24,Romania,750
+Feb-24,Romania,570
+Mar-24,Romania,590
+Apr-24,Romania,410
+May-24,Romania,350
+Jun-24,Romania,300
+Jul-24,Romania,380
+Jan-19,Slovenia,360
+Feb-19,Slovenia,440
+Mar-19,Slovenia,280
+Apr-19,Slovenia,160
+May-19,Slovenia,150
+Jun-19,Slovenia,190
+Jul-19,Slovenia,250
+Aug-19,Slovenia,190
+Sep-19,Slovenia,200
+Oct-19,Slovenia,270
+Nov-19,Slovenia,300
+Dec-19,Slovenia,530
+Jan-20,Slovenia,360
+Feb-20,Slovenia,350
+Mar-20,Slovenia,130
+Apr-20,Slovenia,10
+Dec-20,Slovenia,10
+Jan-21,Slovenia,10
+Feb-21,Slovenia,10
+Mar-21,Slovenia,10
+May-21,Slovenia,10
+Jun-21,Slovenia,20
+Aug-21,Slovenia,10
+Oct-21,Slovenia,10
+Nov-21,Slovenia,10
+Dec-21,Slovenia,30
+Jan-22,Slovenia,30
+Feb-22,Slovenia,30
+Mar-22,Slovenia,60
+Apr-22,Slovenia,70
+May-22,Slovenia,50
+Jun-22,Slovenia,80
+Jul-22,Slovenia,110
+Aug-22,Slovenia,90
+Sep-22,Slovenia,160
+Oct-22,Slovenia,110
+Nov-22,Slovenia,170
+Dec-22,Slovenia,190
+Jan-23,Slovenia,170
+Feb-23,Slovenia,230
+Mar-23,Slovenia,200
+Apr-23,Slovenia,140
+May-23,Slovenia,80
+Jun-23,Slovenia,130
+Jul-23,Slovenia,170
+Aug-23,Slovenia,190
+Sep-23,Slovenia,280
+Oct-23,Slovenia,210
+Nov-23,Slovenia,210
+Dec-23,Slovenia,330
+Jan-24,Slovenia,260
+Feb-24,Slovenia,310
+Mar-24,Slovenia,200
+Apr-24,Slovenia,150
+May-24,Slovenia,100
+Jun-24,Slovenia,120
+Jul-24,Slovenia,160
+Jan-19,Montenegro,50
+Feb-19,Montenegro,30
+Mar-19,Montenegro,30
+Apr-19,Montenegro,20
+May-19,Montenegro,10
+Jun-19,Montenegro,20
+Jul-19,Montenegro,20
+Aug-19,Montenegro,30
+Sep-19,Montenegro,30
+Oct-19,Montenegro,30
+Nov-19,Montenegro,20
+Dec-19,Montenegro,50
+Jan-20,Montenegro,50
+Feb-20,Montenegro,30
+Mar-20,Montenegro,10
+Mar-21,Montenegro,10
+Jul-21,Montenegro,10
+Nov-21,Montenegro,10
+Dec-21,Montenegro,10
+Jan-22,Montenegro,10
+Feb-22,Montenegro,10
+Mar-22,Montenegro,10
+Apr-22,Montenegro,20
+May-22,Montenegro,20
+Jun-22,Montenegro,10
+Jul-22,Montenegro,10
+Aug-22,Montenegro,20
+Sep-22,Montenegro,30
+Oct-22,Montenegro,10
+Nov-22,Montenegro,50
+Dec-22,Montenegro,60
+Jan-23,Montenegro,40
+Feb-23,Montenegro,40
+Mar-23,Montenegro,40
+Apr-23,Montenegro,10
+May-23,Montenegro,10
+Jun-23,Montenegro,10
+Jul-23,Montenegro,10
+Aug-23,Montenegro,20
+Sep-23,Montenegro,20
+Oct-23,Montenegro,30
+Nov-23,Montenegro,20
+Dec-23,Montenegro,50
+Jan-24,Montenegro,30
+Feb-24,Montenegro,30
+Mar-24,Montenegro,30
+Apr-24,Montenegro,20
+May-24,Montenegro,20
+Jun-24,Montenegro,10
+Jul-24,Montenegro,20
+Jan-19,Serbia,500
+Feb-19,Serbia,400
+Mar-19,Serbia,270
+Apr-19,Serbia,210
+May-19,Serbia,210
+Jun-19,Serbia,230
+Jul-19,Serbia,270
+Aug-19,Serbia,280
+Sep-19,Serbia,330
+Oct-19,Serbia,380
+Nov-19,Serbia,470
+Dec-19,Serbia,680
+Jan-20,Serbia,570
+Feb-20,Serbia,390
+Mar-20,Serbia,160
+Jun-20,Serbia,10
+Jul-20,Serbia,10
+Aug-20,Serbia,10
+Sep-20,Serbia,10
+Oct-20,Serbia,20
+Nov-20,Serbia,10
+Dec-20,Serbia,10
+Jan-21,Serbia,30
+Feb-21,Serbia,10
+Mar-21,Serbia,10
+Apr-21,Serbia,20
+May-21,Serbia,10
+Jun-21,Serbia,10
+Jul-21,Serbia,10
+Aug-21,Serbia,10
+Nov-21,Serbia,20
+Dec-21,Serbia,80
+Jan-22,Serbia,80
+Feb-22,Serbia,70
+Mar-22,Serbia,60
+Apr-22,Serbia,80
+May-22,Serbia,90
+Jun-22,Serbia,110
+Jul-22,Serbia,160
+Aug-22,Serbia,190
+Sep-22,Serbia,270
+Oct-22,Serbia,180
+Nov-22,Serbia,320
+Dec-22,Serbia,350
+Jan-23,Serbia,290
+Feb-23,Serbia,290
+Mar-23,Serbia,250
+Apr-23,Serbia,180
+May-23,Serbia,180
+Jun-23,Serbia,170
+Jul-23,Serbia,180
+Aug-23,Serbia,210
+Sep-23,Serbia,340
+Oct-23,Serbia,230
+Nov-23,Serbia,380
+Dec-23,Serbia,540
+Jan-24,Serbia,340
+Feb-24,Serbia,320
+Mar-24,Serbia,210
+Apr-24,Serbia,160
+May-24,Serbia,150
+Jun-24,Serbia,210
+Jul-24,Serbia,170
+Jan-19,Kosovo,20
+Feb-19,Kosovo,20
+Mar-19,Kosovo,10
+Apr-19,Kosovo,10
+May-19,Kosovo,20
+Jun-19,Kosovo,10
+Jul-19,Kosovo,20
+Aug-19,Kosovo,30
+Sep-19,Kosovo,40
+Oct-19,Kosovo,30
+Nov-19,Kosovo,10
+Dec-19,Kosovo,30
+Jan-20,Kosovo,20
+Feb-20,Kosovo,20
+Mar-20,Kosovo,10
+Dec-21,Kosovo,10
+Jan-22,Kosovo,20
+Feb-22,Kosovo,10
+Mar-22,Kosovo,10
+Apr-22,Kosovo,10
+Jun-22,Kosovo,10
+Aug-22,Kosovo,30
+Sep-22,Kosovo,40
+Oct-22,Kosovo,20
+Nov-22,Kosovo,20
+Dec-22,Kosovo,30
+Jan-23,Kosovo,20
+Feb-23,Kosovo,10
+Mar-23,Kosovo,20
+Apr-23,Kosovo,20
+May-23,Kosovo,20
+Jun-23,Kosovo,10
+Jul-23,Kosovo,10
+Aug-23,Kosovo,30
+Sep-23,Kosovo,40
+Oct-23,Kosovo,20
+Nov-23,Kosovo,20
+Dec-23,Kosovo,40
+Jan-24,Kosovo,20
+Feb-24,Kosovo,20
+Mar-24,Kosovo,20
+Apr-24,Kosovo,20
+May-24,Kosovo,20
+Jun-24,Kosovo,20
+Jul-24,Kosovo,20
+Jan-19,Belarus,150
+Feb-19,Belarus,90
+Mar-19,Belarus,100
+Apr-19,Belarus,90
+May-19,Belarus,80
+Jun-19,Belarus,70
+Jul-19,Belarus,110
+Aug-19,Belarus,70
+Sep-19,Belarus,80
+Oct-19,Belarus,110
+Nov-19,Belarus,120
+Dec-19,Belarus,180
+Jan-20,Belarus,130
+Feb-20,Belarus,110
+Mar-20,Belarus,70
+Nov-20,Belarus,10
+Dec-20,Belarus,10
+Jan-21,Belarus,20
+May-21,Belarus,10
+Jun-21,Belarus,10
+Nov-21,Belarus,10
+Dec-21,Belarus,30
+Jan-22,Belarus,20
+Feb-22,Belarus,20
+Mar-22,Belarus,30
+Apr-22,Belarus,20
+May-22,Belarus,20
+Jun-22,Belarus,30
+Jul-22,Belarus,40
+Aug-22,Belarus,60
+Sep-22,Belarus,40
+Oct-22,Belarus,50
+Nov-22,Belarus,120
+Dec-22,Belarus,90
+Jan-23,Belarus,60
+Feb-23,Belarus,110
+Mar-23,Belarus,100
+Apr-23,Belarus,50
+May-23,Belarus,40
+Jun-23,Belarus,60
+Jul-23,Belarus,50
+Aug-23,Belarus,60
+Sep-23,Belarus,70
+Oct-23,Belarus,80
+Nov-23,Belarus,90
+Dec-23,Belarus,160
+Jan-24,Belarus,90
+Feb-24,Belarus,90
+Mar-24,Belarus,110
+Apr-24,Belarus,30
+May-24,Belarus,60
+Jun-24,Belarus,40
+Jul-24,Belarus,50
+Jan-19,Czechia,1890
+Feb-19,Czechia,1870
+Mar-19,Czechia,1320
+Apr-19,Czechia,980
+May-19,Czechia,680
+Jun-19,Czechia,690
+Jul-19,Czechia,860
+Aug-19,Czechia,900
+Sep-19,Czechia,1060
+Oct-19,Czechia,1290
+Nov-19,Czechia,1310
+Dec-19,Czechia,1970
+Jan-20,Czechia,1730
+Feb-20,Czechia,1690
+Mar-20,Czechia,680
+Apr-20,Czechia,10
+Jun-20,Czechia,10
+Jul-20,Czechia,10
+Aug-20,Czechia,20
+Sep-20,Czechia,10
+Oct-20,Czechia,20
+Nov-20,Czechia,20
+Dec-20,Czechia,20
+Jan-21,Czechia,50
+Feb-21,Czechia,20
+Apr-21,Czechia,20
+May-21,Czechia,50
+Jun-21,Czechia,40
+Jul-21,Czechia,20
+Aug-21,Czechia,10
+Sep-21,Czechia,10
+Oct-21,Czechia,10
+Nov-21,Czechia,40
+Dec-21,Czechia,140
+Jan-22,Czechia,160
+Feb-22,Czechia,180
+Mar-22,Czechia,320
+Apr-22,Czechia,270
+May-22,Czechia,280
+Jun-22,Czechia,310
+Jul-22,Czechia,410
+Aug-22,Czechia,580
+Sep-22,Czechia,650
+Oct-22,Czechia,580
+Nov-22,Czechia,850
+Dec-22,Czechia,1030
+Jan-23,Czechia,810
+Feb-23,Czechia,1170
+Mar-23,Czechia,940
+Apr-23,Czechia,590
+May-23,Czechia,400
+Jun-23,Czechia,470
+Jul-23,Czechia,640
+Aug-23,Czechia,670
+Sep-23,Czechia,740
+Oct-23,Czechia,940
+Nov-23,Czechia,990
+Dec-23,Czechia,1310
+Jan-24,Czechia,1140
+Feb-24,Czechia,1400
+Mar-24,Czechia,1200
+Apr-24,Czechia,650
+May-24,Czechia,460
+Jun-24,Czechia,560
+Jul-24,Czechia,760
+Jan-19,Estonia,750
+Feb-19,Estonia,580
+Mar-19,Estonia,540
+Apr-19,Estonia,370
+May-19,Estonia,280
+Jun-19,Estonia,280
+Jul-19,Estonia,420
+Aug-19,Estonia,620
+Sep-19,Estonia,490
+Oct-19,Estonia,550
+Nov-19,Estonia,600
+Dec-19,Estonia,720
+Jan-20,Estonia,670
+Feb-20,Estonia,570
+Mar-20,Estonia,270
+Apr-20,Estonia,10
+Jul-20,Estonia,10
+Aug-20,Estonia,10
+Sep-20,Estonia,10
+Oct-20,Estonia,10
+Nov-20,Estonia,10
+Jan-21,Estonia,10
+Feb-21,Estonia,10
+Mar-21,Estonia,10
+Apr-21,Estonia,10
+Jun-21,Estonia,10
+Jul-21,Estonia,10
+Oct-21,Estonia,10
+Nov-21,Estonia,10
+Dec-21,Estonia,40
+Jan-22,Estonia,60
+Feb-22,Estonia,90
+Mar-22,Estonia,160
+Apr-22,Estonia,170
+May-22,Estonia,110
+Jun-22,Estonia,160
+Jul-22,Estonia,260
+Aug-22,Estonia,450
+Sep-22,Estonia,430
+Oct-22,Estonia,420
+Nov-22,Estonia,510
+Dec-22,Estonia,460
+Jan-23,Estonia,470
+Feb-23,Estonia,520
+Mar-23,Estonia,520
+Apr-23,Estonia,310
+May-23,Estonia,230
+Jun-23,Estonia,270
+Jul-23,Estonia,320
+Aug-23,Estonia,590
+Sep-23,Estonia,650
+Oct-23,Estonia,610
+Nov-23,Estonia,620
+Dec-23,Estonia,580
+Jan-24,Estonia,660
+Feb-24,Estonia,600
+Mar-24,Estonia,490
+Apr-24,Estonia,330
+May-24,Estonia,230
+Jun-24,Estonia,250
+Jul-24,Estonia,410
+Jan-19,Hungary,1190
+Feb-19,Hungary,1150
+Mar-19,Hungary,800
+Apr-19,Hungary,570
+May-19,Hungary,450
+Jun-19,Hungary,470
+Jul-19,Hungary,640
+Aug-19,Hungary,570
+Sep-19,Hungary,600
+Oct-19,Hungary,740
+Nov-19,Hungary,950
+Dec-19,Hungary,1550
+Jan-20,Hungary,1160
+Feb-20,Hungary,1000
+Mar-20,Hungary,470
+Apr-20,Hungary,10
+Jun-20,Hungary,10
+Jul-20,Hungary,10
+Aug-20,Hungary,10
+Sep-20,Hungary,10
+Oct-20,Hungary,10
+Nov-20,Hungary,10
+Dec-20,Hungary,10
+Jan-21,Hungary,20
+Mar-21,Hungary,10
+Apr-21,Hungary,10
+May-21,Hungary,20
+Jun-21,Hungary,20
+Jul-21,Hungary,20
+Sep-21,Hungary,10
+Oct-21,Hungary,10
+Nov-21,Hungary,40
+Dec-21,Hungary,90
+Jan-22,Hungary,140
+Feb-22,Hungary,130
+Mar-22,Hungary,240
+Apr-22,Hungary,280
+May-22,Hungary,220
+Jun-22,Hungary,250
+Jul-22,Hungary,350
+Aug-22,Hungary,360
+Sep-22,Hungary,440
+Oct-22,Hungary,470
+Nov-22,Hungary,740
+Dec-22,Hungary,870
+Jan-23,Hungary,680
+Feb-23,Hungary,860
+Mar-23,Hungary,740
+Apr-23,Hungary,500
+May-23,Hungary,310
+Jun-23,Hungary,380
+Jul-23,Hungary,360
+Aug-23,Hungary,410
+Sep-23,Hungary,480
+Oct-23,Hungary,630
+Nov-23,Hungary,730
+Dec-23,Hungary,1280
+Jan-24,Hungary,910
+Feb-24,Hungary,890
+Mar-24,Hungary,810
+Apr-24,Hungary,420
+May-24,Hungary,330
+Jun-24,Hungary,370
+Jul-24,Hungary,420
+Jan-19,Latvia,230
+Feb-19,Latvia,200
+Mar-19,Latvia,180
+Apr-19,Latvia,140
+May-19,Latvia,80
+Jun-19,Latvia,110
+Jul-19,Latvia,180
+Aug-19,Latvia,100
+Sep-19,Latvia,120
+Oct-19,Latvia,200
+Nov-19,Latvia,250
+Dec-19,Latvia,320
+Jan-20,Latvia,290
+Feb-20,Latvia,230
+Mar-20,Latvia,120
+Jun-20,Latvia,20
+Aug-20,Latvia,10
+Sep-20,Latvia,10
+Oct-20,Latvia,10
+Dec-20,Latvia,10
+Jan-21,Latvia,20
+Apr-21,Latvia,10
+May-21,Latvia,10
+Jun-21,Latvia,20
+Jul-21,Latvia,10
+Aug-21,Latvia,10
+Nov-21,Latvia,10
+Dec-21,Latvia,30
+Jan-22,Latvia,40
+Feb-22,Latvia,30
+Mar-22,Latvia,60
+Apr-22,Latvia,70
+May-22,Latvia,40
+Jun-22,Latvia,60
+Jul-22,Latvia,80
+Aug-22,Latvia,80
+Sep-22,Latvia,120
+Oct-22,Latvia,90
+Nov-22,Latvia,180
+Dec-22,Latvia,240
+Jan-23,Latvia,150
+Feb-23,Latvia,210
+Mar-23,Latvia,130
+Apr-23,Latvia,110
+May-23,Latvia,90
+Jun-23,Latvia,80
+Jul-23,Latvia,90
+Aug-23,Latvia,130
+Sep-23,Latvia,180
+Oct-23,Latvia,160
+Nov-23,Latvia,150
+Dec-23,Latvia,280
+Jan-24,Latvia,200
+Feb-24,Latvia,180
+Mar-24,Latvia,230
+Apr-24,Latvia,130
+May-24,Latvia,110
+Jun-24,Latvia,110
+Jul-24,Latvia,110
+Jan-19,Lithuania,420
+Feb-19,Lithuania,450
+Mar-19,Lithuania,480
+Apr-19,Lithuania,270
+May-19,Lithuania,230
+Jun-19,Lithuania,220
+Jul-19,Lithuania,280
+Aug-19,Lithuania,300
+Sep-19,Lithuania,300
+Oct-19,Lithuania,330
+Nov-19,Lithuania,370
+Dec-19,Lithuania,490
+Jan-20,Lithuania,420
+Feb-20,Lithuania,430
+Mar-20,Lithuania,260
+Jun-20,Lithuania,10
+Jul-20,Lithuania,10
+Oct-20,Lithuania,10
+Nov-20,Lithuania,10
+Dec-20,Lithuania,20
+Jan-21,Lithuania,10
+Feb-21,Lithuania,10
+Mar-21,Lithuania,10
+Apr-21,Lithuania,10
+May-21,Lithuania,10
+Jun-21,Lithuania,10
+Jul-21,Lithuania,10
+Aug-21,Lithuania,10
+Sep-21,Lithuania,10
+Oct-21,Lithuania,20
+Nov-21,Lithuania,20
+Dec-21,Lithuania,40
+Jan-22,Lithuania,110
+Feb-22,Lithuania,80
+Mar-22,Lithuania,120
+Apr-22,Lithuania,140
+May-22,Lithuania,130
+Jun-22,Lithuania,150
+Jul-22,Lithuania,190
+Aug-22,Lithuania,250
+Sep-22,Lithuania,310
+Oct-22,Lithuania,270
+Nov-22,Lithuania,300
+Dec-22,Lithuania,350
+Jan-23,Lithuania,270
+Feb-23,Lithuania,370
+Mar-23,Lithuania,410
+Apr-23,Lithuania,230
+May-23,Lithuania,250
+Jun-23,Lithuania,240
+Jul-23,Lithuania,250
+Aug-23,Lithuania,350
+Sep-23,Lithuania,340
+Oct-23,Lithuania,520
+Nov-23,Lithuania,440
+Dec-23,Lithuania,470
+Jan-24,Lithuania,420
+Feb-24,Lithuania,370
+Mar-24,Lithuania,480
+Apr-24,Lithuania,370
+May-24,Lithuania,230
+Jun-24,Lithuania,260
+Jul-24,Lithuania,310
+Jan-19,Poland,3510
+Feb-19,Poland,3400
+Mar-19,Poland,2710
+Apr-19,Poland,1670
+May-19,Poland,1390
+Jun-19,Poland,1450
+Jul-19,Poland,1730
+Aug-19,Poland,1920
+Sep-19,Poland,1990
+Oct-19,Poland,2570
+Nov-19,Poland,3680
+Dec-19,Poland,4050
+Jan-20,Poland,3520
+Feb-20,Poland,3390
+Mar-20,Poland,1400
+Apr-20,Poland,20
+May-20,Poland,30
+Jun-20,Poland,60
+Jul-20,Poland,30
+Aug-20,Poland,30
+Sep-20,Poland,10
+Oct-20,Poland,50
+Nov-20,Poland,40
+Dec-20,Poland,50
+Jan-21,Poland,90
+Feb-21,Poland,50
+Mar-21,Poland,40
+Apr-21,Poland,50
+May-21,Poland,80
+Jun-21,Poland,50
+Jul-21,Poland,40
+Aug-21,Poland,20
+Sep-21,Poland,40
+Oct-21,Poland,20
+Nov-21,Poland,80
+Dec-21,Poland,250
+Jan-22,Poland,340
+Feb-22,Poland,340
+Mar-22,Poland,670
+Apr-22,Poland,710
+May-22,Poland,590
+Jun-22,Poland,750
+Jul-22,Poland,860
+Aug-22,Poland,1060
+Sep-22,Poland,1220
+Oct-22,Poland,1500
+Nov-22,Poland,1910
+Dec-22,Poland,2140
+Jan-23,Poland,1630
+Feb-23,Poland,2310
+Mar-23,Poland,2010
+Apr-23,Poland,1190
+May-23,Poland,960
+Jun-23,Poland,1130
+Jul-23,Poland,1150
+Aug-23,Poland,1470
+Sep-23,Poland,1530
+Oct-23,Poland,1810
+Nov-23,Poland,2740
+Dec-23,Poland,2880
+Jan-24,Poland,2900
+Feb-24,Poland,2860
+Mar-24,Poland,2530
+Apr-24,Poland,1500
+May-24,Poland,1100
+Jun-24,Poland,1040
+Jul-24,Poland,1300
+Jan-19,Russia,3010
+Feb-19,Russia,2320
+Mar-19,Russia,2180
+Apr-19,Russia,1740
+May-19,Russia,1450
+Jun-19,Russia,1480
+Jul-19,Russia,1920
+Aug-19,Russia,1740
+Sep-19,Russia,1860
+Oct-19,Russia,2180
+Nov-19,Russia,2260
+Dec-19,Russia,4240
+Jan-20,Russia,3010
+Feb-20,Russia,2520
+Mar-20,Russia,1400
+Apr-20,Russia,20
+May-20,Russia,30
+Jun-20,Russia,40
+Jul-20,Russia,30
+Aug-20,Russia,30
+Sep-20,Russia,20
+Oct-20,Russia,50
+Nov-20,Russia,60
+Dec-20,Russia,80
+Jan-21,Russia,90
+Feb-21,Russia,60
+Mar-21,Russia,60
+Apr-21,Russia,70
+May-21,Russia,100
+Jun-21,Russia,90
+Jul-21,Russia,60
+Aug-21,Russia,50
+Sep-21,Russia,40
+Oct-21,Russia,60
+Nov-21,Russia,140
+Dec-21,Russia,280
+Jan-22,Russia,400
+Feb-22,Russia,440
+Mar-22,Russia,490
+Apr-22,Russia,310
+May-22,Russia,310
+Jun-22,Russia,540
+Jul-22,Russia,630
+Aug-22,Russia,840
+Sep-22,Russia,870
+Oct-22,Russia,1060
+Nov-22,Russia,1570
+Dec-22,Russia,1990
+Jan-23,Russia,1220
+Feb-23,Russia,1720
+Mar-23,Russia,1600
+Apr-23,Russia,1270
+May-23,Russia,1000
+Jun-23,Russia,1120
+Jul-23,Russia,1190
+Aug-23,Russia,1340
+Sep-23,Russia,1190
+Oct-23,Russia,1460
+Nov-23,Russia,1690
+Dec-23,Russia,2780
+Jan-24,Russia,1870
+Feb-24,Russia,1610
+Mar-24,Russia,1580
+Apr-24,Russia,1210
+May-24,Russia,970
+Jun-24,Russia,1040
+Jul-24,Russia,1380
+Jan-19,Slovakia,960
+Feb-19,Slovakia,730
+Mar-19,Slovakia,600
+Apr-19,Slovakia,450
+May-19,Slovakia,330
+Jun-19,Slovakia,380
+Jul-19,Slovakia,400
+Aug-19,Slovakia,460
+Sep-19,Slovakia,480
+Oct-19,Slovakia,510
+Nov-19,Slovakia,680
+Dec-19,Slovakia,1050
+Jan-20,Slovakia,860
+Feb-20,Slovakia,760
+Mar-20,Slovakia,270
+Jul-20,Slovakia,10
+Sep-20,Slovakia,10
+Jan-21,Slovakia,20
+Feb-21,Slovakia,10
+Apr-21,Slovakia,10
+May-21,Slovakia,10
+Jun-21,Slovakia,20
+Jul-21,Slovakia,10
+Aug-21,Slovakia,10
+Sep-21,Slovakia,10
+Nov-21,Slovakia,20
+Dec-21,Slovakia,100
+Jan-22,Slovakia,110
+Feb-22,Slovakia,100
+Mar-22,Slovakia,170
+Apr-22,Slovakia,180
+May-22,Slovakia,120
+Jun-22,Slovakia,180
+Jul-22,Slovakia,270
+Aug-22,Slovakia,310
+Sep-22,Slovakia,390
+Oct-22,Slovakia,320
+Nov-22,Slovakia,400
+Dec-22,Slovakia,620
+Jan-23,Slovakia,480
+Feb-23,Slovakia,580
+Mar-23,Slovakia,430
+Apr-23,Slovakia,240
+May-23,Slovakia,190
+Jun-23,Slovakia,240
+Jul-23,Slovakia,280
+Aug-23,Slovakia,320
+Sep-23,Slovakia,370
+Oct-23,Slovakia,420
+Nov-23,Slovakia,470
+Dec-23,Slovakia,820
+Jan-24,Slovakia,630
+Feb-24,Slovakia,550
+Mar-24,Slovakia,570
+Apr-24,Slovakia,280
+May-24,Slovakia,220
+Jun-24,Slovakia,250
+Jul-24,Slovakia,310
+Jan-19,Ukraine,720
+Feb-19,Ukraine,710
+Mar-19,Ukraine,620
+Apr-19,Ukraine,430
+May-19,Ukraine,470
+Jun-19,Ukraine,390
+Jul-19,Ukraine,550
+Aug-19,Ukraine,550
+Sep-19,Ukraine,550
+Oct-19,Ukraine,570
+Nov-19,Ukraine,630
+Dec-19,Ukraine,820
+Jan-20,Ukraine,740
+Feb-20,Ukraine,690
+Mar-20,Ukraine,380
+Apr-20,Ukraine,10
+May-20,Ukraine,20
+Jun-20,Ukraine,100
+Jul-20,Ukraine,70
+Aug-20,Ukraine,100
+Sep-20,Ukraine,60
+Oct-20,Ukraine,60
+Nov-20,Ukraine,60
+Dec-20,Ukraine,50
+Jan-21,Ukraine,50
+Feb-21,Ukraine,50
+Mar-21,Ukraine,90
+Apr-21,Ukraine,60
+May-21,Ukraine,100
+Jun-21,Ukraine,90
+Jul-21,Ukraine,40
+Aug-21,Ukraine,70
+Sep-21,Ukraine,60
+Oct-21,Ukraine,110
+Nov-21,Ukraine,130
+Dec-21,Ukraine,240
+Jan-22,Ukraine,210
+Feb-22,Ukraine,190
+Mar-22,Ukraine,1860
+Apr-22,Ukraine,1360
+May-22,Ukraine,960
+Jun-22,Ukraine,830
+Jul-22,Ukraine,1080
+Aug-22,Ukraine,490
+Sep-22,Ukraine,540
+Oct-22,Ukraine,600
+Nov-22,Ukraine,720
+Dec-22,Ukraine,740
+Jan-23,Ukraine,490
+Feb-23,Ukraine,550
+Mar-23,Ukraine,630
+Apr-23,Ukraine,400
+May-23,Ukraine,420
+Jun-23,Ukraine,390
+Jul-23,Ukraine,370
+Aug-23,Ukraine,400
+Sep-23,Ukraine,480
+Oct-23,Ukraine,460
+Nov-23,Ukraine,620
+Dec-23,Ukraine,680
+Jan-24,Ukraine,570
+Feb-24,Ukraine,550
+Mar-24,Ukraine,560
+Apr-24,Ukraine,400
+May-24,Ukraine,420
+Jun-24,Ukraine,470
+Jul-24,Ukraine,430
+Jan-19,Algeria,50
+Feb-19,Algeria,30
+Mar-19,Algeria,30
+Apr-19,Algeria,20
+May-19,Algeria,30
+Jun-19,Algeria,20
+Jul-19,Algeria,60
+Aug-19,Algeria,30
+Sep-19,Algeria,30
+Oct-19,Algeria,40
+Nov-19,Algeria,20
+Dec-19,Algeria,30
+Jan-20,Algeria,30
+Feb-20,Algeria,20
+Mar-20,Algeria,20
+Jul-21,Algeria,10
+Dec-21,Algeria,10
+Jan-22,Algeria,10
+Feb-22,Algeria,20
+Mar-22,Algeria,10
+Apr-22,Algeria,10
+May-22,Algeria,20
+Jun-22,Algeria,20
+Jul-22,Algeria,30
+Aug-22,Algeria,20
+Sep-22,Algeria,40
+Oct-22,Algeria,30
+Nov-22,Algeria,40
+Dec-22,Algeria,40
+Jan-23,Algeria,20
+Feb-23,Algeria,30
+Mar-23,Algeria,40
+Apr-23,Algeria,30
+May-23,Algeria,30
+Jun-23,Algeria,30
+Jul-23,Algeria,30
+Aug-23,Algeria,30
+Sep-23,Algeria,40
+Oct-23,Algeria,20
+Nov-23,Algeria,40
+Dec-23,Algeria,30
+Jan-24,Algeria,40
+Feb-24,Algeria,60
+Mar-24,Algeria,30
+Apr-24,Algeria,40
+May-24,Algeria,40
+Jun-24,Algeria,40
+Jul-24,Algeria,30
+Jan-19,Egypt,1240
+Feb-19,Egypt,870
+Mar-19,Egypt,640
+Apr-19,Egypt,670
+May-19,Egypt,650
+Jun-19,Egypt,730
+Jul-19,Egypt,970
+Aug-19,Egypt,890
+Sep-19,Egypt,790
+Oct-19,Egypt,870
+Nov-19,Egypt,780
+Dec-19,Egypt,1000
+Jan-20,Egypt,1220
+Feb-20,Egypt,910
+Mar-20,Egypt,420
+Apr-20,Egypt,10
+May-20,Egypt,20
+Jun-20,Egypt,20
+Jul-20,Egypt,50
+Aug-20,Egypt,50
+Sep-20,Egypt,40
+Oct-20,Egypt,80
+Nov-20,Egypt,60
+Dec-20,Egypt,70
+Jan-21,Egypt,70
+Feb-21,Egypt,50
+Mar-21,Egypt,60
+Apr-21,Egypt,60
+May-21,Egypt,100
+Jun-21,Egypt,100
+Jul-21,Egypt,50
+Aug-21,Egypt,60
+Sep-21,Egypt,60
+Oct-21,Egypt,40
+Nov-21,Egypt,210
+Dec-21,Egypt,500
+Jan-22,Egypt,640
+Feb-22,Egypt,560
+Mar-22,Egypt,400
+Apr-22,Egypt,300
+May-22,Egypt,490
+Jun-22,Egypt,450
+Jul-22,Egypt,690
+Aug-22,Egypt,660
+Sep-22,Egypt,530
+Oct-22,Egypt,600
+Nov-22,Egypt,910
+Dec-22,Egypt,750
+Jan-23,Egypt,740
+Feb-23,Egypt,780
+Mar-23,Egypt,650
+Apr-23,Egypt,520
+May-23,Egypt,630
+Jun-23,Egypt,570
+Jul-23,Egypt,680
+Aug-23,Egypt,710
+Sep-23,Egypt,610
+Oct-23,Egypt,630
+Nov-23,Egypt,850
+Dec-23,Egypt,860
+Jan-24,Egypt,800
+Feb-24,Egypt,810
+Mar-24,Egypt,520
+Apr-24,Egypt,550
+May-24,Egypt,580
+Jun-24,Egypt,690
+Jul-24,Egypt,690
+Jan-19,Libya,40
+Feb-19,Libya,20
+Mar-19,Libya,10
+Apr-19,Libya,10
+May-19,Libya,10
+Jun-19,Libya,10
+Jul-19,Libya,10
+Aug-19,Libya,10
+Sep-19,Libya,10
+Oct-19,Libya,20
+Dec-19,Libya,10
+Jan-20,Libya,20
+Mar-20,Libya,10
+Sep-20,Libya,10
+Jul-21,Libya,10
+Jan-22,Libya,10
+Feb-22,Libya,10
+Mar-22,Libya,10
+May-22,Libya,10
+Jun-22,Libya,10
+Jul-22,Libya,10
+Sep-22,Libya,10
+Oct-22,Libya,10
+Nov-22,Libya,10
+Dec-22,Libya,20
+Jan-23,Libya,20
+Feb-23,Libya,10
+Mar-23,Libya,20
+May-23,Libya,10
+Jun-23,Libya,20
+Jul-23,Libya,10
+Aug-23,Libya,10
+Sep-23,Libya,10
+Oct-23,Libya,10
+Nov-23,Libya,10
+Feb-24,Libya,10
+Apr-24,Libya,10
+Jun-24,Libya,10
+Jul-24,Libya,10
+Jan-19,Morocco,140
+Feb-19,Morocco,140
+Mar-19,Morocco,80
+Apr-19,Morocco,80
+May-19,Morocco,60
+Jun-19,Morocco,90
+Jul-19,Morocco,80
+Aug-19,Morocco,100
+Sep-19,Morocco,120
+Oct-19,Morocco,120
+Nov-19,Morocco,90
+Dec-19,Morocco,120
+Jan-20,Morocco,170
+Feb-20,Morocco,90
+Mar-20,Morocco,40
+Oct-20,Morocco,10
+Dec-20,Morocco,10
+Apr-21,Morocco,10
+Jun-21,Morocco,10
+Aug-21,Morocco,10
+Sep-21,Morocco,10
+Nov-21,Morocco,20
+Dec-21,Morocco,20
+Jan-22,Morocco,30
+Feb-22,Morocco,10
+Mar-22,Morocco,50
+Apr-22,Morocco,20
+May-22,Morocco,50
+Jun-22,Morocco,50
+Jul-22,Morocco,50
+Aug-22,Morocco,70
+Sep-22,Morocco,100
+Oct-22,Morocco,80
+Nov-22,Morocco,90
+Dec-22,Morocco,90
+Jan-23,Morocco,80
+Feb-23,Morocco,80
+Mar-23,Morocco,70
+Apr-23,Morocco,60
+May-23,Morocco,70
+Jun-23,Morocco,90
+Jul-23,Morocco,210
+Aug-23,Morocco,120
+Sep-23,Morocco,90
+Oct-23,Morocco,110
+Nov-23,Morocco,110
+Dec-23,Morocco,100
+Jan-24,Morocco,120
+Feb-24,Morocco,90
+Mar-24,Morocco,60
+Apr-24,Morocco,90
+May-24,Morocco,80
+Jun-24,Morocco,100
+Jul-24,Morocco,90
+Jan-19,Sudan,160
+Feb-19,Sudan,160
+Mar-19,Sudan,90
+Apr-19,Sudan,110
+May-19,Sudan,90
+Jun-19,Sudan,90
+Jul-19,Sudan,90
+Aug-19,Sudan,130
+Sep-19,Sudan,100
+Oct-19,Sudan,70
+Nov-19,Sudan,90
+Dec-19,Sudan,70
+Jan-20,Sudan,170
+Feb-20,Sudan,180
+Mar-20,Sudan,90
+Apr-20,Sudan,10
+May-20,Sudan,10
+Jun-20,Sudan,10
+Jul-20,Sudan,10
+Aug-20,Sudan,10
+Sep-20,Sudan,10
+Oct-20,Sudan,10
+Dec-20,Sudan,10
+Jan-21,Sudan,10
+Feb-21,Sudan,10
+Mar-21,Sudan,20
+Apr-21,Sudan,10
+May-21,Sudan,30
+Jun-21,Sudan,10
+Jul-21,Sudan,10
+Nov-21,Sudan,30
+Dec-21,Sudan,60
+Jan-22,Sudan,50
+Feb-22,Sudan,60
+Mar-22,Sudan,50
+Apr-22,Sudan,40
+May-22,Sudan,60
+Jun-22,Sudan,50
+Jul-22,Sudan,80
+Aug-22,Sudan,100
+Sep-22,Sudan,60
+Oct-22,Sudan,90
+Nov-22,Sudan,100
+Dec-22,Sudan,80
+Jan-23,Sudan,100
+Feb-23,Sudan,120
+Mar-23,Sudan,100
+Apr-23,Sudan,50
+May-23,Sudan,140
+Jun-23,Sudan,140
+Jul-23,Sudan,120
+Aug-23,Sudan,70
+Sep-23,Sudan,70
+Oct-23,Sudan,70
+Nov-23,Sudan,70
+Dec-23,Sudan,60
+Jan-24,Sudan,100
+Feb-24,Sudan,90
+Mar-24,Sudan,70
+Apr-24,Sudan,90
+May-24,Sudan,80
+Jun-24,Sudan,100
+Jul-24,Sudan,90
+Jan-19,Tunisia,40
+Feb-19,Tunisia,30
+Mar-19,Tunisia,40
+Apr-19,Tunisia,30
+May-19,Tunisia,30
+Jun-19,Tunisia,30
+Jul-19,Tunisia,20
+Aug-19,Tunisia,50
+Sep-19,Tunisia,50
+Oct-19,Tunisia,30
+Nov-19,Tunisia,50
+Dec-19,Tunisia,50
+Jan-20,Tunisia,20
+Feb-20,Tunisia,30
+Mar-20,Tunisia,10
+Jul-21,Tunisia,10
+Dec-21,Tunisia,10
+Jan-22,Tunisia,10
+Feb-22,Tunisia,10
+Mar-22,Tunisia,10
+Apr-22,Tunisia,10
+May-22,Tunisia,20
+Jun-22,Tunisia,10
+Jul-22,Tunisia,20
+Aug-22,Tunisia,30
+Sep-22,Tunisia,40
+Oct-22,Tunisia,30
+Nov-22,Tunisia,30
+Dec-22,Tunisia,30
+Jan-23,Tunisia,20
+Feb-23,Tunisia,30
+Mar-23,Tunisia,50
+Apr-23,Tunisia,20
+May-23,Tunisia,40
+Jun-23,Tunisia,20
+Jul-23,Tunisia,30
+Aug-23,Tunisia,30
+Sep-23,Tunisia,30
+Oct-23,Tunisia,60
+Nov-23,Tunisia,40
+Dec-23,Tunisia,50
+Jan-24,Tunisia,40
+Feb-24,Tunisia,40
+Mar-24,Tunisia,30
+Apr-24,Tunisia,30
+May-24,Tunisia,40
+Jun-24,Tunisia,40
+Jul-24,Tunisia,20
+Jan-19,South Sudan,20
+Feb-19,South Sudan,20
+Mar-19,South Sudan,30
+Apr-19,South Sudan,20
+May-19,South Sudan,10
+Jun-19,South Sudan,30
+Jul-19,South Sudan,20
+Aug-19,South Sudan,20
+Sep-19,South Sudan,20
+Oct-19,South Sudan,20
+Nov-19,South Sudan,20
+Dec-19,South Sudan,30
+Jan-20,South Sudan,20
+Feb-20,South Sudan,30
+Mar-20,South Sudan,20
+Dec-20,South Sudan,10
+Feb-21,South Sudan,10
+Apr-21,South Sudan,10
+May-21,South Sudan,10
+Jun-21,South Sudan,10
+Nov-21,South Sudan,10
+Dec-21,South Sudan,20
+Jan-22,South Sudan,20
+Feb-22,South Sudan,20
+Mar-22,South Sudan,20
+Apr-22,South Sudan,20
+May-22,South Sudan,20
+Jun-22,South Sudan,20
+Jul-22,South Sudan,10
+Aug-22,South Sudan,20
+Sep-22,South Sudan,20
+Oct-22,South Sudan,20
+Nov-22,South Sudan,40
+Dec-22,South Sudan,20
+Jan-23,South Sudan,10
+Feb-23,South Sudan,40
+Mar-23,South Sudan,30
+Apr-23,South Sudan,30
+May-23,South Sudan,10
+Jun-23,South Sudan,20
+Jul-23,South Sudan,20
+Aug-23,South Sudan,40
+Sep-23,South Sudan,30
+Oct-23,South Sudan,10
+Nov-23,South Sudan,30
+Dec-23,South Sudan,20
+Jan-24,South Sudan,20
+Feb-24,South Sudan,30
+Mar-24,South Sudan,40
+Apr-24,South Sudan,20
+May-24,South Sudan,30
+Jun-24,South Sudan,20
+Jul-24,South Sudan,20
+Jul-24,Middle East nfd,80
+Jan-19,Bahrain,40
+Feb-19,Bahrain,50
+Mar-19,Bahrain,50
+Apr-19,Bahrain,30
+May-19,Bahrain,10
+Jun-19,Bahrain,30
+Jul-19,Bahrain,90
+Aug-19,Bahrain,100
+Sep-19,Bahrain,40
+Oct-19,Bahrain,30
+Nov-19,Bahrain,40
+Dec-19,Bahrain,50
+Jan-20,Bahrain,30
+Feb-20,Bahrain,30
+Mar-20,Bahrain,20
+Dec-21,Bahrain,10
+Feb-22,Bahrain,10
+Mar-22,Bahrain,10
+Apr-22,Bahrain,10
+May-22,Bahrain,10
+Jun-22,Bahrain,10
+Jul-22,Bahrain,30
+Aug-22,Bahrain,20
+Sep-22,Bahrain,20
+Oct-22,Bahrain,10
+Nov-22,Bahrain,30
+Dec-22,Bahrain,30
+Jan-23,Bahrain,20
+Feb-23,Bahrain,50
+Mar-23,Bahrain,20
+Apr-23,Bahrain,20
+May-23,Bahrain,20
+Jun-23,Bahrain,40
+Jul-23,Bahrain,40
+Aug-23,Bahrain,20
+Sep-23,Bahrain,20
+Oct-23,Bahrain,20
+Nov-23,Bahrain,30
+Dec-23,Bahrain,40
+Jan-24,Bahrain,20
+Feb-24,Bahrain,40
+Mar-24,Bahrain,10
+Apr-24,Bahrain,20
+May-24,Bahrain,20
+Jun-24,Bahrain,50
+Jul-24,Bahrain,60
+Jan-19,Iran,2400
+Feb-19,Iran,2060
+Mar-19,Iran,2600
+Apr-19,Iran,2390
+May-19,Iran,2010
+Jun-19,Iran,1620
+Jul-19,Iran,1990
+Aug-19,Iran,2120
+Sep-19,Iran,2120
+Oct-19,Iran,1980
+Nov-19,Iran,2330
+Dec-19,Iran,2610
+Jan-20,Iran,2430
+Feb-20,Iran,1970
+Mar-20,Iran,580
+Apr-20,Iran,70
+May-20,Iran,60
+Jun-20,Iran,90
+Jul-20,Iran,50
+Aug-20,Iran,60
+Sep-20,Iran,80
+Oct-20,Iran,110
+Nov-20,Iran,70
+Dec-20,Iran,150
+Jan-21,Iran,110
+Feb-21,Iran,160
+Mar-21,Iran,140
+Apr-21,Iran,160
+May-21,Iran,220
+Jun-21,Iran,180
+Jul-21,Iran,180
+Aug-21,Iran,150
+Sep-21,Iran,70
+Oct-21,Iran,80
+Nov-21,Iran,500
+Dec-21,Iran,1200
+Jan-22,Iran,1430
+Feb-22,Iran,1430
+Mar-22,Iran,1540
+Apr-22,Iran,1490
+May-22,Iran,1300
+Jun-22,Iran,1590
+Jul-22,Iran,1210
+Aug-22,Iran,1810
+Sep-22,Iran,1860
+Oct-22,Iran,2080
+Nov-22,Iran,2930
+Dec-22,Iran,2640
+Jan-23,Iran,1240
+Feb-23,Iran,2500
+Mar-23,Iran,2880
+Apr-23,Iran,1900
+May-23,Iran,1760
+Jun-23,Iran,1920
+Jul-23,Iran,1610
+Aug-23,Iran,1950
+Sep-23,Iran,1930
+Oct-23,Iran,1890
+Nov-23,Iran,2740
+Dec-23,Iran,3130
+Jan-24,Iran,2600
+Feb-24,Iran,2590
+Mar-24,Iran,2790
+Apr-24,Iran,2020
+May-24,Iran,1720
+Jun-24,Iran,1830
+Jul-24,Iran,1870
+Jan-19,Iraq,510
+Feb-19,Iraq,640
+Mar-19,Iraq,1040
+Apr-19,Iraq,800
+May-19,Iraq,1660
+Jun-19,Iraq,1530
+Jul-19,Iraq,1220
+Aug-19,Iraq,1220
+Sep-19,Iraq,900
+Oct-19,Iraq,1180
+Nov-19,Iraq,1220
+Dec-19,Iraq,1140
+Jan-20,Iraq,960
+Feb-20,Iraq,970
+Mar-20,Iraq,840
+Apr-20,Iraq,10
+May-20,Iraq,20
+Jun-20,Iraq,50
+Jul-20,Iraq,20
+Aug-20,Iraq,10
+Sep-20,Iraq,30
+Oct-20,Iraq,30
+Nov-20,Iraq,20
+Dec-20,Iraq,40
+Jan-21,Iraq,30
+Feb-21,Iraq,30
+Mar-21,Iraq,40
+Apr-21,Iraq,50
+May-21,Iraq,90
+Jun-21,Iraq,70
+Jul-21,Iraq,50
+Aug-21,Iraq,40
+Sep-21,Iraq,40
+Oct-21,Iraq,20
+Nov-21,Iraq,190
+Dec-21,Iraq,1840
+Jan-22,Iraq,490
+Feb-22,Iraq,480
+Mar-22,Iraq,600
+Apr-22,Iraq,480
+May-22,Iraq,720
+Jun-22,Iraq,580
+Jul-22,Iraq,290
+Aug-22,Iraq,520
+Sep-22,Iraq,510
+Oct-22,Iraq,530
+Nov-22,Iraq,830
+Dec-22,Iraq,440
+Jan-23,Iraq,220
+Feb-23,Iraq,510
+Mar-23,Iraq,690
+Apr-23,Iraq,530
+May-23,Iraq,970
+Jun-23,Iraq,700
+Jul-23,Iraq,410
+Aug-23,Iraq,620
+Sep-23,Iraq,620
+Oct-23,Iraq,480
+Nov-23,Iraq,890
+Dec-23,Iraq,640
+Jan-24,Iraq,510
+Feb-24,Iraq,700
+Mar-24,Iraq,480
+Apr-24,Iraq,570
+May-24,Iraq,610
+Jun-24,Iraq,540
+Jul-24,Iraq,430
+Jan-19,Israel,1430
+Feb-19,Israel,1300
+Mar-19,Israel,1140
+Apr-19,Israel,1220
+May-19,Israel,850
+Jun-19,Israel,640
+Jul-19,Israel,1160
+Aug-19,Israel,860
+Sep-19,Israel,1350
+Oct-19,Israel,1440
+Nov-19,Israel,1150
+Dec-19,Israel,1840
+Jan-20,Israel,1460
+Feb-20,Israel,1260
+Mar-20,Israel,560
+Jun-20,Israel,10
+Aug-20,Israel,10
+Sep-20,Israel,10
+Oct-20,Israel,20
+Nov-20,Israel,30
+Dec-20,Israel,40
+Jan-21,Israel,20
+Feb-21,Israel,20
+Mar-21,Israel,40
+Apr-21,Israel,20
+May-21,Israel,30
+Jun-21,Israel,50
+Jul-21,Israel,40
+Aug-21,Israel,20
+Sep-21,Israel,20
+Oct-21,Israel,10
+Nov-21,Israel,110
+Dec-21,Israel,310
+Jan-22,Israel,240
+Feb-22,Israel,240
+Mar-22,Israel,390
+Apr-22,Israel,860
+May-22,Israel,570
+Jun-22,Israel,490
+Jul-22,Israel,680
+Aug-22,Israel,740
+Sep-22,Israel,1170
+Oct-22,Israel,850
+Nov-22,Israel,1090
+Dec-22,Israel,1530
+Jan-23,Israel,1090
+Feb-23,Israel,1510
+Mar-23,Israel,1410
+Apr-23,Israel,890
+May-23,Israel,550
+Jun-23,Israel,720
+Jul-23,Israel,760
+Aug-23,Israel,810
+Sep-23,Israel,990
+Oct-23,Israel,900
+Nov-23,Israel,670
+Dec-23,Israel,970
+Jan-24,Israel,940
+Feb-24,Israel,990
+Mar-24,Israel,1050
+Apr-24,Israel,1070
+May-24,Israel,710
+Jun-24,Israel,630
+Jul-24,Israel,910
+Jan-19,Jordan,450
+Feb-19,Jordan,340
+Mar-19,Jordan,290
+Apr-19,Jordan,270
+May-19,Jordan,220
+Jun-19,Jordan,280
+Jul-19,Jordan,400
+Aug-19,Jordan,410
+Sep-19,Jordan,290
+Oct-19,Jordan,360
+Nov-19,Jordan,360
+Dec-19,Jordan,410
+Jan-20,Jordan,460
+Feb-20,Jordan,320
+Mar-20,Jordan,160
+Apr-20,Jordan,10
+May-20,Jordan,10
+Jun-20,Jordan,20
+Jul-20,Jordan,10
+Aug-20,Jordan,10
+Sep-20,Jordan,10
+Oct-20,Jordan,10
+Nov-20,Jordan,30
+Dec-20,Jordan,10
+Jan-21,Jordan,20
+Feb-21,Jordan,20
+Mar-21,Jordan,20
+Apr-21,Jordan,30
+May-21,Jordan,40
+Jun-21,Jordan,20
+Jul-21,Jordan,20
+Aug-21,Jordan,10
+Sep-21,Jordan,10
+Oct-21,Jordan,10
+Nov-21,Jordan,70
+Dec-21,Jordan,140
+Jan-22,Jordan,200
+Feb-22,Jordan,190
+Mar-22,Jordan,140
+Apr-22,Jordan,120
+May-22,Jordan,120
+Jun-22,Jordan,180
+Jul-22,Jordan,270
+Aug-22,Jordan,290
+Sep-22,Jordan,230
+Oct-22,Jordan,270
+Nov-22,Jordan,300
+Dec-22,Jordan,390
+Jan-23,Jordan,250
+Feb-23,Jordan,350
+Mar-23,Jordan,240
+Apr-23,Jordan,160
+May-23,Jordan,290
+Jun-23,Jordan,260
+Jul-23,Jordan,330
+Aug-23,Jordan,330
+Sep-23,Jordan,260
+Oct-23,Jordan,280
+Nov-23,Jordan,260
+Dec-23,Jordan,410
+Jan-24,Jordan,320
+Feb-24,Jordan,290
+Mar-24,Jordan,180
+Apr-24,Jordan,240
+May-24,Jordan,250
+Jun-24,Jordan,240
+Jul-24,Jordan,370
+Jan-19,Kuwait,170
+Feb-19,Kuwait,360
+Mar-19,Kuwait,170
+Apr-19,Kuwait,120
+May-19,Kuwait,60
+Jun-19,Kuwait,260
+Jul-19,Kuwait,720
+Aug-19,Kuwait,500
+Sep-19,Kuwait,110
+Oct-19,Kuwait,100
+Nov-19,Kuwait,150
+Dec-19,Kuwait,160
+Jan-20,Kuwait,180
+Feb-20,Kuwait,290
+Mar-20,Kuwait,80
+Jan-21,Kuwait,10
+Dec-21,Kuwait,50
+Jan-22,Kuwait,70
+Feb-22,Kuwait,110
+Mar-22,Kuwait,70
+Apr-22,Kuwait,50
+May-22,Kuwait,70
+Jun-22,Kuwait,120
+Jul-22,Kuwait,260
+Aug-22,Kuwait,190
+Sep-22,Kuwait,40
+Oct-22,Kuwait,70
+Nov-22,Kuwait,50
+Dec-22,Kuwait,80
+Jan-23,Kuwait,210
+Feb-23,Kuwait,280
+Mar-23,Kuwait,70
+Apr-23,Kuwait,60
+May-23,Kuwait,80
+Jun-23,Kuwait,170
+Jul-23,Kuwait,390
+Aug-23,Kuwait,290
+Sep-23,Kuwait,90
+Oct-23,Kuwait,80
+Nov-23,Kuwait,90
+Dec-23,Kuwait,120
+Jan-24,Kuwait,240
+Feb-24,Kuwait,350
+Mar-24,Kuwait,90
+Apr-24,Kuwait,110
+May-24,Kuwait,70
+Jun-24,Kuwait,220
+Jul-24,Kuwait,500
+Jan-19,Lebanon,1140
+Feb-19,Lebanon,1050
+Mar-19,Lebanon,740
+Apr-19,Lebanon,780
+May-19,Lebanon,770
+Jun-19,Lebanon,790
+Jul-19,Lebanon,850
+Aug-19,Lebanon,1120
+Sep-19,Lebanon,1140
+Oct-19,Lebanon,940
+Nov-19,Lebanon,970
+Dec-19,Lebanon,1180
+Jan-20,Lebanon,870
+Feb-20,Lebanon,740
+Mar-20,Lebanon,500
+Apr-20,Lebanon,30
+May-20,Lebanon,20
+Jun-20,Lebanon,20
+Jul-20,Lebanon,40
+Aug-20,Lebanon,60
+Sep-20,Lebanon,30
+Oct-20,Lebanon,20
+Nov-20,Lebanon,40
+Dec-20,Lebanon,50
+Jan-21,Lebanon,50
+Feb-21,Lebanon,50
+Mar-21,Lebanon,60
+Apr-21,Lebanon,60
+May-21,Lebanon,90
+Jun-21,Lebanon,80
+Jul-21,Lebanon,60
+Aug-21,Lebanon,50
+Sep-21,Lebanon,50
+Oct-21,Lebanon,30
+Nov-21,Lebanon,270
+Dec-21,Lebanon,420
+Jan-22,Lebanon,470
+Feb-22,Lebanon,430
+Mar-22,Lebanon,450
+Apr-22,Lebanon,310
+May-22,Lebanon,520
+Jun-22,Lebanon,690
+Jul-22,Lebanon,450
+Aug-22,Lebanon,780
+Sep-22,Lebanon,770
+Oct-22,Lebanon,790
+Nov-22,Lebanon,1250
+Dec-22,Lebanon,860
+Jan-23,Lebanon,520
+Feb-23,Lebanon,710
+Mar-23,Lebanon,640
+Apr-23,Lebanon,430
+May-23,Lebanon,660
+Jun-23,Lebanon,650
+Jul-23,Lebanon,570
+Aug-23,Lebanon,830
+Sep-23,Lebanon,870
+Oct-23,Lebanon,1000
+Nov-23,Lebanon,1020
+Dec-23,Lebanon,1050
+Jan-24,Lebanon,770
+Feb-24,Lebanon,760
+Mar-24,Lebanon,600
+Apr-24,Lebanon,660
+May-24,Lebanon,690
+Jun-24,Lebanon,650
+Jul-24,Lebanon,630
+Jan-19,Oman,280
+Feb-19,Oman,530
+Mar-19,Oman,280
+Apr-19,Oman,90
+May-19,Oman,60
+Jun-19,Oman,240
+Jul-19,Oman,480
+Aug-19,Oman,190
+Sep-19,Oman,140
+Oct-19,Oman,150
+Nov-19,Oman,70
+Dec-19,Oman,200
+Jan-20,Oman,230
+Feb-20,Oman,570
+Mar-20,Oman,200
+Oct-20,Oman,10
+Nov-20,Oman,10
+Jan-21,Oman,10
+Mar-21,Oman,10
+Jun-21,Oman,10
+Jul-21,Oman,10
+Dec-21,Oman,20
+Jan-22,Oman,60
+Feb-22,Oman,130
+Mar-22,Oman,30
+Apr-22,Oman,20
+May-22,Oman,30
+Jun-22,Oman,30
+Jul-22,Oman,80
+Aug-22,Oman,80
+Sep-22,Oman,40
+Oct-22,Oman,50
+Nov-22,Oman,50
+Dec-22,Oman,50
+Jan-23,Oman,70
+Feb-23,Oman,150
+Mar-23,Oman,50
+Apr-23,Oman,40
+May-23,Oman,60
+Jun-23,Oman,70
+Jul-23,Oman,180
+Aug-23,Oman,80
+Sep-23,Oman,100
+Oct-23,Oman,40
+Nov-23,Oman,90
+Dec-23,Oman,30
+Jan-24,Oman,140
+Feb-24,Oman,140
+Mar-24,Oman,70
+Apr-24,Oman,90
+May-24,Oman,60
+Jun-24,Oman,100
+Jul-24,Oman,140
+Jan-19,Qatar,40
+Feb-19,Qatar,30
+Mar-19,Qatar,50
+Apr-19,Qatar,20
+May-19,Qatar,20
+Jun-19,Qatar,140
+Jul-19,Qatar,470
+Aug-19,Qatar,210
+Sep-19,Qatar,20
+Oct-19,Qatar,70
+Nov-19,Qatar,30
+Dec-19,Qatar,30
+Jan-20,Qatar,20
+Feb-20,Qatar,40
+Jul-20,Qatar,10
+Jun-21,Qatar,10
+Dec-21,Qatar,10
+Jan-22,Qatar,10
+Feb-22,Qatar,10
+Mar-22,Qatar,20
+May-22,Qatar,20
+Jun-22,Qatar,50
+Jul-22,Qatar,110
+Aug-22,Qatar,30
+Sep-22,Qatar,20
+Oct-22,Qatar,10
+Nov-22,Qatar,20
+Dec-22,Qatar,20
+Jan-23,Qatar,20
+Feb-23,Qatar,30
+Mar-23,Qatar,20
+Apr-23,Qatar,20
+May-23,Qatar,20
+Jun-23,Qatar,100
+Jul-23,Qatar,300
+Aug-23,Qatar,120
+Sep-23,Qatar,50
+Oct-23,Qatar,30
+Nov-23,Qatar,20
+Dec-23,Qatar,30
+Jan-24,Qatar,20
+Feb-24,Qatar,20
+Mar-24,Qatar,20
+Apr-24,Qatar,30
+May-24,Qatar,30
+Jun-24,Qatar,70
+Jul-24,Qatar,190
+Jan-19,Saudi Arabia,2240
+Feb-19,Saudi Arabia,3890
+Mar-19,Saudi Arabia,1600
+Apr-19,Saudi Arabia,1100
+May-19,Saudi Arabia,790
+Jun-19,Saudi Arabia,1790
+Jul-19,Saudi Arabia,2850
+Aug-19,Saudi Arabia,1470
+Sep-19,Saudi Arabia,810
+Oct-19,Saudi Arabia,930
+Nov-19,Saudi Arabia,840
+Dec-19,Saudi Arabia,830
+Jan-20,Saudi Arabia,2300
+Feb-20,Saudi Arabia,3750
+Mar-20,Saudi Arabia,1020
+Jun-20,Saudi Arabia,20
+Aug-20,Saudi Arabia,10
+Sep-20,Saudi Arabia,10
+Oct-20,Saudi Arabia,30
+Nov-20,Saudi Arabia,20
+Jan-21,Saudi Arabia,40
+Feb-21,Saudi Arabia,30
+Mar-21,Saudi Arabia,30
+Apr-21,Saudi Arabia,20
+May-21,Saudi Arabia,10
+Jun-21,Saudi Arabia,30
+Jul-21,Saudi Arabia,20
+Aug-21,Saudi Arabia,20
+Sep-21,Saudi Arabia,20
+Oct-21,Saudi Arabia,10
+Nov-21,Saudi Arabia,80
+Dec-21,Saudi Arabia,430
+Jan-22,Saudi Arabia,740
+Feb-22,Saudi Arabia,1110
+Mar-22,Saudi Arabia,670
+Apr-22,Saudi Arabia,270
+May-22,Saudi Arabia,570
+Jun-22,Saudi Arabia,430
+Jul-22,Saudi Arabia,1070
+Aug-22,Saudi Arabia,750
+Sep-22,Saudi Arabia,420
+Oct-22,Saudi Arabia,540
+Nov-22,Saudi Arabia,460
+Dec-22,Saudi Arabia,500
+Jan-23,Saudi Arabia,1080
+Feb-23,Saudi Arabia,1470
+Mar-23,Saudi Arabia,620
+Apr-23,Saudi Arabia,400
+May-23,Saudi Arabia,610
+Jun-23,Saudi Arabia,900
+Jul-23,Saudi Arabia,1770
+Aug-23,Saudi Arabia,740
+Sep-23,Saudi Arabia,630
+Oct-23,Saudi Arabia,550
+Nov-23,Saudi Arabia,500
+Dec-23,Saudi Arabia,620
+Jan-24,Saudi Arabia,1670
+Feb-24,Saudi Arabia,2250
+Mar-24,Saudi Arabia,650
+Apr-24,Saudi Arabia,650
+May-24,Saudi Arabia,640
+Jun-24,Saudi Arabia,1230
+Jul-24,Saudi Arabia,1580
+Jan-19,Syria,390
+Feb-19,Syria,320
+Mar-19,Syria,440
+Apr-19,Syria,350
+May-19,Syria,470
+Jun-19,Syria,350
+Jul-19,Syria,290
+Aug-19,Syria,420
+Sep-19,Syria,400
+Oct-19,Syria,330
+Nov-19,Syria,230
+Dec-19,Syria,230
+Jan-20,Syria,390
+Feb-20,Syria,290
+Mar-20,Syria,180
+Apr-20,Syria,10
+May-20,Syria,10
+Jun-20,Syria,10
+Jul-20,Syria,10
+Aug-20,Syria,10
+Sep-20,Syria,30
+Oct-20,Syria,10
+Nov-20,Syria,20
+Dec-20,Syria,20
+Jan-21,Syria,20
+Feb-21,Syria,10
+Mar-21,Syria,30
+Apr-21,Syria,30
+May-21,Syria,40
+Jun-21,Syria,30
+Jul-21,Syria,30
+Aug-21,Syria,30
+Sep-21,Syria,20
+Nov-21,Syria,80
+Dec-21,Syria,200
+Jan-22,Syria,210
+Feb-22,Syria,150
+Mar-22,Syria,200
+Apr-22,Syria,240
+May-22,Syria,400
+Jun-22,Syria,210
+Jul-22,Syria,160
+Aug-22,Syria,270
+Sep-22,Syria,440
+Oct-22,Syria,360
+Nov-22,Syria,470
+Dec-22,Syria,270
+Jan-23,Syria,100
+Feb-23,Syria,250
+Mar-23,Syria,320
+Apr-23,Syria,190
+May-23,Syria,430
+Jun-23,Syria,310
+Jul-23,Syria,170
+Aug-23,Syria,290
+Sep-23,Syria,310
+Oct-23,Syria,230
+Nov-23,Syria,350
+Dec-23,Syria,240
+Jan-24,Syria,300
+Feb-24,Syria,460
+Mar-24,Syria,340
+Apr-24,Syria,340
+May-24,Syria,550
+Jun-24,Syria,340
+Jul-24,Syria,240
+Jan-19,Turkey,1170
+Feb-19,Turkey,980
+Mar-19,Turkey,820
+Apr-19,Turkey,690
+May-19,Turkey,620
+Jun-19,Turkey,810
+Jul-19,Turkey,970
+Aug-19,Turkey,1020
+Sep-19,Turkey,1130
+Oct-19,Turkey,1090
+Nov-19,Turkey,1040
+Dec-19,Turkey,1260
+Jan-20,Turkey,1080
+Feb-20,Turkey,1000
+Mar-20,Turkey,450
+Apr-20,Turkey,10
+May-20,Turkey,10
+Jun-20,Turkey,30
+Jul-20,Turkey,20
+Aug-20,Turkey,30
+Sep-20,Turkey,40
+Oct-20,Turkey,80
+Nov-20,Turkey,60
+Dec-20,Turkey,40
+Jan-21,Turkey,50
+Feb-21,Turkey,40
+Mar-21,Turkey,40
+Apr-21,Turkey,40
+May-21,Turkey,60
+Jun-21,Turkey,50
+Jul-21,Turkey,40
+Aug-21,Turkey,20
+Sep-21,Turkey,30
+Oct-21,Turkey,40
+Nov-21,Turkey,100
+Dec-21,Turkey,290
+Jan-22,Turkey,320
+Feb-22,Turkey,390
+Mar-22,Turkey,380
+Apr-22,Turkey,320
+May-22,Turkey,370
+Jun-22,Turkey,530
+Jul-22,Turkey,670
+Aug-22,Turkey,1180
+Sep-22,Turkey,1250
+Oct-22,Turkey,1000
+Nov-22,Turkey,1350
+Dec-22,Turkey,810
+Jan-23,Turkey,710
+Feb-23,Turkey,920
+Mar-23,Turkey,1000
+Apr-23,Turkey,830
+May-23,Turkey,830
+Jun-23,Turkey,990
+Jul-23,Turkey,1030
+Aug-23,Turkey,1250
+Sep-23,Turkey,1370
+Oct-23,Turkey,1220
+Nov-23,Turkey,1330
+Dec-23,Turkey,1340
+Jan-24,Turkey,1280
+Feb-24,Turkey,1160
+Mar-24,Turkey,980
+Apr-24,Turkey,1040
+May-24,Turkey,830
+Jun-24,Turkey,900
+Jul-24,Turkey,1100
+Jan-19,Unit Arab Emir,230
+Feb-19,Unit Arab Emir,270
+Mar-19,Unit Arab Emir,290
+Apr-19,Unit Arab Emir,190
+May-19,Unit Arab Emir,80
+Jun-19,Unit Arab Emir,360
+Jul-19,Unit Arab Emir,2710
+Aug-19,Unit Arab Emir,1500
+Sep-19,Unit Arab Emir,180
+Oct-19,Unit Arab Emir,200
+Nov-19,Unit Arab Emir,170
+Dec-19,Unit Arab Emir,210
+Jan-20,Unit Arab Emir,210
+Feb-20,Unit Arab Emir,280
+Mar-20,Unit Arab Emir,120
+Jun-20,Unit Arab Emir,10
+Jul-20,Unit Arab Emir,10
+Aug-20,Unit Arab Emir,10
+Sep-20,Unit Arab Emir,10
+Oct-20,Unit Arab Emir,10
+Jan-21,Unit Arab Emir,10
+Feb-21,Unit Arab Emir,10
+Apr-21,Unit Arab Emir,10
+May-21,Unit Arab Emir,10
+Jun-21,Unit Arab Emir,20
+Jul-21,Unit Arab Emir,10
+Aug-21,Unit Arab Emir,10
+Sep-21,Unit Arab Emir,10
+Oct-21,Unit Arab Emir,10
+Nov-21,Unit Arab Emir,10
+Dec-21,Unit Arab Emir,30
+Jan-22,Unit Arab Emir,60
+Feb-22,Unit Arab Emir,120
+Mar-22,Unit Arab Emir,80
+Apr-22,Unit Arab Emir,50
+May-22,Unit Arab Emir,80
+Jun-22,Unit Arab Emir,130
+Jul-22,Unit Arab Emir,790
+Aug-22,Unit Arab Emir,380
+Sep-22,Unit Arab Emir,90
+Oct-22,Unit Arab Emir,90
+Nov-22,Unit Arab Emir,80
+Dec-22,Unit Arab Emir,70
+Jan-23,Unit Arab Emir,160
+Feb-23,Unit Arab Emir,230
+Mar-23,Unit Arab Emir,120
+Apr-23,Unit Arab Emir,60
+May-23,Unit Arab Emir,110
+Jun-23,Unit Arab Emir,300
+Jul-23,Unit Arab Emir,1530
+Aug-23,Unit Arab Emir,540
+Sep-23,Unit Arab Emir,190
+Oct-23,Unit Arab Emir,110
+Nov-23,Unit Arab Emir,140
+Dec-23,Unit Arab Emir,110
+Jan-24,Unit Arab Emir,260
+Feb-24,Unit Arab Emir,250
+Mar-24,Unit Arab Emir,90
+Apr-24,Unit Arab Emir,180
+May-24,Unit Arab Emir,140
+Jun-24,Unit Arab Emir,310
+Jul-24,Unit Arab Emir,1800
+Jan-19,Yemen,60
+Feb-19,Yemen,50
+Mar-19,Yemen,30
+Apr-19,Yemen,30
+May-19,Yemen,20
+Jun-19,Yemen,30
+Jul-19,Yemen,40
+Aug-19,Yemen,40
+Sep-19,Yemen,40
+Oct-19,Yemen,50
+Nov-19,Yemen,20
+Dec-19,Yemen,40
+Jan-20,Yemen,50
+Feb-20,Yemen,40
+Mar-20,Yemen,20
+May-20,Yemen,10
+Oct-20,Yemen,10
+Nov-20,Yemen,10
+May-21,Yemen,10
+Aug-21,Yemen,10
+Nov-21,Yemen,10
+Dec-21,Yemen,30
+Jan-22,Yemen,20
+Feb-22,Yemen,10
+Mar-22,Yemen,20
+Apr-22,Yemen,20
+May-22,Yemen,20
+Jun-22,Yemen,20
+Jul-22,Yemen,30
+Aug-22,Yemen,20
+Sep-22,Yemen,30
+Oct-22,Yemen,20
+Nov-22,Yemen,30
+Dec-22,Yemen,40
+Jan-23,Yemen,40
+Feb-23,Yemen,30
+Mar-23,Yemen,30
+Apr-23,Yemen,20
+May-23,Yemen,50
+Jun-23,Yemen,50
+Jul-23,Yemen,50
+Aug-23,Yemen,40
+Sep-23,Yemen,30
+Oct-23,Yemen,30
+Nov-23,Yemen,40
+Dec-23,Yemen,40
+Jan-24,Yemen,40
+Feb-24,Yemen,50
+Mar-24,Yemen,20
+Apr-24,Yemen,40
+May-24,Yemen,50
+Jun-24,Yemen,30
+Jul-24,Yemen,50
+Jan-19,Myanmar,1160
+Feb-19,Myanmar,1650
+Mar-19,Myanmar,1280
+Apr-19,Myanmar,1460
+May-19,Myanmar,1140
+Jun-19,Myanmar,1120
+Jul-19,Myanmar,1290
+Aug-19,Myanmar,1210
+Sep-19,Myanmar,1110
+Oct-19,Myanmar,1260
+Nov-19,Myanmar,1290
+Dec-19,Myanmar,1220
+Jan-20,Myanmar,1390
+Feb-20,Myanmar,1660
+Mar-20,Myanmar,800
+Apr-20,Myanmar,10
+May-20,Myanmar,40
+Jun-20,Myanmar,10
+Jul-20,Myanmar,30
+Aug-20,Myanmar,30
+Sep-20,Myanmar,10
+Oct-20,Myanmar,20
+Nov-20,Myanmar,40
+Dec-20,Myanmar,10
+Jan-21,Myanmar,40
+Feb-21,Myanmar,30
+Mar-21,Myanmar,50
+Apr-21,Myanmar,60
+May-21,Myanmar,50
+Jun-21,Myanmar,40
+Jul-21,Myanmar,30
+Aug-21,Myanmar,10
+Sep-21,Myanmar,20
+Oct-21,Myanmar,20
+Nov-21,Myanmar,150
+Dec-21,Myanmar,220
+Jan-22,Myanmar,260
+Feb-22,Myanmar,360
+Mar-22,Myanmar,330
+Apr-22,Myanmar,460
+May-22,Myanmar,450
+Jun-22,Myanmar,640
+Jul-22,Myanmar,720
+Aug-22,Myanmar,670
+Sep-22,Myanmar,550
+Oct-22,Myanmar,700
+Nov-22,Myanmar,890
+Dec-22,Myanmar,850
+Jan-23,Myanmar,580
+Feb-23,Myanmar,860
+Mar-23,Myanmar,830
+Apr-23,Myanmar,660
+May-23,Myanmar,690
+Jun-23,Myanmar,640
+Jul-23,Myanmar,810
+Aug-23,Myanmar,680
+Sep-23,Myanmar,520
+Oct-23,Myanmar,750
+Nov-23,Myanmar,820
+Dec-23,Myanmar,810
+Jan-24,Myanmar,1100
+Feb-24,Myanmar,940
+Mar-24,Myanmar,550
+Apr-24,Myanmar,690
+May-24,Myanmar,620
+Jun-24,Myanmar,670
+Jul-24,Myanmar,670
+Jan-19,Cambodia,1920
+Feb-19,Cambodia,2130
+Mar-19,Cambodia,1320
+Apr-19,Cambodia,2300
+May-19,Cambodia,1500
+Jun-19,Cambodia,1440
+Jul-19,Cambodia,1870
+Aug-19,Cambodia,1730
+Sep-19,Cambodia,1780
+Oct-19,Cambodia,1500
+Nov-19,Cambodia,1500
+Dec-19,Cambodia,1870
+Jan-20,Cambodia,1960
+Feb-20,Cambodia,2240
+Mar-20,Cambodia,910
+Apr-20,Cambodia,20
+Jul-20,Cambodia,20
+Aug-20,Cambodia,20
+Sep-20,Cambodia,10
+Oct-20,Cambodia,10
+Nov-20,Cambodia,20
+Dec-20,Cambodia,50
+Jan-21,Cambodia,20
+Feb-21,Cambodia,40
+Mar-21,Cambodia,50
+Apr-21,Cambodia,30
+May-21,Cambodia,50
+Jun-21,Cambodia,40
+Jul-21,Cambodia,30
+Aug-21,Cambodia,20
+Sep-21,Cambodia,30
+Oct-21,Cambodia,40
+Nov-21,Cambodia,170
+Dec-21,Cambodia,370
+Jan-22,Cambodia,600
+Feb-22,Cambodia,650
+Mar-22,Cambodia,480
+Apr-22,Cambodia,770
+May-22,Cambodia,940
+Jun-22,Cambodia,1120
+Jul-22,Cambodia,1490
+Aug-22,Cambodia,1090
+Sep-22,Cambodia,1100
+Oct-22,Cambodia,1040
+Nov-22,Cambodia,1410
+Dec-22,Cambodia,1930
+Jan-23,Cambodia,1700
+Feb-23,Cambodia,2410
+Mar-23,Cambodia,1660
+Apr-23,Cambodia,2770
+May-23,Cambodia,1840
+Jun-23,Cambodia,1970
+Jul-23,Cambodia,1930
+Aug-23,Cambodia,1790
+Sep-23,Cambodia,1590
+Oct-23,Cambodia,1830
+Nov-23,Cambodia,1580
+Dec-23,Cambodia,2240
+Jan-24,Cambodia,2110
+Feb-24,Cambodia,3310
+Mar-24,Cambodia,1840
+Apr-24,Cambodia,2490
+May-24,Cambodia,1540
+Jun-24,Cambodia,2090
+Jul-24,Cambodia,2690
+Jan-19,Laos,250
+Feb-19,Laos,270
+Mar-19,Laos,230
+Apr-19,Laos,200
+May-19,Laos,200
+Jun-19,Laos,320
+Jul-19,Laos,380
+Aug-19,Laos,330
+Sep-19,Laos,210
+Oct-19,Laos,220
+Nov-19,Laos,240
+Dec-19,Laos,320
+Jan-20,Laos,290
+Feb-20,Laos,340
+Mar-20,Laos,150
+May-20,Laos,10
+Nov-20,Laos,10
+Jul-21,Laos,10
+Aug-21,Laos,10
+Nov-21,Laos,20
+Dec-21,Laos,20
+Jan-22,Laos,40
+Feb-22,Laos,100
+Mar-22,Laos,70
+Apr-22,Laos,110
+May-22,Laos,110
+Jun-22,Laos,160
+Jul-22,Laos,170
+Aug-22,Laos,170
+Sep-22,Laos,170
+Oct-22,Laos,230
+Nov-22,Laos,250
+Dec-22,Laos,310
+Jan-23,Laos,200
+Feb-23,Laos,330
+Mar-23,Laos,280
+Apr-23,Laos,360
+May-23,Laos,270
+Jun-23,Laos,290
+Jul-23,Laos,420
+Aug-23,Laos,310
+Sep-23,Laos,200
+Oct-23,Laos,320
+Nov-23,Laos,250
+Dec-23,Laos,410
+Jan-24,Laos,400
+Feb-24,Laos,430
+Mar-24,Laos,400
+Apr-24,Laos,360
+May-24,Laos,300
+Jun-24,Laos,300
+Jul-24,Laos,400
+Jan-19,Thailand,7520
+Feb-19,Thailand,7870
+Mar-19,Thailand,9070
+Apr-19,Thailand,14390
+May-19,Thailand,10420
+Jun-19,Thailand,8120
+Jul-19,Thailand,9780
+Aug-19,Thailand,10400
+Sep-19,Thailand,8110
+Oct-19,Thailand,10740
+Nov-19,Thailand,8290
+Dec-19,Thailand,9360
+Jan-20,Thailand,7400
+Feb-20,Thailand,7620
+Mar-20,Thailand,4260
+Apr-20,Thailand,70
+May-20,Thailand,100
+Jun-20,Thailand,100
+Jul-20,Thailand,30
+Aug-20,Thailand,40
+Sep-20,Thailand,60
+Oct-20,Thailand,80
+Nov-20,Thailand,120
+Dec-20,Thailand,110
+Jan-21,Thailand,80
+Feb-21,Thailand,130
+Mar-21,Thailand,180
+Apr-21,Thailand,150
+May-21,Thailand,170
+Jun-21,Thailand,180
+Jul-21,Thailand,160
+Aug-21,Thailand,80
+Sep-21,Thailand,70
+Oct-21,Thailand,60
+Nov-21,Thailand,270
+Dec-21,Thailand,1040
+Jan-22,Thailand,1400
+Feb-22,Thailand,1980
+Mar-22,Thailand,3020
+Apr-22,Thailand,4970
+May-22,Thailand,5530
+Jun-22,Thailand,4970
+Jul-22,Thailand,5750
+Aug-22,Thailand,7130
+Sep-22,Thailand,6720
+Oct-22,Thailand,7970
+Nov-22,Thailand,7890
+Dec-22,Thailand,8160
+Jan-23,Thailand,5530
+Feb-23,Thailand,7750
+Mar-23,Thailand,9990
+Apr-23,Thailand,13950
+May-23,Thailand,10520
+Jun-23,Thailand,8420
+Jul-23,Thailand,9050
+Aug-23,Thailand,9200
+Sep-23,Thailand,7410
+Oct-23,Thailand,9430
+Nov-23,Thailand,7820
+Dec-23,Thailand,8250
+Jan-24,Thailand,7340
+Feb-24,Thailand,8580
+Mar-24,Thailand,9580
+Apr-24,Thailand,16010
+May-24,Thailand,9390
+Jun-24,Thailand,7560
+Jul-24,Thailand,10300
+Jan-19,Vietnam,12830
+Feb-19,Vietnam,21640
+Mar-19,Vietnam,13380
+Apr-19,Vietnam,11230
+May-19,Vietnam,11380
+Jun-19,Vietnam,14760
+Jul-19,Vietnam,18460
+Aug-19,Vietnam,13960
+Sep-19,Vietnam,12590
+Oct-19,Vietnam,13670
+Nov-19,Vietnam,12780
+Dec-19,Vietnam,12160
+Jan-20,Vietnam,16140
+Feb-20,Vietnam,23300
+Mar-20,Vietnam,7640
+Apr-20,Vietnam,30
+May-20,Vietnam,30
+Jun-20,Vietnam,70
+Jul-20,Vietnam,70
+Aug-20,Vietnam,100
+Sep-20,Vietnam,120
+Oct-20,Vietnam,220
+Nov-20,Vietnam,240
+Dec-20,Vietnam,280
+Jan-21,Vietnam,230
+Feb-21,Vietnam,140
+Mar-21,Vietnam,460
+Apr-21,Vietnam,280
+May-21,Vietnam,370
+Jun-21,Vietnam,350
+Jul-21,Vietnam,260
+Aug-21,Vietnam,210
+Sep-21,Vietnam,190
+Oct-21,Vietnam,180
+Nov-21,Vietnam,700
+Dec-21,Vietnam,2540
+Jan-22,Vietnam,2540
+Feb-22,Vietnam,4900
+Mar-22,Vietnam,4120
+Apr-22,Vietnam,6420
+May-22,Vietnam,7550
+Jun-22,Vietnam,9180
+Jul-22,Vietnam,14870
+Aug-22,Vietnam,11220
+Sep-22,Vietnam,10530
+Oct-22,Vietnam,11900
+Nov-22,Vietnam,13800
+Dec-22,Vietnam,11820
+Jan-23,Vietnam,14300
+Feb-23,Vietnam,22150
+Mar-23,Vietnam,16790
+Apr-23,Vietnam,17140
+May-23,Vietnam,16140
+Jun-23,Vietnam,20550
+Jul-23,Vietnam,22220
+Aug-23,Vietnam,20520
+Sep-23,Vietnam,17650
+Oct-23,Vietnam,19600
+Nov-23,Vietnam,16390
+Dec-23,Vietnam,17890
+Jan-24,Vietnam,15410
+Feb-24,Vietnam,32570
+Mar-24,Vietnam,21010
+Apr-24,Vietnam,17820
+May-24,Vietnam,15600
+Jun-24,Vietnam,21580
+Jul-24,Vietnam,24880
+Jan-19,Brunei,280
+Feb-19,Brunei,520
+Mar-19,Brunei,510
+Apr-19,Brunei,330
+May-19,Brunei,420
+Jun-19,Brunei,490
+Jul-19,Brunei,670
+Aug-19,Brunei,520
+Sep-19,Brunei,530
+Oct-19,Brunei,430
+Nov-19,Brunei,470
+Dec-19,Brunei,730
+Jan-20,Brunei,350
+Feb-20,Brunei,560
+Mar-20,Brunei,160
+Jan-21,Brunei,20
+Apr-21,Brunei,10
+May-21,Brunei,20
+Jun-21,Brunei,10
+Jul-21,Brunei,10
+Nov-21,Brunei,10
+Dec-21,Brunei,40
+Jan-22,Brunei,30
+Feb-22,Brunei,120
+Mar-22,Brunei,60
+Apr-22,Brunei,120
+May-22,Brunei,190
+Jun-22,Brunei,180
+Jul-22,Brunei,410
+Aug-22,Brunei,330
+Sep-22,Brunei,290
+Oct-22,Brunei,250
+Nov-22,Brunei,310
+Dec-22,Brunei,460
+Jan-23,Brunei,300
+Feb-23,Brunei,490
+Mar-23,Brunei,230
+Apr-23,Brunei,400
+May-23,Brunei,330
+Jun-23,Brunei,360
+Jul-23,Brunei,610
+Aug-23,Brunei,560
+Sep-23,Brunei,380
+Oct-23,Brunei,270
+Nov-23,Brunei,380
+Dec-23,Brunei,580
+Jan-24,Brunei,260
+Feb-24,Brunei,570
+Mar-24,Brunei,460
+Apr-24,Brunei,480
+May-24,Brunei,320
+Jun-24,Brunei,380
+Jul-24,Brunei,650
+Jan-19,Indonesia,18800
+Feb-19,Indonesia,22030
+Mar-19,Indonesia,19530
+Apr-19,Indonesia,17430
+May-19,Indonesia,26700
+Jun-19,Indonesia,37590
+Jul-19,Indonesia,26110
+Aug-19,Indonesia,21130
+Sep-19,Indonesia,19550
+Oct-19,Indonesia,20430
+Nov-19,Indonesia,18790
+Dec-19,Indonesia,27670
+Jan-20,Indonesia,18510
+Feb-20,Indonesia,22790
+Mar-20,Indonesia,10020
+Apr-20,Indonesia,270
+May-20,Indonesia,100
+Jun-20,Indonesia,210
+Jul-20,Indonesia,200
+Aug-20,Indonesia,80
+Sep-20,Indonesia,140
+Oct-20,Indonesia,180
+Nov-20,Indonesia,270
+Dec-20,Indonesia,330
+Jan-21,Indonesia,230
+Feb-21,Indonesia,240
+Mar-21,Indonesia,220
+Apr-21,Indonesia,270
+May-21,Indonesia,310
+Jun-21,Indonesia,300
+Jul-21,Indonesia,230
+Aug-21,Indonesia,180
+Sep-21,Indonesia,380
+Oct-21,Indonesia,80
+Nov-21,Indonesia,670
+Dec-21,Indonesia,2220
+Jan-22,Indonesia,2150
+Feb-22,Indonesia,3800
+Mar-22,Indonesia,4240
+Apr-22,Indonesia,7480
+May-22,Indonesia,7930
+Jun-22,Indonesia,11040
+Jul-22,Indonesia,13730
+Aug-22,Indonesia,13350
+Sep-22,Indonesia,13320
+Oct-22,Indonesia,12300
+Nov-22,Indonesia,14010
+Dec-22,Indonesia,19850
+Jan-23,Indonesia,14150
+Feb-23,Indonesia,19750
+Mar-23,Indonesia,15200
+Apr-23,Indonesia,22750
+May-23,Indonesia,16980
+Jun-23,Indonesia,27050
+Jul-23,Indonesia,24160
+Aug-23,Indonesia,17400
+Sep-23,Indonesia,18240
+Oct-23,Indonesia,18440
+Nov-23,Indonesia,17890
+Dec-23,Indonesia,27180
+Jan-24,Indonesia,19940
+Feb-24,Indonesia,24740
+Mar-24,Indonesia,18770
+Apr-24,Indonesia,29160
+May-24,Indonesia,19630
+Jun-24,Indonesia,31480
+Jul-24,Indonesia,28250
+Jan-19,Malaysia,28300
+Feb-19,Malaysia,45480
+Mar-19,Malaysia,39290
+Apr-19,Malaysia,35600
+May-19,Malaysia,51690
+Jun-19,Malaysia,41740
+Jul-19,Malaysia,40840
+Aug-19,Malaysia,55950
+Sep-19,Malaysia,43100
+Oct-19,Malaysia,40420
+Nov-19,Malaysia,45950
+Dec-19,Malaysia,45780
+Jan-20,Malaysia,30650
+Feb-20,Malaysia,36820
+Mar-20,Malaysia,13980
+Apr-20,Malaysia,210
+May-20,Malaysia,80
+Jun-20,Malaysia,70
+Jul-20,Malaysia,280
+Aug-20,Malaysia,150
+Sep-20,Malaysia,120
+Oct-20,Malaysia,190
+Nov-20,Malaysia,200
+Dec-20,Malaysia,330
+Jan-21,Malaysia,360
+Feb-21,Malaysia,250
+Mar-21,Malaysia,370
+Apr-21,Malaysia,300
+May-21,Malaysia,410
+Jun-21,Malaysia,370
+Jul-21,Malaysia,350
+Aug-21,Malaysia,220
+Sep-21,Malaysia,180
+Oct-21,Malaysia,150
+Nov-21,Malaysia,950
+Dec-21,Malaysia,2150
+Jan-22,Malaysia,2680
+Feb-22,Malaysia,5130
+Mar-22,Malaysia,5340
+Apr-22,Malaysia,7800
+May-22,Malaysia,8750
+Jun-22,Malaysia,9070
+Jul-22,Malaysia,14880
+Aug-22,Malaysia,16770
+Sep-22,Malaysia,18980
+Oct-22,Malaysia,16950
+Nov-22,Malaysia,17670
+Dec-22,Malaysia,19280
+Jan-23,Malaysia,20520
+Feb-23,Malaysia,26370
+Mar-23,Malaysia,19600
+Apr-23,Malaysia,23600
+May-23,Malaysia,24340
+Jun-23,Malaysia,19330
+Jul-23,Malaysia,22140
+Aug-23,Malaysia,29380
+Sep-23,Malaysia,24250
+Oct-23,Malaysia,22960
+Nov-23,Malaysia,22690
+Dec-23,Malaysia,24770
+Jan-24,Malaysia,21010
+Feb-24,Malaysia,35150
+Mar-24,Malaysia,22650
+Apr-24,Malaysia,28140
+May-24,Malaysia,30680
+Jun-24,Malaysia,23490
+Jul-24,Malaysia,26770
+Jan-19,Philippines,21490
+Feb-19,Philippines,16720
+Mar-19,Philippines,17160
+Apr-19,Philippines,22320
+May-19,Philippines,23040
+Jun-19,Philippines,20510
+Jul-19,Philippines,19120
+Aug-19,Philippines,19170
+Sep-19,Philippines,17890
+Oct-19,Philippines,19900
+Nov-19,Philippines,16350
+Dec-19,Philippines,18760
+Jan-20,Philippines,20030
+Feb-20,Philippines,16970
+Mar-20,Philippines,8640
+Apr-20,Philippines,360
+May-20,Philippines,250
+Jun-20,Philippines,290
+Jul-20,Philippines,210
+Aug-20,Philippines,130
+Sep-20,Philippines,240
+Oct-20,Philippines,340
+Nov-20,Philippines,490
+Dec-20,Philippines,430
+Jan-21,Philippines,390
+Feb-21,Philippines,410
+Mar-21,Philippines,510
+Apr-21,Philippines,570
+May-21,Philippines,860
+Jun-21,Philippines,870
+Jul-21,Philippines,610
+Aug-21,Philippines,510
+Sep-21,Philippines,460
+Oct-21,Philippines,620
+Nov-21,Philippines,1410
+Dec-21,Philippines,3190
+Jan-22,Philippines,2730
+Feb-22,Philippines,4040
+Mar-22,Philippines,4960
+Apr-22,Philippines,6380
+May-22,Philippines,7790
+Jun-22,Philippines,8470
+Jul-22,Philippines,11020
+Aug-22,Philippines,13770
+Sep-22,Philippines,14900
+Oct-22,Philippines,15600
+Nov-22,Philippines,17340
+Dec-22,Philippines,20400
+Jan-23,Philippines,18380
+Feb-23,Philippines,18030
+Mar-23,Philippines,20720
+Apr-23,Philippines,18770
+May-23,Philippines,21320
+Jun-23,Philippines,23160
+Jul-23,Philippines,21910
+Aug-23,Philippines,22110
+Sep-23,Philippines,19150
+Oct-23,Philippines,19520
+Nov-23,Philippines,18470
+Dec-23,Philippines,22090
+Jan-24,Philippines,23740
+Feb-24,Philippines,22890
+Mar-24,Philippines,20940
+Apr-24,Philippines,18470
+May-24,Philippines,20790
+Jun-24,Philippines,26940
+Jul-24,Philippines,22910
+Jan-19,Singapore,16200
+Feb-19,Singapore,25020
+Mar-19,Singapore,27570
+Apr-19,Singapore,21930
+May-19,Singapore,32330
+Jun-19,Singapore,49820
+Jul-19,Singapore,26700
+Aug-19,Singapore,33760
+Sep-19,Singapore,29900
+Oct-19,Singapore,26660
+Nov-19,Singapore,39290
+Dec-19,Singapore,37070
+Jan-20,Singapore,17580
+Feb-20,Singapore,19870
+Mar-20,Singapore,9900
+Apr-20,Singapore,60
+May-20,Singapore,110
+Jun-20,Singapore,140
+Jul-20,Singapore,140
+Aug-20,Singapore,130
+Sep-20,Singapore,140
+Oct-20,Singapore,170
+Nov-20,Singapore,130
+Dec-20,Singapore,270
+Jan-21,Singapore,350
+Feb-21,Singapore,230
+Mar-21,Singapore,230
+Apr-21,Singapore,200
+May-21,Singapore,260
+Jun-21,Singapore,300
+Jul-21,Singapore,210
+Aug-21,Singapore,320
+Sep-21,Singapore,320
+Oct-21,Singapore,140
+Nov-21,Singapore,2130
+Dec-21,Singapore,5420
+Jan-22,Singapore,3890
+Feb-22,Singapore,6290
+Mar-22,Singapore,9410
+Apr-22,Singapore,15300
+May-22,Singapore,23560
+Jun-22,Singapore,32580
+Jul-22,Singapore,20650
+Aug-22,Singapore,24580
+Sep-22,Singapore,26000
+Oct-22,Singapore,21740
+Nov-22,Singapore,31060
+Dec-22,Singapore,25280
+Jan-23,Singapore,11140
+Feb-23,Singapore,16320
+Mar-23,Singapore,22670
+Apr-23,Singapore,17770
+May-23,Singapore,31410
+Jun-23,Singapore,35680
+Jul-23,Singapore,18770
+Aug-23,Singapore,24930
+Sep-23,Singapore,26670
+Oct-23,Singapore,20200
+Nov-23,Singapore,31460
+Dec-23,Singapore,29720
+Jan-24,Singapore,13850
+Feb-24,Singapore,22260
+Mar-24,Singapore,23370
+Apr-24,Singapore,22720
+May-24,Singapore,39640
+Jun-24,Singapore,45150
+Jul-24,Singapore,24600
+Jan-19,Timor-Leste,310
+Feb-19,Timor-Leste,280
+Mar-19,Timor-Leste,360
+Apr-19,Timor-Leste,370
+May-19,Timor-Leste,410
+Jun-19,Timor-Leste,330
+Jul-19,Timor-Leste,370
+Aug-19,Timor-Leste,300
+Sep-19,Timor-Leste,300
+Oct-19,Timor-Leste,530
+Nov-19,Timor-Leste,780
+Dec-19,Timor-Leste,440
+Jan-20,Timor-Leste,340
+Feb-20,Timor-Leste,390
+Mar-20,Timor-Leste,160
+Dec-20,Timor-Leste,160
+Feb-21,Timor-Leste,20
+Apr-21,Timor-Leste,10
+May-21,Timor-Leste,20
+Jun-21,Timor-Leste,10
+Jul-21,Timor-Leste,10
+Oct-21,Timor-Leste,10
+Nov-21,Timor-Leste,20
+Dec-21,Timor-Leste,30
+Jan-22,Timor-Leste,60
+Feb-22,Timor-Leste,100
+Mar-22,Timor-Leste,350
+Apr-22,Timor-Leste,340
+May-22,Timor-Leste,430
+Jun-22,Timor-Leste,580
+Jul-22,Timor-Leste,410
+Aug-22,Timor-Leste,690
+Sep-22,Timor-Leste,700
+Oct-22,Timor-Leste,860
+Nov-22,Timor-Leste,880
+Dec-22,Timor-Leste,670
+Jan-23,Timor-Leste,600
+Feb-23,Timor-Leste,590
+Mar-23,Timor-Leste,580
+Apr-23,Timor-Leste,480
+May-23,Timor-Leste,730
+Jun-23,Timor-Leste,700
+Jul-23,Timor-Leste,560
+Aug-23,Timor-Leste,640
+Sep-23,Timor-Leste,730
+Oct-23,Timor-Leste,770
+Nov-23,Timor-Leste,910
+Dec-23,Timor-Leste,620
+Jan-24,Timor-Leste,900
+Feb-24,Timor-Leste,600
+Mar-24,Timor-Leste,690
+Apr-24,Timor-Leste,550
+May-24,Timor-Leste,790
+Jun-24,Timor-Leste,570
+Jul-24,Timor-Leste,630
+Jan-19,China,188340
+Feb-19,China,252010
+Mar-19,China,151220
+Apr-19,China,128290
+May-19,China,123430
+Jun-19,China,107030
+Jul-19,China,187820
+Aug-19,China,152990
+Sep-19,China,124330
+Oct-19,China,137800
+Nov-19,China,128160
+Dec-19,China,132930
+Jan-20,China,202870
+Feb-20,China,50560
+Mar-20,China,38080
+Apr-20,China,310
+May-20,China,620
+Jun-20,China,1190
+Jul-20,China,620
+Aug-20,China,630
+Sep-20,China,780
+Oct-20,China,990
+Nov-20,China,1190
+Dec-20,China,1330
+Jan-21,China,1490
+Feb-21,China,1090
+Mar-21,China,1250
+Apr-21,China,1530
+May-21,China,1920
+Jun-21,China,1880
+Jul-21,China,1540
+Aug-21,China,1100
+Sep-21,China,910
+Oct-21,China,690
+Nov-21,China,3270
+Dec-21,China,7470
+Jan-22,China,8000
+Feb-22,China,15240
+Mar-22,China,9860
+Apr-22,China,7700
+May-22,China,9530
+Jun-22,China,14780
+Jul-22,China,28230
+Aug-22,China,18540
+Sep-22,China,17870
+Oct-22,China,17280
+Nov-22,China,20190
+Dec-22,China,30320
+Jan-23,China,34720
+Feb-23,China,70100
+Mar-23,China,45690
+Apr-23,China,61380
+May-23,China,56410
+Jun-23,China,62710
+Jul-23,China,122390
+Aug-23,China,83440
+Sep-23,China,86590
+Oct-23,China,79010
+Nov-23,China,73850
+Dec-23,China,94310
+Jan-24,China,131580
+Feb-24,China,204110
+Mar-24,China,87840
+Apr-24,China,98800
+May-24,China,84080
+Jun-24,China,84550
+Jul-24,China,152980
+Jan-19,Hong Kong,14980
+Feb-19,Hong Kong,30330
+Mar-19,Hong Kong,17760
+Apr-19,Hong Kong,22820
+May-19,Hong Kong,17180
+Jun-19,Hong Kong,16620
+Jul-19,Hong Kong,26730
+Aug-19,Hong Kong,28200
+Sep-19,Hong Kong,15880
+Oct-19,Hong Kong,16950
+Nov-19,Hong Kong,17130
+Dec-19,Hong Kong,25400
+Jan-20,Hong Kong,22590
+Feb-20,Hong Kong,19230
+Mar-20,Hong Kong,5180
+Apr-20,Hong Kong,30
+May-20,Hong Kong,40
+Jun-20,Hong Kong,80
+Jul-20,Hong Kong,70
+Aug-20,Hong Kong,80
+Sep-20,Hong Kong,80
+Oct-20,Hong Kong,90
+Nov-20,Hong Kong,110
+Dec-20,Hong Kong,200
+Jan-21,Hong Kong,220
+Feb-21,Hong Kong,150
+Mar-21,Hong Kong,160
+Apr-21,Hong Kong,170
+May-21,Hong Kong,270
+Jun-21,Hong Kong,320
+Jul-21,Hong Kong,280
+Aug-21,Hong Kong,230
+Sep-21,Hong Kong,190
+Oct-21,Hong Kong,160
+Nov-21,Hong Kong,500
+Dec-21,Hong Kong,1300
+Jan-22,Hong Kong,1610
+Feb-22,Hong Kong,2810
+Mar-22,Hong Kong,1700
+Apr-22,Hong Kong,2170
+May-22,Hong Kong,2070
+Jun-22,Hong Kong,3270
+Jul-22,Hong Kong,4590
+Aug-22,Hong Kong,3770
+Sep-22,Hong Kong,4000
+Oct-22,Hong Kong,5320
+Nov-22,Hong Kong,5760
+Dec-22,Hong Kong,9630
+Jan-23,Hong Kong,11520
+Feb-23,Hong Kong,12490
+Mar-23,Hong Kong,11190
+Apr-23,Hong Kong,13820
+May-23,Hong Kong,11000
+Jun-23,Hong Kong,10710
+Jul-23,Hong Kong,18170
+Aug-23,Hong Kong,17500
+Sep-23,Hong Kong,12550
+Oct-23,Hong Kong,13510
+Nov-23,Hong Kong,13320
+Dec-23,Hong Kong,20690
+Jan-24,Hong Kong,15290
+Feb-24,Hong Kong,24350
+Mar-24,Hong Kong,20090
+Apr-24,Hong Kong,12960
+May-24,Hong Kong,13900
+Jun-24,Hong Kong,14840
+Jul-24,Hong Kong,23000
+Jan-19,Macau,430
+Feb-19,Macau,870
+Mar-19,Macau,430
+Apr-19,Macau,490
+May-19,Macau,440
+Jun-19,Macau,410
+Jul-19,Macau,1010
+Aug-19,Macau,940
+Sep-19,Macau,430
+Oct-19,Macau,490
+Nov-19,Macau,370
+Dec-19,Macau,690
+Jan-20,Macau,630
+Feb-20,Macau,530
+Mar-20,Macau,80
+Dec-21,Macau,20
+Jan-22,Macau,40
+Feb-22,Macau,110
+Mar-22,Macau,30
+Apr-22,Macau,20
+May-22,Macau,20
+Jun-22,Macau,50
+Jul-22,Macau,80
+Aug-22,Macau,60
+Sep-22,Macau,60
+Oct-22,Macau,50
+Nov-22,Macau,70
+Dec-22,Macau,120
+Jan-23,Macau,160
+Feb-23,Macau,320
+Mar-23,Macau,160
+Apr-23,Macau,170
+May-23,Macau,190
+Jun-23,Macau,220
+Jul-23,Macau,540
+Aug-23,Macau,500
+Sep-23,Macau,250
+Oct-23,Macau,250
+Nov-23,Macau,260
+Dec-23,Macau,490
+Jan-24,Macau,370
+Feb-24,Macau,680
+Mar-24,Macau,250
+Apr-24,Macau,240
+May-24,Macau,260
+Jun-24,Macau,300
+Jul-24,Macau,750
+Jan-19,Mongolia,840
+Feb-19,Mongolia,720
+Mar-19,Mongolia,660
+Apr-19,Mongolia,500
+May-19,Mongolia,530
+Jun-19,Mongolia,590
+Jul-19,Mongolia,810
+Aug-19,Mongolia,1070
+Sep-19,Mongolia,710
+Oct-19,Mongolia,690
+Nov-19,Mongolia,620
+Dec-19,Mongolia,890
+Jan-20,Mongolia,750
+Feb-20,Mongolia,530
+Mar-20,Mongolia,160
+Jun-20,Mongolia,10
+Aug-20,Mongolia,10
+Sep-20,Mongolia,10
+Dec-20,Mongolia,10
+Mar-21,Mongolia,10
+May-21,Mongolia,10
+Jun-21,Mongolia,10
+Aug-21,Mongolia,10
+Oct-21,Mongolia,10
+Nov-21,Mongolia,30
+Dec-21,Mongolia,330
+Jan-22,Mongolia,180
+Feb-22,Mongolia,180
+Mar-22,Mongolia,270
+Apr-22,Mongolia,240
+May-22,Mongolia,270
+Jun-22,Mongolia,320
+Jul-22,Mongolia,640
+Aug-22,Mongolia,1350
+Sep-22,Mongolia,1110
+Oct-22,Mongolia,740
+Nov-22,Mongolia,1260
+Dec-22,Mongolia,1200
+Jan-23,Mongolia,850
+Feb-23,Mongolia,1440
+Mar-23,Mongolia,1730
+Apr-23,Mongolia,1170
+May-23,Mongolia,1430
+Jun-23,Mongolia,2050
+Jul-23,Mongolia,1300
+Aug-23,Mongolia,1870
+Sep-23,Mongolia,1720
+Oct-23,Mongolia,1330
+Nov-23,Mongolia,1440
+Dec-23,Mongolia,1860
+Jan-24,Mongolia,1680
+Feb-24,Mongolia,1450
+Mar-24,Mongolia,1220
+Apr-24,Mongolia,900
+May-24,Mongolia,790
+Jun-24,Mongolia,1080
+Jul-24,Mongolia,1600
+Jan-19,Taiwan,16300
+Feb-19,Taiwan,23040
+Mar-19,Taiwan,17040
+Apr-19,Taiwan,14360
+May-19,Taiwan,15920
+Jun-19,Taiwan,17610
+Jul-19,Taiwan,18190
+Aug-19,Taiwan,21600
+Sep-19,Taiwan,16290
+Oct-19,Taiwan,17630
+Nov-19,Taiwan,15440
+Dec-19,Taiwan,14510
+Jan-20,Taiwan,19990
+Feb-20,Taiwan,16020
+Mar-20,Taiwan,3750
+Apr-20,Taiwan,30
+May-20,Taiwan,40
+Jun-20,Taiwan,100
+Jul-20,Taiwan,60
+Aug-20,Taiwan,40
+Sep-20,Taiwan,40
+Oct-20,Taiwan,60
+Nov-20,Taiwan,40
+Dec-20,Taiwan,60
+Jan-21,Taiwan,80
+Feb-21,Taiwan,40
+Mar-21,Taiwan,90
+Apr-21,Taiwan,40
+May-21,Taiwan,60
+Jun-21,Taiwan,80
+Jul-21,Taiwan,110
+Aug-21,Taiwan,70
+Sep-21,Taiwan,60
+Oct-21,Taiwan,30
+Nov-21,Taiwan,80
+Dec-21,Taiwan,310
+Jan-22,Taiwan,610
+Feb-22,Taiwan,1270
+Mar-22,Taiwan,1400
+Apr-22,Taiwan,1560
+May-22,Taiwan,1570
+Jun-22,Taiwan,2480
+Jul-22,Taiwan,3690
+Aug-22,Taiwan,3490
+Sep-22,Taiwan,3580
+Oct-22,Taiwan,4340
+Nov-22,Taiwan,4680
+Dec-22,Taiwan,6140
+Jan-23,Taiwan,10830
+Feb-23,Taiwan,11180
+Mar-23,Taiwan,10080
+Apr-23,Taiwan,9000
+May-23,Taiwan,9500
+Jun-23,Taiwan,12680
+Jul-23,Taiwan,15800
+Aug-23,Taiwan,15430
+Sep-23,Taiwan,11840
+Oct-23,Taiwan,13310
+Nov-23,Taiwan,11300
+Dec-23,Taiwan,11210
+Jan-24,Taiwan,13630
+Feb-24,Taiwan,22400
+Mar-24,Taiwan,15340
+Apr-24,Taiwan,12390
+May-24,Taiwan,13230
+Jun-24,Taiwan,17450
+Jul-24,Taiwan,22200
+Jan-19,Japan,34490
+Feb-19,Japan,46530
+Mar-19,Japan,54520
+Apr-19,Japan,35350
+May-19,Japan,31020
+Jun-19,Japan,27510
+Jul-19,Japan,45060
+Aug-19,Japan,62740
+Sep-19,Japan,42680
+Oct-19,Japan,43000
+Nov-19,Japan,46480
+Dec-19,Japan,53860
+Jan-20,Japan,38790
+Feb-20,Japan,44870
+Mar-20,Japan,14090
+Apr-20,Japan,60
+May-20,Japan,110
+Jun-20,Japan,100
+Jul-20,Japan,120
+Aug-20,Japan,160
+Sep-20,Japan,150
+Oct-20,Japan,160
+Nov-20,Japan,290
+Dec-20,Japan,270
+Jan-21,Japan,260
+Feb-21,Japan,200
+Mar-21,Japan,250
+Apr-21,Japan,320
+May-21,Japan,420
+Jun-21,Japan,300
+Jul-21,Japan,220
+Aug-21,Japan,130
+Sep-21,Japan,120
+Oct-21,Japan,100
+Nov-21,Japan,270
+Dec-21,Japan,920
+Jan-22,Japan,1630
+Feb-22,Japan,1900
+Mar-22,Japan,2960
+Apr-22,Japan,5350
+May-22,Japan,5240
+Jun-22,Japan,5180
+Jul-22,Japan,9950
+Aug-22,Japan,14470
+Sep-22,Japan,10150
+Oct-22,Japan,13590
+Nov-22,Japan,15540
+Dec-22,Japan,15780
+Jan-23,Japan,15030
+Feb-23,Japan,25410
+Mar-23,Japan,28790
+Apr-23,Japan,17810
+May-23,Japan,20240
+Jun-23,Japan,17340
+Jul-23,Japan,32100
+Aug-23,Japan,45000
+Sep-23,Japan,27840
+Oct-23,Japan,29710
+Nov-23,Japan,34440
+Dec-23,Japan,35690
+Jan-24,Japan,26350
+Feb-24,Japan,44510
+Mar-24,Japan,47480
+Apr-24,Japan,25850
+May-24,Japan,24600
+Jun-24,Japan,24200
+Jul-24,Japan,36690
+Jan-19,"Korea, South",39020
+Feb-19,"Korea, South",37020
+Mar-19,"Korea, South",31460
+Apr-19,"Korea, South",22450
+May-19,"Korea, South",24380
+Jun-19,"Korea, South",24550
+Jul-19,"Korea, South",26950
+Aug-19,"Korea, South",26660
+Sep-19,"Korea, South",25100
+Oct-19,"Korea, South",27170
+Nov-19,"Korea, South",32210
+Dec-19,"Korea, South",38090
+Jan-20,"Korea, South",38020
+Feb-20,"Korea, South",27410
+Mar-20,"Korea, South",4050
+Apr-20,"Korea, South",30
+May-20,"Korea, South",80
+Jun-20,"Korea, South",100
+Jul-20,"Korea, South",110
+Aug-20,"Korea, South",120
+Sep-20,"Korea, South",100
+Oct-20,"Korea, South",130
+Nov-20,"Korea, South",130
+Dec-20,"Korea, South",200
+Jan-21,"Korea, South",210
+Feb-21,"Korea, South",190
+Mar-21,"Korea, South",190
+Apr-21,"Korea, South",210
+May-21,"Korea, South",260
+Jun-21,"Korea, South",220
+Jul-21,"Korea, South",200
+Aug-21,"Korea, South",130
+Sep-21,"Korea, South",60
+Oct-21,"Korea, South",90
+Nov-21,"Korea, South",440
+Dec-21,"Korea, South",2000
+Jan-22,"Korea, South",2540
+Feb-22,"Korea, South",3030
+Mar-22,"Korea, South",3660
+Apr-22,"Korea, South",5650
+May-22,"Korea, South",6000
+Jun-22,"Korea, South",7060
+Jul-22,"Korea, South",10270
+Aug-22,"Korea, South",9580
+Sep-22,"Korea, South",9370
+Oct-22,"Korea, South",10260
+Nov-22,"Korea, South",15220
+Dec-22,"Korea, South",19220
+Jan-23,"Korea, South",24360
+Feb-23,"Korea, South",29530
+Mar-23,"Korea, South",22840
+Apr-23,"Korea, South",20600
+May-23,"Korea, South",22830
+Jun-23,"Korea, South",22130
+Jul-23,"Korea, South",27130
+Aug-23,"Korea, South",33600
+Sep-23,"Korea, South",31520
+Oct-23,"Korea, South",31030
+Nov-23,"Korea, South",35890
+Dec-23,"Korea, South",40780
+Jan-24,"Korea, South",40330
+Feb-24,"Korea, South",47570
+Mar-24,"Korea, South",34810
+Apr-24,"Korea, South",29130
+May-24,"Korea, South",31360
+Jun-24,"Korea, South",29990
+Jul-24,"Korea, South",36540
+Jan-19,Bangladesh,2820
+Feb-19,Bangladesh,4180
+Mar-19,Bangladesh,3350
+Apr-19,Bangladesh,2340
+May-19,Bangladesh,2350
+Jun-19,Bangladesh,2390
+Jul-19,Bangladesh,3050
+Aug-19,Bangladesh,3030
+Sep-19,Bangladesh,2420
+Oct-19,Bangladesh,2280
+Nov-19,Bangladesh,2400
+Dec-19,Bangladesh,3350
+Jan-20,Bangladesh,2960
+Feb-20,Bangladesh,4610
+Mar-20,Bangladesh,2250
+Apr-20,Bangladesh,60
+May-20,Bangladesh,70
+Jun-20,Bangladesh,60
+Jul-20,Bangladesh,30
+Aug-20,Bangladesh,30
+Sep-20,Bangladesh,50
+Oct-20,Bangladesh,60
+Nov-20,Bangladesh,70
+Dec-20,Bangladesh,90
+Jan-21,Bangladesh,80
+Feb-21,Bangladesh,100
+Mar-21,Bangladesh,100
+Apr-21,Bangladesh,100
+May-21,Bangladesh,160
+Jun-21,Bangladesh,120
+Jul-21,Bangladesh,90
+Aug-21,Bangladesh,20
+Sep-21,Bangladesh,30
+Oct-21,Bangladesh,40
+Nov-21,Bangladesh,320
+Dec-21,Bangladesh,1360
+Jan-22,Bangladesh,1480
+Feb-22,Bangladesh,2120
+Mar-22,Bangladesh,2090
+Apr-22,Bangladesh,1530
+May-22,Bangladesh,1970
+Jun-22,Bangladesh,1910
+Jul-22,Bangladesh,2740
+Aug-22,Bangladesh,2870
+Sep-22,Bangladesh,2200
+Oct-22,Bangladesh,2340
+Nov-22,Bangladesh,2350
+Dec-22,Bangladesh,2820
+Jan-23,Bangladesh,2450
+Feb-23,Bangladesh,4720
+Mar-23,Bangladesh,3440
+Apr-23,Bangladesh,2220
+May-23,Bangladesh,3110
+Jun-23,Bangladesh,2600
+Jul-23,Bangladesh,4820
+Aug-23,Bangladesh,2910
+Sep-23,Bangladesh,2620
+Oct-23,Bangladesh,2730
+Nov-23,Bangladesh,2820
+Dec-23,Bangladesh,4340
+Jan-24,Bangladesh,3270
+Feb-24,Bangladesh,6600
+Mar-24,Bangladesh,3240
+Apr-24,Bangladesh,2970
+May-24,Bangladesh,2640
+Jun-24,Bangladesh,3750
+Jul-24,Bangladesh,5980
+Jan-19,Bhutan,590
+Feb-19,Bhutan,850
+Mar-19,Bhutan,410
+Apr-19,Bhutan,310
+May-19,Bhutan,280
+Jun-19,Bhutan,370
+Jul-19,Bhutan,630
+Aug-19,Bhutan,380
+Sep-19,Bhutan,260
+Oct-19,Bhutan,300
+Nov-19,Bhutan,400
+Dec-19,Bhutan,470
+Jan-20,Bhutan,660
+Feb-20,Bhutan,1040
+Mar-20,Bhutan,320
+Jun-20,Bhutan,10
+Dec-20,Bhutan,20
+Mar-21,Bhutan,10
+Jul-21,Bhutan,10
+Sep-21,Bhutan,10
+Dec-21,Bhutan,420
+Jan-22,Bhutan,260
+Feb-22,Bhutan,360
+Mar-22,Bhutan,140
+Apr-22,Bhutan,160
+May-22,Bhutan,310
+Jun-22,Bhutan,580
+Jul-22,Bhutan,800
+Aug-22,Bhutan,1090
+Sep-22,Bhutan,590
+Oct-22,Bhutan,680
+Nov-22,Bhutan,1020
+Dec-22,Bhutan,1350
+Jan-23,Bhutan,2440
+Feb-23,Bhutan,3030
+Mar-23,Bhutan,1460
+Apr-23,Bhutan,1200
+May-23,Bhutan,1760
+Jun-23,Bhutan,1770
+Jul-23,Bhutan,2170
+Aug-23,Bhutan,1260
+Sep-23,Bhutan,920
+Oct-23,Bhutan,1120
+Nov-23,Bhutan,1360
+Dec-23,Bhutan,1710
+Jan-24,Bhutan,1940
+Feb-24,Bhutan,2290
+Mar-24,Bhutan,810
+Apr-24,Bhutan,750
+May-24,Bhutan,710
+Jun-24,Bhutan,690
+Jul-24,Bhutan,1010
+Jan-19,India,62760
+Feb-19,India,75000
+Mar-19,India,63860
+Apr-19,India,51990
+May-19,India,62230
+Jun-19,India,53800
+Jul-19,India,53640
+Aug-19,India,53110
+Sep-19,India,49500
+Oct-19,India,47530
+Nov-19,India,60360
+Dec-19,India,66210
+Jan-20,India,62830
+Feb-20,India,79000
+Mar-20,India,38950
+Apr-20,India,980
+May-20,India,1310
+Jun-20,India,1370
+Jul-20,India,480
+Aug-20,India,610
+Sep-20,India,690
+Oct-20,India,1070
+Nov-20,India,1140
+Dec-20,India,1720
+Jan-21,India,1470
+Feb-21,India,1550
+Mar-21,India,1930
+Apr-21,India,1800
+May-21,India,1400
+Jun-21,India,1810
+Jul-21,India,1780
+Aug-21,India,1510
+Sep-21,India,950
+Oct-21,India,1130
+Nov-21,India,5060
+Dec-21,India,22010
+Jan-22,India,22260
+Feb-22,India,27140
+Mar-22,India,32210
+Apr-22,India,45390
+May-22,India,56330
+Jun-22,India,46810
+Jul-22,India,44260
+Aug-22,India,53740
+Sep-22,India,44480
+Oct-22,India,47410
+Nov-22,India,58620
+Dec-22,India,60020
+Jan-23,India,58720
+Feb-23,India,76080
+Mar-23,India,74870
+Apr-23,India,60580
+May-23,India,65480
+Jun-23,India,61470
+Jul-23,India,54520
+Aug-23,India,50400
+Sep-23,India,49140
+Oct-23,India,47400
+Nov-23,India,60830
+Dec-23,India,73480
+Jan-24,India,69220
+Feb-24,India,84630
+Mar-24,India,76500
+Apr-24,India,62970
+May-24,India,66620
+Jun-24,India,61370
+Jul-24,India,55490
+Jan-19,Maldives,130
+Feb-19,Maldives,170
+Mar-19,Maldives,90
+Apr-19,Maldives,80
+May-19,Maldives,50
+Jun-19,Maldives,90
+Jul-19,Maldives,120
+Aug-19,Maldives,130
+Sep-19,Maldives,110
+Oct-19,Maldives,120
+Nov-19,Maldives,120
+Dec-19,Maldives,180
+Jan-20,Maldives,150
+Feb-20,Maldives,130
+Mar-20,Maldives,60
+May-21,Maldives,10
+Jun-21,Maldives,10
+Dec-21,Maldives,10
+Jan-22,Maldives,20
+Feb-22,Maldives,40
+Mar-22,Maldives,40
+Apr-22,Maldives,50
+May-22,Maldives,60
+Jun-22,Maldives,60
+Jul-22,Maldives,90
+Aug-22,Maldives,50
+Sep-22,Maldives,60
+Oct-22,Maldives,60
+Nov-22,Maldives,70
+Dec-22,Maldives,130
+Jan-23,Maldives,110
+Feb-23,Maldives,150
+Mar-23,Maldives,50
+Apr-23,Maldives,70
+May-23,Maldives,100
+Jun-23,Maldives,130
+Jul-23,Maldives,190
+Aug-23,Maldives,90
+Sep-23,Maldives,90
+Oct-23,Maldives,120
+Nov-23,Maldives,60
+Dec-23,Maldives,110
+Jan-24,Maldives,150
+Feb-24,Maldives,170
+Mar-24,Maldives,70
+Apr-24,Maldives,120
+May-24,Maldives,130
+Jun-24,Maldives,100
+Jul-24,Maldives,150
+Jan-19,Nepal,4940
+Feb-19,Nepal,8380
+Mar-19,Nepal,8130
+Apr-19,Nepal,5030
+May-19,Nepal,6750
+Jun-19,Nepal,5420
+Jul-19,Nepal,6550
+Aug-19,Nepal,5510
+Sep-19,Nepal,5440
+Oct-19,Nepal,6610
+Nov-19,Nepal,9410
+Dec-19,Nepal,9120
+Jan-20,Nepal,4350
+Feb-20,Nepal,8880
+Mar-20,Nepal,5950
+Apr-20,Nepal,60
+May-20,Nepal,150
+Jun-20,Nepal,250
+Jul-20,Nepal,10
+Sep-20,Nepal,10
+Oct-20,Nepal,130
+Nov-20,Nepal,90
+Dec-20,Nepal,80
+Jan-21,Nepal,80
+Feb-21,Nepal,120
+Mar-21,Nepal,110
+Apr-21,Nepal,170
+May-21,Nepal,110
+Jun-21,Nepal,50
+Jul-21,Nepal,60
+Aug-21,Nepal,70
+Sep-21,Nepal,40
+Oct-21,Nepal,20
+Nov-21,Nepal,490
+Dec-21,Nepal,5780
+Jan-22,Nepal,4160
+Feb-22,Nepal,5080
+Mar-22,Nepal,8350
+Apr-22,Nepal,6950
+May-22,Nepal,8560
+Jun-22,Nepal,9090
+Jul-22,Nepal,8590
+Aug-22,Nepal,7670
+Sep-22,Nepal,6390
+Oct-22,Nepal,7210
+Nov-22,Nepal,12790
+Dec-22,Nepal,11680
+Jan-23,Nepal,6140
+Feb-23,Nepal,9990
+Mar-23,Nepal,12930
+Apr-23,Nepal,7820
+May-23,Nepal,10760
+Jun-23,Nepal,9410
+Jul-23,Nepal,8250
+Aug-23,Nepal,7760
+Sep-23,Nepal,7350
+Oct-23,Nepal,10270
+Nov-23,Nepal,13950
+Dec-23,Nepal,15230
+Jan-24,Nepal,7790
+Feb-24,Nepal,11020
+Mar-24,Nepal,10310
+Apr-24,Nepal,7630
+May-24,Nepal,9550
+Jun-24,Nepal,7580
+Jul-24,Nepal,8020
+Jan-19,Pakistan,6660
+Feb-19,Pakistan,6980
+Mar-19,Pakistan,5460
+Apr-19,Pakistan,4700
+May-19,Pakistan,3900
+Jun-19,Pakistan,4300
+Jul-19,Pakistan,4110
+Aug-19,Pakistan,4790
+Sep-19,Pakistan,4320
+Oct-19,Pakistan,3850
+Nov-19,Pakistan,4090
+Dec-19,Pakistan,4840
+Jan-20,Pakistan,6600
+Feb-20,Pakistan,7990
+Mar-20,Pakistan,4940
+Apr-20,Pakistan,280
+May-20,Pakistan,310
+Jun-20,Pakistan,430
+Jul-20,Pakistan,150
+Aug-20,Pakistan,100
+Sep-20,Pakistan,70
+Oct-20,Pakistan,200
+Nov-20,Pakistan,180
+Dec-20,Pakistan,380
+Jan-21,Pakistan,310
+Feb-21,Pakistan,240
+Mar-21,Pakistan,340
+Apr-21,Pakistan,480
+May-21,Pakistan,340
+Jun-21,Pakistan,270
+Jul-21,Pakistan,150
+Aug-21,Pakistan,190
+Sep-21,Pakistan,270
+Oct-21,Pakistan,200
+Nov-21,Pakistan,630
+Dec-21,Pakistan,4060
+Jan-22,Pakistan,2800
+Feb-22,Pakistan,3870
+Mar-22,Pakistan,4710
+Apr-22,Pakistan,3010
+May-22,Pakistan,4760
+Jun-22,Pakistan,3990
+Jul-22,Pakistan,3270
+Aug-22,Pakistan,4750
+Sep-22,Pakistan,4270
+Oct-22,Pakistan,4800
+Nov-22,Pakistan,5430
+Dec-22,Pakistan,4860
+Jan-23,Pakistan,4320
+Feb-23,Pakistan,7610
+Mar-23,Pakistan,8320
+Apr-23,Pakistan,3880
+May-23,Pakistan,6890
+Jun-23,Pakistan,5560
+Jul-23,Pakistan,6360
+Aug-23,Pakistan,5540
+Sep-23,Pakistan,4180
+Oct-23,Pakistan,3770
+Nov-23,Pakistan,4890
+Dec-23,Pakistan,5070
+Jan-24,Pakistan,5370
+Feb-24,Pakistan,8060
+Mar-24,Pakistan,5650
+Apr-24,Pakistan,4830
+May-24,Pakistan,5610
+Jun-24,Pakistan,4920
+Jul-24,Pakistan,5480
+Jan-19,Sri Lanka,7370
+Feb-19,Sri Lanka,7930
+Mar-19,Sri Lanka,6330
+Apr-19,Sri Lanka,7130
+May-19,Sri Lanka,5110
+Jun-19,Sri Lanka,4710
+Jul-19,Sri Lanka,6300
+Aug-19,Sri Lanka,6370
+Sep-19,Sri Lanka,6060
+Oct-19,Sri Lanka,6090
+Nov-19,Sri Lanka,6290
+Dec-19,Sri Lanka,9330
+Jan-20,Sri Lanka,6900
+Feb-20,Sri Lanka,7970
+Mar-20,Sri Lanka,3730
+Apr-20,Sri Lanka,60
+May-20,Sri Lanka,130
+Jun-20,Sri Lanka,80
+Jul-20,Sri Lanka,40
+Aug-20,Sri Lanka,50
+Sep-20,Sri Lanka,110
+Oct-20,Sri Lanka,90
+Nov-20,Sri Lanka,80
+Dec-20,Sri Lanka,200
+Jan-21,Sri Lanka,190
+Feb-21,Sri Lanka,130
+Mar-21,Sri Lanka,170
+Apr-21,Sri Lanka,200
+May-21,Sri Lanka,260
+Jun-21,Sri Lanka,210
+Jul-21,Sri Lanka,180
+Aug-21,Sri Lanka,120
+Sep-21,Sri Lanka,130
+Oct-21,Sri Lanka,130
+Nov-21,Sri Lanka,740
+Dec-21,Sri Lanka,2750
+Jan-22,Sri Lanka,2350
+Feb-22,Sri Lanka,3120
+Mar-22,Sri Lanka,3820
+Apr-22,Sri Lanka,4120
+May-22,Sri Lanka,4480
+Jun-22,Sri Lanka,3820
+Jul-22,Sri Lanka,3650
+Aug-22,Sri Lanka,4990
+Sep-22,Sri Lanka,5410
+Oct-22,Sri Lanka,4800
+Nov-22,Sri Lanka,6280
+Dec-22,Sri Lanka,7050
+Jan-23,Sri Lanka,5190
+Feb-23,Sri Lanka,7740
+Mar-23,Sri Lanka,7500
+Apr-23,Sri Lanka,6920
+May-23,Sri Lanka,6630
+Jun-23,Sri Lanka,6450
+Jul-23,Sri Lanka,7310
+Aug-23,Sri Lanka,6820
+Sep-23,Sri Lanka,6570
+Oct-23,Sri Lanka,6240
+Nov-23,Sri Lanka,7380
+Dec-23,Sri Lanka,8350
+Jan-24,Sri Lanka,7690
+Feb-24,Sri Lanka,9990
+Mar-24,Sri Lanka,7880
+Apr-24,Sri Lanka,7430
+May-24,Sri Lanka,6850
+Jun-24,Sri Lanka,7140
+Jul-24,Sri Lanka,7380
+Jan-19,Afghanistan,960
+Feb-19,Afghanistan,1310
+Mar-19,Afghanistan,1070
+Apr-19,Afghanistan,1040
+May-19,Afghanistan,1300
+Jun-19,Afghanistan,1090
+Jul-19,Afghanistan,810
+Aug-19,Afghanistan,1190
+Sep-19,Afghanistan,880
+Oct-19,Afghanistan,1010
+Nov-19,Afghanistan,1030
+Dec-19,Afghanistan,1060
+Jan-20,Afghanistan,840
+Feb-20,Afghanistan,1350
+Mar-20,Afghanistan,1120
+Apr-20,Afghanistan,140
+May-20,Afghanistan,220
+Jun-20,Afghanistan,250
+Jul-20,Afghanistan,50
+Aug-20,Afghanistan,30
+Sep-20,Afghanistan,50
+Oct-20,Afghanistan,90
+Nov-20,Afghanistan,160
+Dec-20,Afghanistan,170
+Jan-21,Afghanistan,110
+Feb-21,Afghanistan,140
+Mar-21,Afghanistan,390
+Apr-21,Afghanistan,400
+May-21,Afghanistan,280
+Jun-21,Afghanistan,350
+Jul-21,Afghanistan,330
+Aug-21,Afghanistan,1000
+Sep-21,Afghanistan,810
+Oct-21,Afghanistan,250
+Nov-21,Afghanistan,930
+Dec-21,Afghanistan,580
+Jan-22,Afghanistan,380
+Feb-22,Afghanistan,880
+Mar-22,Afghanistan,500
+Apr-22,Afghanistan,550
+May-22,Afghanistan,590
+Jun-22,Afghanistan,820
+Jul-22,Afghanistan,610
+Aug-22,Afghanistan,1150
+Sep-22,Afghanistan,950
+Oct-22,Afghanistan,760
+Nov-22,Afghanistan,1120
+Dec-22,Afghanistan,1050
+Jan-23,Afghanistan,450
+Feb-23,Afghanistan,1080
+Mar-23,Afghanistan,1400
+Apr-23,Afghanistan,1050
+May-23,Afghanistan,1270
+Jun-23,Afghanistan,1690
+Jul-23,Afghanistan,1020
+Aug-23,Afghanistan,1720
+Sep-23,Afghanistan,1390
+Oct-23,Afghanistan,1560
+Nov-23,Afghanistan,2070
+Dec-23,Afghanistan,1710
+Jan-24,Afghanistan,1510
+Feb-24,Afghanistan,1870
+Mar-24,Afghanistan,1750
+Apr-24,Afghanistan,1190
+May-24,Afghanistan,1840
+Jun-24,Afghanistan,1500
+Jul-24,Afghanistan,1530
+Jan-19,Armenia,50
+Feb-19,Armenia,30
+Mar-19,Armenia,10
+Apr-19,Armenia,20
+May-19,Armenia,30
+Jun-19,Armenia,30
+Jul-19,Armenia,30
+Aug-19,Armenia,20
+Sep-19,Armenia,50
+Oct-19,Armenia,30
+Nov-19,Armenia,50
+Dec-19,Armenia,70
+Jan-20,Armenia,30
+Feb-20,Armenia,30
+Mar-20,Armenia,10
+May-21,Armenia,10
+Dec-21,Armenia,10
+Jan-22,Armenia,10
+Feb-22,Armenia,10
+Mar-22,Armenia,20
+Apr-22,Armenia,10
+May-22,Armenia,20
+Jun-22,Armenia,20
+Jul-22,Armenia,20
+Aug-22,Armenia,30
+Sep-22,Armenia,10
+Oct-22,Armenia,30
+Nov-22,Armenia,50
+Dec-22,Armenia,100
+Jan-23,Armenia,30
+Feb-23,Armenia,50
+Mar-23,Armenia,40
+Apr-23,Armenia,30
+May-23,Armenia,30
+Jun-23,Armenia,30
+Jul-23,Armenia,30
+Aug-23,Armenia,40
+Sep-23,Armenia,20
+Oct-23,Armenia,30
+Nov-23,Armenia,90
+Dec-23,Armenia,80
+Jan-24,Armenia,30
+Feb-24,Armenia,40
+Mar-24,Armenia,40
+Apr-24,Armenia,40
+May-24,Armenia,20
+Jun-24,Armenia,20
+Jul-24,Armenia,40
+Jan-19,Azerbaijan,50
+Feb-19,Azerbaijan,20
+Mar-19,Azerbaijan,30
+Apr-19,Azerbaijan,30
+May-19,Azerbaijan,30
+Jun-19,Azerbaijan,30
+Jul-19,Azerbaijan,40
+Aug-19,Azerbaijan,20
+Sep-19,Azerbaijan,30
+Oct-19,Azerbaijan,40
+Nov-19,Azerbaijan,40
+Dec-19,Azerbaijan,30
+Jan-20,Azerbaijan,60
+Feb-20,Azerbaijan,30
+Mar-20,Azerbaijan,20
+Jun-21,Azerbaijan,10
+Nov-21,Azerbaijan,10
+Dec-21,Azerbaijan,10
+Jan-22,Azerbaijan,20
+Feb-22,Azerbaijan,10
+Mar-22,Azerbaijan,10
+Apr-22,Azerbaijan,30
+May-22,Azerbaijan,10
+Jun-22,Azerbaijan,20
+Jul-22,Azerbaijan,20
+Aug-22,Azerbaijan,30
+Sep-22,Azerbaijan,20
+Oct-22,Azerbaijan,30
+Nov-22,Azerbaijan,40
+Dec-22,Azerbaijan,30
+Jan-23,Azerbaijan,20
+Feb-23,Azerbaijan,30
+Mar-23,Azerbaijan,60
+Apr-23,Azerbaijan,30
+May-23,Azerbaijan,30
+Jun-23,Azerbaijan,30
+Jul-23,Azerbaijan,30
+Aug-23,Azerbaijan,40
+Sep-23,Azerbaijan,40
+Oct-23,Azerbaijan,40
+Nov-23,Azerbaijan,60
+Dec-23,Azerbaijan,70
+Jan-24,Azerbaijan,40
+Feb-24,Azerbaijan,40
+Mar-24,Azerbaijan,40
+Apr-24,Azerbaijan,30
+May-24,Azerbaijan,40
+Jun-24,Azerbaijan,40
+Jul-24,Azerbaijan,30
+Jan-19,Georgia,30
+Feb-19,Georgia,20
+Mar-19,Georgia,20
+Apr-19,Georgia,20
+May-19,Georgia,20
+Jun-19,Georgia,20
+Jul-19,Georgia,10
+Aug-19,Georgia,20
+Sep-19,Georgia,20
+Oct-19,Georgia,40
+Nov-19,Georgia,20
+Dec-19,Georgia,30
+Jan-20,Georgia,30
+Feb-20,Georgia,30
+Mar-20,Georgia,30
+Aug-20,Georgia,10
+Oct-20,Georgia,10
+Jan-21,Georgia,10
+Mar-21,Georgia,10
+May-21,Georgia,10
+Jun-21,Georgia,10
+Jul-21,Georgia,10
+Sep-21,Georgia,10
+Nov-21,Georgia,10
+Dec-21,Georgia,30
+Jan-22,Georgia,10
+Feb-22,Georgia,10
+Mar-22,Georgia,20
+Apr-22,Georgia,10
+May-22,Georgia,20
+Jun-22,Georgia,20
+Jul-22,Georgia,20
+Aug-22,Georgia,10
+Sep-22,Georgia,20
+Oct-22,Georgia,20
+Nov-22,Georgia,30
+Dec-22,Georgia,30
+Jan-23,Georgia,30
+Feb-23,Georgia,30
+Mar-23,Georgia,20
+Apr-23,Georgia,10
+May-23,Georgia,20
+Jun-23,Georgia,20
+Jul-23,Georgia,20
+Aug-23,Georgia,30
+Sep-23,Georgia,30
+Oct-23,Georgia,20
+Nov-23,Georgia,30
+Dec-23,Georgia,30
+Jan-24,Georgia,20
+Feb-24,Georgia,30
+Mar-24,Georgia,20
+Apr-24,Georgia,30
+May-24,Georgia,20
+Jun-24,Georgia,30
+Jul-24,Georgia,80
+Jan-19,Kazakhstan,250
+Feb-19,Kazakhstan,160
+Mar-19,Kazakhstan,180
+Apr-19,Kazakhstan,100
+May-19,Kazakhstan,100
+Jun-19,Kazakhstan,130
+Jul-19,Kazakhstan,160
+Aug-19,Kazakhstan,140
+Sep-19,Kazakhstan,160
+Oct-19,Kazakhstan,150
+Nov-19,Kazakhstan,150
+Dec-19,Kazakhstan,310
+Jan-20,Kazakhstan,210
+Feb-20,Kazakhstan,180
+Mar-20,Kazakhstan,90
+Jul-20,Kazakhstan,10
+Dec-20,Kazakhstan,10
+Feb-21,Kazakhstan,10
+Mar-21,Kazakhstan,10
+Apr-21,Kazakhstan,20
+May-21,Kazakhstan,10
+Jul-21,Kazakhstan,10
+Nov-21,Kazakhstan,10
+Dec-21,Kazakhstan,30
+Jan-22,Kazakhstan,50
+Feb-22,Kazakhstan,100
+Mar-22,Kazakhstan,70
+Apr-22,Kazakhstan,70
+May-22,Kazakhstan,40
+Jun-22,Kazakhstan,90
+Jul-22,Kazakhstan,100
+Aug-22,Kazakhstan,100
+Sep-22,Kazakhstan,140
+Oct-22,Kazakhstan,140
+Nov-22,Kazakhstan,160
+Dec-22,Kazakhstan,230
+Jan-23,Kazakhstan,170
+Feb-23,Kazakhstan,210
+Mar-23,Kazakhstan,130
+Apr-23,Kazakhstan,110
+May-23,Kazakhstan,110
+Jun-23,Kazakhstan,170
+Jul-23,Kazakhstan,230
+Aug-23,Kazakhstan,160
+Sep-23,Kazakhstan,180
+Oct-23,Kazakhstan,160
+Nov-23,Kazakhstan,210
+Dec-23,Kazakhstan,330
+Jan-24,Kazakhstan,280
+Feb-24,Kazakhstan,210
+Mar-24,Kazakhstan,220
+Apr-24,Kazakhstan,150
+May-24,Kazakhstan,100
+Jun-24,Kazakhstan,140
+Jul-24,Kazakhstan,240
+Jan-19,Kyrgyzstan,30
+Feb-19,Kyrgyzstan,30
+Mar-19,Kyrgyzstan,30
+Apr-19,Kyrgyzstan,10
+May-19,Kyrgyzstan,20
+Jun-19,Kyrgyzstan,20
+Jul-19,Kyrgyzstan,30
+Aug-19,Kyrgyzstan,30
+Sep-19,Kyrgyzstan,20
+Oct-19,Kyrgyzstan,30
+Nov-19,Kyrgyzstan,20
+Dec-19,Kyrgyzstan,50
+Jan-20,Kyrgyzstan,40
+Feb-20,Kyrgyzstan,20
+Jan-22,Kyrgyzstan,10
+Feb-22,Kyrgyzstan,10
+Mar-22,Kyrgyzstan,10
+Apr-22,Kyrgyzstan,10
+May-22,Kyrgyzstan,10
+Jun-22,Kyrgyzstan,10
+Jul-22,Kyrgyzstan,20
+Aug-22,Kyrgyzstan,20
+Sep-22,Kyrgyzstan,30
+Oct-22,Kyrgyzstan,20
+Nov-22,Kyrgyzstan,30
+Dec-22,Kyrgyzstan,20
+Jan-23,Kyrgyzstan,20
+Feb-23,Kyrgyzstan,30
+Mar-23,Kyrgyzstan,20
+Apr-23,Kyrgyzstan,30
+May-23,Kyrgyzstan,20
+Jun-23,Kyrgyzstan,30
+Jul-23,Kyrgyzstan,30
+Aug-23,Kyrgyzstan,20
+Sep-23,Kyrgyzstan,40
+Oct-23,Kyrgyzstan,30
+Nov-23,Kyrgyzstan,30
+Dec-23,Kyrgyzstan,40
+Jan-24,Kyrgyzstan,20
+Feb-24,Kyrgyzstan,30
+Mar-24,Kyrgyzstan,20
+Apr-24,Kyrgyzstan,70
+May-24,Kyrgyzstan,20
+Jun-24,Kyrgyzstan,30
+Jul-24,Kyrgyzstan,20
+Mar-19,Tajikistan,20
+Apr-19,Tajikistan,10
+Jul-19,Tajikistan,10
+Aug-19,Tajikistan,10
+Sep-19,Tajikistan,10
+Nov-19,Tajikistan,10
+Dec-19,Tajikistan,10
+Jan-20,Tajikistan,10
+Jan-22,Tajikistan,10
+May-22,Tajikistan,10
+Jul-22,Tajikistan,10
+Oct-22,Tajikistan,10
+Jan-23,Tajikistan,10
+Mar-23,Tajikistan,10
+Apr-23,Tajikistan,10
+May-23,Tajikistan,10
+Jul-23,Tajikistan,10
+Aug-23,Tajikistan,10
+Sep-23,Tajikistan,10
+Oct-23,Tajikistan,20
+Nov-23,Tajikistan,10
+Dec-23,Tajikistan,10
+Jan-24,Tajikistan,10
+Feb-24,Tajikistan,20
+Mar-24,Tajikistan,10
+Apr-24,Tajikistan,10
+May-24,Tajikistan,10
+Jun-24,Tajikistan,10
+Jul-24,Tajikistan,10
+Jan-19,Turkmenistan,10
+Jul-19,Turkmenistan,10
+Aug-19,Turkmenistan,10
+Sep-19,Turkmenistan,10
+Dec-19,Turkmenistan,10
+Nov-22,Turkmenistan,10
+Dec-22,Turkmenistan,10
+May-23,Turkmenistan,10
+Jun-23,Turkmenistan,10
+Aug-23,Turkmenistan,10
+Sep-23,Turkmenistan,10
+Oct-23,Turkmenistan,10
+Dec-23,Turkmenistan,10
+Jan-24,Turkmenistan,10
+Feb-24,Turkmenistan,10
+Mar-24,Turkmenistan,10
+Apr-24,Turkmenistan,10
+Jun-24,Turkmenistan,10
+Jan-19,Uzbekistan,90
+Feb-19,Uzbekistan,90
+Mar-19,Uzbekistan,50
+Apr-19,Uzbekistan,60
+May-19,Uzbekistan,50
+Jun-19,Uzbekistan,50
+Jul-19,Uzbekistan,60
+Aug-19,Uzbekistan,100
+Sep-19,Uzbekistan,60
+Oct-19,Uzbekistan,80
+Nov-19,Uzbekistan,70
+Dec-19,Uzbekistan,90
+Jan-20,Uzbekistan,90
+Feb-20,Uzbekistan,90
+Mar-20,Uzbekistan,40
+Dec-20,Uzbekistan,10
+May-21,Uzbekistan,10
+Sep-21,Uzbekistan,10
+Nov-21,Uzbekistan,10
+Dec-21,Uzbekistan,30
+Jan-22,Uzbekistan,40
+Feb-22,Uzbekistan,20
+Mar-22,Uzbekistan,30
+Apr-22,Uzbekistan,40
+May-22,Uzbekistan,50
+Jun-22,Uzbekistan,50
+Jul-22,Uzbekistan,40
+Aug-22,Uzbekistan,60
+Sep-22,Uzbekistan,60
+Oct-22,Uzbekistan,70
+Nov-22,Uzbekistan,100
+Dec-22,Uzbekistan,110
+Jan-23,Uzbekistan,80
+Feb-23,Uzbekistan,90
+Mar-23,Uzbekistan,60
+Apr-23,Uzbekistan,70
+May-23,Uzbekistan,70
+Jun-23,Uzbekistan,80
+Jul-23,Uzbekistan,60
+Aug-23,Uzbekistan,100
+Sep-23,Uzbekistan,120
+Oct-23,Uzbekistan,80
+Nov-23,Uzbekistan,110
+Dec-23,Uzbekistan,110
+Jan-24,Uzbekistan,120
+Feb-24,Uzbekistan,140
+Mar-24,Uzbekistan,90
+Apr-24,Uzbekistan,100
+May-24,Uzbekistan,90
+Jun-24,Uzbekistan,110
+Jul-24,Uzbekistan,120
+Jan-19,Canada,22720
+Feb-19,Canada,26440
+Mar-19,Canada,24630
+Apr-19,Canada,17390
+May-19,Canada,12460
+Jun-19,Canada,10800
+Jul-19,Canada,14240
+Aug-19,Canada,13790
+Sep-19,Canada,13730
+Oct-19,Canada,17840
+Nov-19,Canada,20800
+Dec-19,Canada,25880
+Jan-20,Canada,23070
+Feb-20,Canada,24540
+Mar-20,Canada,10640
+Apr-20,Canada,60
+May-20,Canada,70
+Jun-20,Canada,110
+Jul-20,Canada,130
+Aug-20,Canada,80
+Sep-20,Canada,150
+Oct-20,Canada,210
+Nov-20,Canada,240
+Dec-20,Canada,230
+Jan-21,Canada,270
+Feb-21,Canada,170
+Mar-21,Canada,200
+Apr-21,Canada,210
+May-21,Canada,330
+Jun-21,Canada,330
+Jul-21,Canada,280
+Aug-21,Canada,140
+Sep-21,Canada,140
+Oct-21,Canada,110
+Nov-21,Canada,570
+Dec-21,Canada,1830
+Jan-22,Canada,2820
+Feb-22,Canada,2950
+Mar-22,Canada,5070
+Apr-22,Canada,6050
+May-22,Canada,5790
+Jun-22,Canada,5500
+Jul-22,Canada,8110
+Aug-22,Canada,8440
+Sep-22,Canada,9070
+Oct-22,Canada,11850
+Nov-22,Canada,15080
+Dec-22,Canada,17930
+Jan-23,Canada,14760
+Feb-23,Canada,18980
+Mar-23,Canada,17700
+Apr-23,Canada,13010
+May-23,Canada,10200
+Jun-23,Canada,8390
+Jul-23,Canada,11380
+Aug-23,Canada,10630
+Sep-23,Canada,11070
+Oct-23,Canada,15390
+Nov-23,Canada,17540
+Dec-23,Canada,21590
+Jan-24,Canada,18920
+Feb-24,Canada,22830
+Mar-24,Canada,20380
+Apr-24,Canada,14150
+May-24,Canada,9600
+Jun-24,Canada,9300
+Jul-24,Canada,11210
+Jan-19,USA,73100
+Feb-19,USA,84270
+Mar-19,USA,90430
+Apr-19,USA,62590
+May-19,USA,57150
+Jun-19,USA,62600
+Jul-19,USA,64500
+Aug-19,USA,54230
+Sep-19,USA,51040
+Oct-19,USA,63730
+Nov-19,USA,74660
+Dec-19,USA,96040
+Jan-20,USA,76770
+Feb-20,USA,79460
+Mar-20,USA,34420
+Apr-20,USA,200
+May-20,USA,300
+Jun-20,USA,630
+Jul-20,USA,530
+Aug-20,USA,530
+Sep-20,USA,680
+Oct-20,USA,710
+Nov-20,USA,780
+Dec-20,USA,770
+Jan-21,USA,900
+Feb-21,USA,600
+Mar-21,USA,1050
+Apr-21,USA,800
+May-21,USA,1030
+Jun-21,USA,1720
+Jul-21,USA,1010
+Aug-21,USA,510
+Sep-21,USA,380
+Oct-21,USA,360
+Nov-21,USA,1480
+Dec-21,USA,4770
+Jan-22,USA,6130
+Feb-22,USA,6300
+Mar-22,USA,13410
+Apr-22,USA,17150
+May-22,USA,19270
+Jun-22,USA,24170
+Jul-22,USA,27860
+Aug-22,USA,26310
+Sep-22,USA,29580
+Oct-22,USA,38660
+Nov-22,USA,49060
+Dec-22,USA,59650
+Jan-23,USA,52300
+Feb-23,USA,66000
+Mar-23,USA,61290
+Apr-23,USA,43160
+May-23,USA,39180
+Jun-23,USA,44740
+Jul-23,USA,53230
+Aug-23,USA,49010
+Sep-23,USA,36920
+Oct-23,USA,52740
+Nov-23,USA,59880
+Dec-23,USA,79810
+Jan-24,USA,67570
+Feb-24,USA,82860
+Mar-24,USA,83730
+Apr-24,USA,48290
+May-24,USA,40760
+Jun-24,USA,51080
+Jul-24,USA,44640
+Jan-19,Argentina,2580
+Feb-19,Argentina,2290
+Mar-19,Argentina,2730
+Apr-19,Argentina,1670
+May-19,Argentina,1410
+Jun-19,Argentina,1230
+Jul-19,Argentina,1610
+Aug-19,Argentina,1420
+Sep-19,Argentina,1800
+Oct-19,Argentina,1750
+Nov-19,Argentina,2120
+Dec-19,Argentina,2530
+Jan-20,Argentina,2090
+Feb-20,Argentina,2460
+Mar-20,Argentina,1540
+Apr-20,Argentina,60
+May-20,Argentina,10
+Jun-20,Argentina,10
+Jul-20,Argentina,10
+Aug-20,Argentina,10
+Sep-20,Argentina,10
+Oct-20,Argentina,70
+Nov-20,Argentina,20
+Dec-20,Argentina,30
+Jan-21,Argentina,40
+Feb-21,Argentina,30
+Mar-21,Argentina,30
+Apr-21,Argentina,20
+May-21,Argentina,30
+Jun-21,Argentina,40
+Jul-21,Argentina,50
+Aug-21,Argentina,70
+Sep-21,Argentina,10
+Oct-21,Argentina,10
+Nov-21,Argentina,20
+Dec-21,Argentina,140
+Jan-22,Argentina,210
+Feb-22,Argentina,230
+Mar-22,Argentina,470
+Apr-22,Argentina,990
+May-22,Argentina,930
+Jun-22,Argentina,1040
+Jul-22,Argentina,900
+Aug-22,Argentina,1390
+Sep-22,Argentina,1430
+Oct-22,Argentina,1270
+Nov-22,Argentina,1770
+Dec-22,Argentina,2190
+Jan-23,Argentina,1760
+Feb-23,Argentina,2010
+Mar-23,Argentina,2100
+Apr-23,Argentina,1750
+May-23,Argentina,1750
+Jun-23,Argentina,1620
+Jul-23,Argentina,1460
+Aug-23,Argentina,1870
+Sep-23,Argentina,2130
+Oct-23,Argentina,2190
+Nov-23,Argentina,1840
+Dec-23,Argentina,2240
+Jan-24,Argentina,2640
+Feb-24,Argentina,2290
+Mar-24,Argentina,2390
+Apr-24,Argentina,2200
+May-24,Argentina,1800
+Jun-24,Argentina,1360
+Jul-24,Argentina,1500
+Jan-19,Bolivia,40
+Feb-19,Bolivia,50
+Mar-19,Bolivia,40
+Apr-19,Bolivia,40
+May-19,Bolivia,30
+Jun-19,Bolivia,30
+Jul-19,Bolivia,30
+Aug-19,Bolivia,30
+Sep-19,Bolivia,20
+Oct-19,Bolivia,50
+Nov-19,Bolivia,50
+Dec-19,Bolivia,70
+Jan-20,Bolivia,40
+Feb-20,Bolivia,50
+Mar-20,Bolivia,20
+Jan-22,Bolivia,10
+Feb-22,Bolivia,10
+Mar-22,Bolivia,10
+Apr-22,Bolivia,10
+May-22,Bolivia,10
+Jun-22,Bolivia,10
+Jul-22,Bolivia,20
+Aug-22,Bolivia,30
+Sep-22,Bolivia,30
+Oct-22,Bolivia,30
+Nov-22,Bolivia,40
+Dec-22,Bolivia,50
+Jan-23,Bolivia,30
+Feb-23,Bolivia,40
+Mar-23,Bolivia,40
+Apr-23,Bolivia,30
+May-23,Bolivia,50
+Jun-23,Bolivia,30
+Jul-23,Bolivia,30
+Aug-23,Bolivia,40
+Sep-23,Bolivia,40
+Oct-23,Bolivia,30
+Nov-23,Bolivia,40
+Dec-23,Bolivia,50
+Jan-24,Bolivia,50
+Feb-24,Bolivia,40
+Mar-24,Bolivia,40
+Apr-24,Bolivia,30
+May-24,Bolivia,40
+Jun-24,Bolivia,40
+Jul-24,Bolivia,40
+Jan-19,Brazil,8310
+Feb-19,Brazil,6610
+Mar-19,Brazil,7350
+Apr-19,Brazil,6230
+May-19,Brazil,5440
+Jun-19,Brazil,4910
+Jul-19,Brazil,6240
+Aug-19,Brazil,5830
+Sep-19,Brazil,6220
+Oct-19,Brazil,6330
+Nov-19,Brazil,6150
+Dec-19,Brazil,8220
+Jan-20,Brazil,8470
+Feb-20,Brazil,6140
+Mar-20,Brazil,4110
+Apr-20,Brazil,50
+May-20,Brazil,40
+Jun-20,Brazil,130
+Jul-20,Brazil,30
+Aug-20,Brazil,20
+Sep-20,Brazil,30
+Oct-20,Brazil,60
+Nov-20,Brazil,60
+Dec-20,Brazil,50
+Jan-21,Brazil,80
+Feb-21,Brazil,50
+Mar-21,Brazil,80
+Apr-21,Brazil,70
+May-21,Brazil,130
+Jun-21,Brazil,130
+Jul-21,Brazil,80
+Aug-21,Brazil,40
+Sep-21,Brazil,30
+Oct-21,Brazil,70
+Nov-21,Brazil,150
+Dec-21,Brazil,520
+Jan-22,Brazil,970
+Feb-22,Brazil,1260
+Mar-22,Brazil,2250
+Apr-22,Brazil,3210
+May-22,Brazil,3830
+Jun-22,Brazil,3780
+Jul-22,Brazil,3330
+Aug-22,Brazil,4730
+Sep-22,Brazil,4340
+Oct-22,Brazil,4510
+Nov-22,Brazil,5360
+Dec-22,Brazil,5980
+Jan-23,Brazil,6290
+Feb-23,Brazil,5760
+Mar-23,Brazil,6350
+Apr-23,Brazil,6570
+May-23,Brazil,5130
+Jun-23,Brazil,5050
+Jul-23,Brazil,4390
+Aug-23,Brazil,5390
+Sep-23,Brazil,5570
+Oct-23,Brazil,5480
+Nov-23,Brazil,6000
+Dec-23,Brazil,7470
+Jan-24,Brazil,7940
+Feb-24,Brazil,6140
+Mar-24,Brazil,6200
+Apr-24,Brazil,5430
+May-24,Brazil,4770
+Jun-24,Brazil,4700
+Jul-24,Brazil,4290
+Jan-19,Chile,2960
+Feb-19,Chile,3790
+Mar-19,Chile,3390
+Apr-19,Chile,2640
+May-19,Chile,2370
+Jun-19,Chile,1980
+Jul-19,Chile,2610
+Aug-19,Chile,2190
+Sep-19,Chile,3150
+Oct-19,Chile,2490
+Nov-19,Chile,2300
+Dec-19,Chile,2750
+Jan-20,Chile,2800
+Feb-20,Chile,3850
+Mar-20,Chile,2030
+Apr-20,Chile,30
+May-20,Chile,10
+Jun-20,Chile,10
+Aug-20,Chile,10
+Oct-20,Chile,10
+Nov-20,Chile,20
+Dec-20,Chile,40
+Jan-21,Chile,20
+Feb-21,Chile,40
+Mar-21,Chile,10
+Apr-21,Chile,20
+May-21,Chile,30
+Jun-21,Chile,40
+Jul-21,Chile,40
+Aug-21,Chile,10
+Sep-21,Chile,10
+Oct-21,Chile,10
+Nov-21,Chile,30
+Dec-21,Chile,120
+Jan-22,Chile,220
+Feb-22,Chile,250
+Mar-22,Chile,590
+Apr-22,Chile,1100
+May-22,Chile,920
+Jun-22,Chile,1030
+Jul-22,Chile,1210
+Aug-22,Chile,1540
+Sep-22,Chile,1650
+Oct-22,Chile,1660
+Nov-22,Chile,2150
+Dec-22,Chile,2140
+Jan-23,Chile,1780
+Feb-23,Chile,2340
+Mar-23,Chile,2680
+Apr-23,Chile,2250
+May-23,Chile,2290
+Jun-23,Chile,2430
+Jul-23,Chile,2160
+Aug-23,Chile,2180
+Sep-23,Chile,3050
+Oct-23,Chile,2980
+Nov-23,Chile,2470
+Dec-23,Chile,2880
+Jan-24,Chile,2800
+Feb-24,Chile,2910
+Mar-24,Chile,2890
+Apr-24,Chile,2670
+May-24,Chile,2640
+Jun-24,Chile,2270
+Jul-24,Chile,2430
+Jan-19,Colombia,4270
+Feb-19,Colombia,2900
+Mar-19,Colombia,2420
+Apr-19,Colombia,2360
+May-19,Colombia,2440
+Jun-19,Colombia,2490
+Jul-19,Colombia,2470
+Aug-19,Colombia,2520
+Sep-19,Colombia,2530
+Oct-19,Colombia,2560
+Nov-19,Colombia,3010
+Dec-19,Colombia,3580
+Jan-20,Colombia,4440
+Feb-20,Colombia,3410
+Mar-20,Colombia,1780
+Apr-20,Colombia,20
+May-20,Colombia,10
+Jun-20,Colombia,30
+Aug-20,Colombia,10
+Sep-20,Colombia,10
+Oct-20,Colombia,20
+Nov-20,Colombia,20
+Dec-20,Colombia,30
+Jan-21,Colombia,20
+Feb-21,Colombia,20
+Mar-21,Colombia,30
+Apr-21,Colombia,20
+May-21,Colombia,30
+Jun-21,Colombia,40
+Jul-21,Colombia,40
+Aug-21,Colombia,10
+Sep-21,Colombia,10
+Oct-21,Colombia,20
+Nov-21,Colombia,50
+Dec-21,Colombia,270
+Jan-22,Colombia,550
+Feb-22,Colombia,700
+Mar-22,Colombia,880
+Apr-22,Colombia,1040
+May-22,Colombia,1520
+Jun-22,Colombia,2280
+Jul-22,Colombia,2370
+Aug-22,Colombia,3810
+Sep-22,Colombia,4210
+Oct-22,Colombia,4010
+Nov-22,Colombia,5410
+Dec-22,Colombia,4350
+Jan-23,Colombia,5810
+Feb-23,Colombia,6040
+Mar-23,Colombia,5460
+Apr-23,Colombia,4200
+May-23,Colombia,4420
+Jun-23,Colombia,4260
+Jul-23,Colombia,3630
+Aug-23,Colombia,4350
+Sep-23,Colombia,4210
+Oct-23,Colombia,4020
+Nov-23,Colombia,4950
+Dec-23,Colombia,4630
+Jan-24,Colombia,5660
+Feb-24,Colombia,4200
+Mar-24,Colombia,3810
+Apr-24,Colombia,3110
+May-24,Colombia,2850
+Jun-24,Colombia,2720
+Jul-24,Colombia,2590
+Jan-19,Ecuador,190
+Feb-19,Ecuador,210
+Mar-19,Ecuador,170
+Apr-19,Ecuador,150
+May-19,Ecuador,110
+Jun-19,Ecuador,130
+Jul-19,Ecuador,190
+Aug-19,Ecuador,150
+Sep-19,Ecuador,140
+Oct-19,Ecuador,180
+Nov-19,Ecuador,170
+Dec-19,Ecuador,150
+Jan-20,Ecuador,200
+Feb-20,Ecuador,200
+Mar-20,Ecuador,100
+Dec-20,Ecuador,10
+Apr-21,Ecuador,10
+Dec-21,Ecuador,10
+Jan-22,Ecuador,20
+Feb-22,Ecuador,20
+Mar-22,Ecuador,40
+Apr-22,Ecuador,40
+May-22,Ecuador,60
+Jun-22,Ecuador,90
+Jul-22,Ecuador,80
+Aug-22,Ecuador,160
+Sep-22,Ecuador,260
+Oct-22,Ecuador,200
+Nov-22,Ecuador,230
+Dec-22,Ecuador,230
+Jan-23,Ecuador,220
+Feb-23,Ecuador,250
+Mar-23,Ecuador,270
+Apr-23,Ecuador,280
+May-23,Ecuador,290
+Jun-23,Ecuador,290
+Jul-23,Ecuador,290
+Aug-23,Ecuador,330
+Sep-23,Ecuador,390
+Oct-23,Ecuador,360
+Nov-23,Ecuador,450
+Dec-23,Ecuador,310
+Jan-24,Ecuador,410
+Feb-24,Ecuador,330
+Mar-24,Ecuador,410
+Apr-24,Ecuador,270
+May-24,Ecuador,250
+Jun-24,Ecuador,250
+Jul-24,Ecuador,240
+Jan-19,Guyana,10
+Feb-19,Guyana,10
+Mar-19,Guyana,10
+Apr-19,Guyana,10
+May-19,Guyana,10
+Jun-19,Guyana,10
+Sep-19,Guyana,10
+Oct-19,Guyana,10
+Dec-19,Guyana,10
+Jan-20,Guyana,10
+Feb-20,Guyana,10
+Jul-22,Guyana,10
+Aug-22,Guyana,10
+Nov-22,Guyana,10
+Dec-22,Guyana,10
+Feb-23,Guyana,10
+Mar-23,Guyana,10
+Jun-23,Guyana,10
+Aug-23,Guyana,10
+Sep-23,Guyana,10
+Nov-23,Guyana,10
+Dec-23,Guyana,10
+Jan-24,Guyana,10
+Mar-24,Guyana,10
+May-24,Guyana,10
+Jun-24,Guyana,10
+Jan-19,Paraguay,50
+Feb-19,Paraguay,70
+Mar-19,Paraguay,40
+Apr-19,Paraguay,20
+May-19,Paraguay,20
+Jun-19,Paraguay,20
+Jul-19,Paraguay,40
+Aug-19,Paraguay,20
+Sep-19,Paraguay,30
+Oct-19,Paraguay,30
+Nov-19,Paraguay,30
+Dec-19,Paraguay,80
+Jan-20,Paraguay,50
+Feb-20,Paraguay,50
+Mar-20,Paraguay,20
+Feb-22,Paraguay,20
+Mar-22,Paraguay,10
+Apr-22,Paraguay,20
+May-22,Paraguay,20
+Jun-22,Paraguay,10
+Jul-22,Paraguay,30
+Aug-22,Paraguay,20
+Sep-22,Paraguay,30
+Oct-22,Paraguay,20
+Nov-22,Paraguay,20
+Dec-22,Paraguay,50
+Jan-23,Paraguay,30
+Feb-23,Paraguay,50
+Mar-23,Paraguay,30
+Apr-23,Paraguay,30
+May-23,Paraguay,30
+Jun-23,Paraguay,30
+Jul-23,Paraguay,40
+Aug-23,Paraguay,50
+Sep-23,Paraguay,30
+Oct-23,Paraguay,20
+Nov-23,Paraguay,30
+Dec-23,Paraguay,60
+Jan-24,Paraguay,50
+Feb-24,Paraguay,50
+Mar-24,Paraguay,40
+Apr-24,Paraguay,30
+May-24,Paraguay,30
+Jun-24,Paraguay,40
+Jul-24,Paraguay,40
+Jan-19,Peru,600
+Feb-19,Peru,610
+Mar-19,Peru,540
+Apr-19,Peru,470
+May-19,Peru,440
+Jun-19,Peru,460
+Jul-19,Peru,630
+Aug-19,Peru,560
+Sep-19,Peru,490
+Oct-19,Peru,500
+Nov-19,Peru,550
+Dec-19,Peru,720
+Jan-20,Peru,660
+Feb-20,Peru,630
+Mar-20,Peru,350
+Apr-20,Peru,40
+Jun-20,Peru,30
+Oct-20,Peru,10
+Nov-20,Peru,10
+Dec-20,Peru,10
+Jan-21,Peru,10
+Feb-21,Peru,10
+Mar-21,Peru,10
+Apr-21,Peru,10
+May-21,Peru,10
+Jun-21,Peru,10
+Jul-21,Peru,10
+Sep-21,Peru,20
+Oct-21,Peru,10
+Nov-21,Peru,20
+Dec-21,Peru,80
+Jan-22,Peru,90
+Feb-22,Peru,160
+Mar-22,Peru,170
+Apr-22,Peru,200
+May-22,Peru,250
+Jun-22,Peru,280
+Jul-22,Peru,390
+Aug-22,Peru,450
+Sep-22,Peru,510
+Oct-22,Peru,500
+Nov-22,Peru,730
+Dec-22,Peru,700
+Jan-23,Peru,510
+Feb-23,Peru,760
+Mar-23,Peru,740
+Apr-23,Peru,640
+May-23,Peru,690
+Jun-23,Peru,660
+Jul-23,Peru,600
+Aug-23,Peru,700
+Sep-23,Peru,690
+Oct-23,Peru,740
+Nov-23,Peru,790
+Dec-23,Peru,770
+Jan-24,Peru,850
+Feb-24,Peru,820
+Mar-24,Peru,690
+Apr-24,Peru,710
+May-24,Peru,660
+Jun-24,Peru,640
+Jul-24,Peru,610
+Feb-19,Suriname,10
+Jul-19,Suriname,10
+Jan-20,Suriname,10
+Aug-22,Suriname,10
+Mar-23,Suriname,10
+Jul-23,Suriname,10
+Aug-23,Suriname,10
+Sep-23,Suriname,10
+Oct-23,Suriname,10
+Dec-23,Suriname,10
+Jun-24,Suriname,10
+Jan-19,Uruguay,220
+Feb-19,Uruguay,220
+Mar-19,Uruguay,570
+Apr-19,Uruguay,220
+May-19,Uruguay,250
+Jun-19,Uruguay,200
+Jul-19,Uruguay,150
+Aug-19,Uruguay,180
+Sep-19,Uruguay,200
+Oct-19,Uruguay,190
+Nov-19,Uruguay,200
+Dec-19,Uruguay,220
+Jan-20,Uruguay,150
+Feb-20,Uruguay,330
+Mar-20,Uruguay,350
+Apr-20,Uruguay,10
+Nov-20,Uruguay,10
+May-21,Uruguay,10
+Jun-21,Uruguay,10
+Nov-21,Uruguay,10
+Dec-21,Uruguay,10
+Jan-22,Uruguay,20
+Feb-22,Uruguay,30
+Mar-22,Uruguay,50
+Apr-22,Uruguay,90
+May-22,Uruguay,90
+Jun-22,Uruguay,80
+Jul-22,Uruguay,110
+Aug-22,Uruguay,120
+Sep-22,Uruguay,140
+Oct-22,Uruguay,200
+Nov-22,Uruguay,150
+Dec-22,Uruguay,160
+Jan-23,Uruguay,120
+Feb-23,Uruguay,330
+Mar-23,Uruguay,410
+Apr-23,Uruguay,160
+May-23,Uruguay,190
+Jun-23,Uruguay,180
+Jul-23,Uruguay,150
+Aug-23,Uruguay,160
+Sep-23,Uruguay,190
+Oct-23,Uruguay,210
+Nov-23,Uruguay,150
+Dec-23,Uruguay,210
+Jan-24,Uruguay,180
+Feb-24,Uruguay,230
+Mar-24,Uruguay,350
+Apr-24,Uruguay,200
+May-24,Uruguay,170
+Jun-24,Uruguay,160
+Jul-24,Uruguay,200
+Jan-19,Venezuela,300
+Feb-19,Venezuela,200
+Mar-19,Venezuela,200
+Apr-19,Venezuela,180
+May-19,Venezuela,220
+Jun-19,Venezuela,190
+Jul-19,Venezuela,190
+Aug-19,Venezuela,210
+Sep-19,Venezuela,220
+Oct-19,Venezuela,270
+Nov-19,Venezuela,250
+Dec-19,Venezuela,270
+Jan-20,Venezuela,230
+Feb-20,Venezuela,170
+Mar-20,Venezuela,120
+Aug-20,Venezuela,10
+Nov-20,Venezuela,10
+Dec-20,Venezuela,20
+Feb-21,Venezuela,10
+May-21,Venezuela,30
+Jun-21,Venezuela,10
+Jul-21,Venezuela,10
+Oct-21,Venezuela,10
+Nov-21,Venezuela,20
+Dec-21,Venezuela,40
+Jan-22,Venezuela,30
+Feb-22,Venezuela,50
+Mar-22,Venezuela,40
+Apr-22,Venezuela,60
+May-22,Venezuela,70
+Jun-22,Venezuela,120
+Jul-22,Venezuela,60
+Aug-22,Venezuela,120
+Sep-22,Venezuela,140
+Oct-22,Venezuela,130
+Nov-22,Venezuela,210
+Dec-22,Venezuela,170
+Jan-23,Venezuela,150
+Feb-23,Venezuela,190
+Mar-23,Venezuela,170
+Apr-23,Venezuela,140
+May-23,Venezuela,170
+Jun-23,Venezuela,170
+Jul-23,Venezuela,140
+Aug-23,Venezuela,220
+Sep-23,Venezuela,200
+Oct-23,Venezuela,190
+Nov-23,Venezuela,250
+Dec-23,Venezuela,200
+Jan-24,Venezuela,180
+Feb-24,Venezuela,160
+Mar-24,Venezuela,160
+Apr-24,Venezuela,140
+May-24,Venezuela,150
+Jun-24,Venezuela,170
+Jul-24,Venezuela,110
+Feb-19,Belize,10
+Mar-19,Belize,10
+Jul-19,Belize,10
+Aug-19,Belize,10
+Oct-19,Belize,10
+Nov-19,Belize,10
+Jan-20,Belize,10
+Oct-22,Belize,10
+Nov-22,Belize,10
+Feb-23,Belize,10
+Aug-23,Belize,10
+Sep-23,Belize,10
+Dec-23,Belize,10
+Feb-24,Belize,10
+Mar-24,Belize,10
+Jul-24,Belize,10
+Jan-19,Costa Rica,90
+Feb-19,Costa Rica,90
+Mar-19,Costa Rica,90
+Apr-19,Costa Rica,120
+May-19,Costa Rica,100
+Jun-19,Costa Rica,50
+Jul-19,Costa Rica,60
+Aug-19,Costa Rica,40
+Sep-19,Costa Rica,70
+Oct-19,Costa Rica,80
+Nov-19,Costa Rica,120
+Dec-19,Costa Rica,100
+Jan-20,Costa Rica,90
+Feb-20,Costa Rica,70
+Mar-20,Costa Rica,20
+Dec-20,Costa Rica,10
+Jan-21,Costa Rica,10
+Jul-21,Costa Rica,10
+Dec-21,Costa Rica,10
+Jan-22,Costa Rica,20
+Feb-22,Costa Rica,10
+Mar-22,Costa Rica,10
+Apr-22,Costa Rica,20
+May-22,Costa Rica,30
+Jun-22,Costa Rica,20
+Jul-22,Costa Rica,20
+Aug-22,Costa Rica,30
+Sep-22,Costa Rica,50
+Oct-22,Costa Rica,40
+Nov-22,Costa Rica,60
+Dec-22,Costa Rica,80
+Jan-23,Costa Rica,50
+Feb-23,Costa Rica,70
+Mar-23,Costa Rica,60
+Apr-23,Costa Rica,50
+May-23,Costa Rica,50
+Jun-23,Costa Rica,60
+Jul-23,Costa Rica,60
+Aug-23,Costa Rica,70
+Sep-23,Costa Rica,80
+Oct-23,Costa Rica,60
+Nov-23,Costa Rica,60
+Dec-23,Costa Rica,100
+Jan-24,Costa Rica,90
+Feb-24,Costa Rica,70
+Mar-24,Costa Rica,70
+Apr-24,Costa Rica,60
+May-24,Costa Rica,50
+Jun-24,Costa Rica,50
+Jul-24,Costa Rica,100
+Jan-19,El Salvador,60
+Feb-19,El Salvador,50
+Mar-19,El Salvador,60
+Apr-19,El Salvador,50
+May-19,El Salvador,30
+Jun-19,El Salvador,30
+Jul-19,El Salvador,30
+Aug-19,El Salvador,80
+Sep-19,El Salvador,60
+Oct-19,El Salvador,60
+Nov-19,El Salvador,50
+Dec-19,El Salvador,50
+Jan-20,El Salvador,50
+Feb-20,El Salvador,40
+Mar-20,El Salvador,40
+Dec-20,El Salvador,10
+Mar-21,El Salvador,10
+Nov-21,El Salvador,10
+Jan-22,El Salvador,10
+Feb-22,El Salvador,10
+Mar-22,El Salvador,10
+Apr-22,El Salvador,20
+May-22,El Salvador,10
+Jun-22,El Salvador,20
+Jul-22,El Salvador,30
+Aug-22,El Salvador,40
+Sep-22,El Salvador,40
+Oct-22,El Salvador,30
+Nov-22,El Salvador,50
+Dec-22,El Salvador,50
+Jan-23,El Salvador,50
+Feb-23,El Salvador,30
+Mar-23,El Salvador,40
+Apr-23,El Salvador,50
+May-23,El Salvador,50
+Jun-23,El Salvador,50
+Jul-23,El Salvador,30
+Aug-23,El Salvador,40
+Sep-23,El Salvador,40
+Oct-23,El Salvador,50
+Nov-23,El Salvador,50
+Dec-23,El Salvador,50
+Jan-24,El Salvador,50
+Feb-24,El Salvador,30
+Mar-24,El Salvador,40
+Apr-24,El Salvador,30
+May-24,El Salvador,30
+Jun-24,El Salvador,20
+Jul-24,El Salvador,40
+Jan-19,Guatemala,70
+Feb-19,Guatemala,40
+Mar-19,Guatemala,40
+Apr-19,Guatemala,50
+May-19,Guatemala,30
+Jun-19,Guatemala,40
+Jul-19,Guatemala,50
+Aug-19,Guatemala,30
+Sep-19,Guatemala,60
+Oct-19,Guatemala,50
+Nov-19,Guatemala,40
+Dec-19,Guatemala,80
+Jan-20,Guatemala,50
+Feb-20,Guatemala,40
+Mar-20,Guatemala,30
+Dec-20,Guatemala,10
+Jan-21,Guatemala,10
+Nov-21,Guatemala,10
+Dec-21,Guatemala,10
+Jan-22,Guatemala,10
+Feb-22,Guatemala,20
+Mar-22,Guatemala,20
+Apr-22,Guatemala,10
+May-22,Guatemala,20
+Jun-22,Guatemala,20
+Jul-22,Guatemala,30
+Aug-22,Guatemala,20
+Sep-22,Guatemala,30
+Oct-22,Guatemala,30
+Nov-22,Guatemala,60
+Dec-22,Guatemala,60
+Jan-23,Guatemala,50
+Feb-23,Guatemala,60
+Mar-23,Guatemala,50
+Apr-23,Guatemala,30
+May-23,Guatemala,30
+Jun-23,Guatemala,60
+Jul-23,Guatemala,60
+Aug-23,Guatemala,40
+Sep-23,Guatemala,40
+Oct-23,Guatemala,30
+Nov-23,Guatemala,50
+Dec-23,Guatemala,90
+Jan-24,Guatemala,60
+Feb-24,Guatemala,60
+Mar-24,Guatemala,60
+Apr-24,Guatemala,40
+May-24,Guatemala,30
+Jun-24,Guatemala,30
+Jul-24,Guatemala,50
+Jan-19,Honduras,20
+Feb-19,Honduras,20
+Mar-19,Honduras,20
+Apr-19,Honduras,40
+May-19,Honduras,20
+Jun-19,Honduras,10
+Jul-19,Honduras,30
+Aug-19,Honduras,30
+Sep-19,Honduras,10
+Oct-19,Honduras,10
+Nov-19,Honduras,20
+Dec-19,Honduras,20
+Jan-20,Honduras,20
+Feb-20,Honduras,20
+Mar-20,Honduras,10
+Oct-20,Honduras,10
+Dec-20,Honduras,10
+Jun-21,Honduras,10
+Sep-21,Honduras,10
+Nov-21,Honduras,10
+Jan-22,Honduras,10
+May-22,Honduras,10
+Jul-22,Honduras,10
+Aug-22,Honduras,10
+Sep-22,Honduras,20
+Oct-22,Honduras,10
+Nov-22,Honduras,20
+Dec-22,Honduras,30
+Jan-23,Honduras,20
+Feb-23,Honduras,20
+Mar-23,Honduras,50
+Apr-23,Honduras,20
+May-23,Honduras,20
+Jun-23,Honduras,20
+Jul-23,Honduras,30
+Aug-23,Honduras,30
+Sep-23,Honduras,20
+Oct-23,Honduras,20
+Nov-23,Honduras,20
+Dec-23,Honduras,30
+Jan-24,Honduras,30
+Feb-24,Honduras,20
+Mar-24,Honduras,20
+Apr-24,Honduras,30
+May-24,Honduras,10
+Jun-24,Honduras,30
+Jul-24,Honduras,40
+Jan-19,Mexico,1760
+Feb-19,Mexico,1340
+Mar-19,Mexico,1130
+Apr-19,Mexico,1520
+May-19,Mexico,980
+Jun-19,Mexico,1180
+Jul-19,Mexico,1610
+Aug-19,Mexico,1000
+Sep-19,Mexico,1270
+Oct-19,Mexico,1210
+Nov-19,Mexico,1340
+Dec-19,Mexico,2020
+Jan-20,Mexico,1860
+Feb-20,Mexico,1370
+Mar-20,Mexico,660
+Apr-20,Mexico,10
+May-20,Mexico,10
+Jun-20,Mexico,20
+Jul-20,Mexico,10
+Aug-20,Mexico,10
+Sep-20,Mexico,10
+Oct-20,Mexico,10
+Nov-20,Mexico,10
+Dec-20,Mexico,10
+Jan-21,Mexico,20
+Feb-21,Mexico,10
+Mar-21,Mexico,30
+Apr-21,Mexico,20
+May-21,Mexico,40
+Jun-21,Mexico,30
+Jul-21,Mexico,20
+Aug-21,Mexico,20
+Sep-21,Mexico,10
+Nov-21,Mexico,30
+Dec-21,Mexico,120
+Jan-22,Mexico,240
+Feb-22,Mexico,270
+Mar-22,Mexico,280
+Apr-22,Mexico,370
+May-22,Mexico,380
+Jun-22,Mexico,500
+Jul-22,Mexico,770
+Aug-22,Mexico,780
+Sep-22,Mexico,780
+Oct-22,Mexico,840
+Nov-22,Mexico,990
+Dec-22,Mexico,1360
+Jan-23,Mexico,1240
+Feb-23,Mexico,1270
+Mar-23,Mexico,1150
+Apr-23,Mexico,1170
+May-23,Mexico,810
+Jun-23,Mexico,950
+Jul-23,Mexico,1340
+Aug-23,Mexico,1190
+Sep-23,Mexico,1060
+Oct-23,Mexico,1260
+Nov-23,Mexico,1290
+Dec-23,Mexico,2240
+Jan-24,Mexico,1970
+Feb-24,Mexico,1430
+Mar-24,Mexico,1630
+Apr-24,Mexico,1220
+May-24,Mexico,930
+Jun-24,Mexico,1090
+Jul-24,Mexico,1520
+Jan-19,Nicaragua,20
+Feb-19,Nicaragua,10
+Mar-19,Nicaragua,10
+Apr-19,Nicaragua,10
+May-19,Nicaragua,10
+Jun-19,Nicaragua,10
+Jul-19,Nicaragua,10
+Aug-19,Nicaragua,10
+Oct-19,Nicaragua,20
+Nov-19,Nicaragua,10
+Dec-19,Nicaragua,10
+Jan-20,Nicaragua,10
+Feb-20,Nicaragua,20
+Mar-20,Nicaragua,10
+Aug-22,Nicaragua,10
+Sep-22,Nicaragua,10
+Oct-22,Nicaragua,10
+Nov-22,Nicaragua,10
+Dec-22,Nicaragua,10
+Jan-23,Nicaragua,10
+Feb-23,Nicaragua,20
+Mar-23,Nicaragua,10
+Apr-23,Nicaragua,10
+Jun-23,Nicaragua,10
+Jul-23,Nicaragua,10
+Aug-23,Nicaragua,10
+Sep-23,Nicaragua,10
+Oct-23,Nicaragua,10
+Nov-23,Nicaragua,20
+Dec-23,Nicaragua,10
+Jan-24,Nicaragua,20
+Feb-24,Nicaragua,10
+Mar-24,Nicaragua,20
+Apr-24,Nicaragua,10
+May-24,Nicaragua,10
+Jun-24,Nicaragua,10
+Jul-24,Nicaragua,10
+Jan-19,Panama,40
+Feb-19,Panama,60
+Mar-19,Panama,40
+Apr-19,Panama,30
+May-19,Panama,20
+Jun-19,Panama,30
+Jul-19,Panama,30
+Aug-19,Panama,30
+Sep-19,Panama,30
+Oct-19,Panama,20
+Nov-19,Panama,40
+Dec-19,Panama,40
+Jan-20,Panama,40
+Feb-20,Panama,50
+Mar-20,Panama,10
+Jan-22,Panama,10
+Feb-22,Panama,10
+Mar-22,Panama,10
+Apr-22,Panama,10
+May-22,Panama,20
+Jun-22,Panama,10
+Jul-22,Panama,10
+Aug-22,Panama,10
+Sep-22,Panama,30
+Oct-22,Panama,20
+Nov-22,Panama,30
+Dec-22,Panama,30
+Jan-23,Panama,60
+Feb-23,Panama,70
+Mar-23,Panama,30
+Apr-23,Panama,20
+May-23,Panama,20
+Jun-23,Panama,20
+Jul-23,Panama,70
+Aug-23,Panama,30
+Sep-23,Panama,20
+Oct-23,Panama,40
+Nov-23,Panama,30
+Dec-23,Panama,40
+Jan-24,Panama,60
+Feb-24,Panama,60
+Mar-24,Panama,50
+Apr-24,Panama,30
+May-24,Panama,30
+Jun-24,Panama,50
+Jul-24,Panama,40
+Feb-19,Antigua/Barbuda,10
+May-19,Antigua/Barbuda,10
+Jul-19,Antigua/Barbuda,10
+Sep-19,Antigua/Barbuda,10
+Oct-19,Antigua/Barbuda,10
+Nov-19,Antigua/Barbuda,10
+Dec-19,Antigua/Barbuda,10
+Feb-20,Antigua/Barbuda,10
+Jul-22,Antigua/Barbuda,10
+Sep-22,Antigua/Barbuda,20
+Oct-22,Antigua/Barbuda,20
+Dec-22,Antigua/Barbuda,10
+Jan-23,Antigua/Barbuda,10
+Jul-23,Antigua/Barbuda,10
+Aug-23,Antigua/Barbuda,10
+Sep-23,Antigua/Barbuda,10
+Oct-23,Antigua/Barbuda,10
+Nov-23,Antigua/Barbuda,10
+Dec-23,Antigua/Barbuda,10
+Jan-24,Antigua/Barbuda,10
+Feb-24,Antigua/Barbuda,10
+Jun-24,Antigua/Barbuda,10
+Jan-19,Bahamas,10
+Feb-19,Bahamas,10
+Mar-19,Bahamas,20
+Apr-19,Bahamas,10
+May-19,Bahamas,10
+Jun-19,Bahamas,20
+Jul-19,Bahamas,10
+Aug-19,Bahamas,50
+Sep-19,Bahamas,10
+Oct-19,Bahamas,10
+Nov-19,Bahamas,20
+Dec-19,Bahamas,10
+Jan-20,Bahamas,10
+Feb-20,Bahamas,10
+Mar-20,Bahamas,10
+Jul-22,Bahamas,10
+Oct-22,Bahamas,10
+Nov-22,Bahamas,10
+Dec-22,Bahamas,30
+Jan-23,Bahamas,10
+Feb-23,Bahamas,10
+Mar-23,Bahamas,10
+Apr-23,Bahamas,10
+May-23,Bahamas,30
+Jul-23,Bahamas,10
+Aug-23,Bahamas,10
+Sep-23,Bahamas,20
+Oct-23,Bahamas,20
+Nov-23,Bahamas,10
+Dec-23,Bahamas,10
+Jan-24,Bahamas,10
+Feb-24,Bahamas,10
+Mar-24,Bahamas,20
+Apr-24,Bahamas,10
+May-24,Bahamas,10
+Jun-24,Bahamas,20
+Jul-24,Bahamas,20
+Jan-19,Barbados,20
+Feb-19,Barbados,20
+Mar-19,Barbados,10
+Apr-19,Barbados,20
+May-19,Barbados,10
+Jun-19,Barbados,20
+Jul-19,Barbados,10
+Aug-19,Barbados,20
+Sep-19,Barbados,30
+Oct-19,Barbados,40
+Nov-19,Barbados,40
+Dec-19,Barbados,10
+Jan-20,Barbados,30
+Feb-20,Barbados,30
+Mar-20,Barbados,10
+Mar-22,Barbados,10
+Jul-22,Barbados,10
+Aug-22,Barbados,10
+Sep-22,Barbados,10
+Oct-22,Barbados,20
+Nov-22,Barbados,20
+Dec-22,Barbados,20
+Jan-23,Barbados,10
+Feb-23,Barbados,20
+Mar-23,Barbados,10
+May-23,Barbados,20
+Jun-23,Barbados,10
+Jul-23,Barbados,10
+Aug-23,Barbados,20
+Sep-23,Barbados,10
+Oct-23,Barbados,20
+Nov-23,Barbados,10
+Dec-23,Barbados,30
+Jan-24,Barbados,20
+Feb-24,Barbados,10
+Mar-24,Barbados,10
+Apr-24,Barbados,30
+May-24,Barbados,10
+Jun-24,Barbados,10
+Jul-24,Barbados,10
+Jan-19,Cuba,50
+Feb-19,Cuba,20
+Mar-19,Cuba,10
+Apr-19,Cuba,30
+May-19,Cuba,20
+Jun-19,Cuba,30
+Jul-19,Cuba,40
+Aug-19,Cuba,30
+Sep-19,Cuba,30
+Oct-19,Cuba,30
+Nov-19,Cuba,30
+Dec-19,Cuba,40
+Jan-20,Cuba,40
+Feb-20,Cuba,30
+Mar-20,Cuba,30
+Sep-21,Cuba,10
+Nov-21,Cuba,10
+Jan-22,Cuba,10
+Feb-22,Cuba,10
+Apr-22,Cuba,10
+May-22,Cuba,10
+Jun-22,Cuba,10
+Jul-22,Cuba,10
+Aug-22,Cuba,20
+Sep-22,Cuba,20
+Oct-22,Cuba,20
+Nov-22,Cuba,20
+Dec-22,Cuba,30
+Jan-23,Cuba,20
+Feb-23,Cuba,10
+Mar-23,Cuba,20
+Apr-23,Cuba,20
+May-23,Cuba,40
+Jun-23,Cuba,10
+Jul-23,Cuba,20
+Aug-23,Cuba,20
+Sep-23,Cuba,20
+Oct-23,Cuba,30
+Nov-23,Cuba,20
+Dec-23,Cuba,10
+Jan-24,Cuba,20
+Feb-24,Cuba,10
+Mar-24,Cuba,20
+Apr-24,Cuba,10
+May-24,Cuba,10
+Jun-24,Cuba,20
+Jul-24,Cuba,10
+Feb-19,Dominica,10
+Mar-19,Dominica,20
+Apr-19,Dominica,10
+Jun-19,Dominica,10
+Aug-19,Dominica,10
+Oct-19,Dominica,10
+Nov-19,Dominica,10
+Mar-20,Dominica,10
+Apr-22,Dominica,10
+Jul-22,Dominica,10
+Aug-22,Dominica,10
+Oct-22,Dominica,10
+Nov-22,Dominica,10
+Dec-22,Dominica,20
+Jan-23,Dominica,10
+Feb-23,Dominica,20
+Mar-23,Dominica,10
+Apr-23,Dominica,20
+May-23,Dominica,10
+Jun-23,Dominica,20
+Jul-23,Dominica,20
+Aug-23,Dominica,20
+Sep-23,Dominica,10
+Oct-23,Dominica,20
+Nov-23,Dominica,10
+Dec-23,Dominica,20
+Jan-24,Dominica,10
+Feb-24,Dominica,30
+Mar-24,Dominica,20
+Apr-24,Dominica,20
+May-24,Dominica,10
+Jun-24,Dominica,20
+Jul-24,Dominica,10
+Jan-19,Dominican Rep,20
+Feb-19,Dominican Rep,20
+Mar-19,Dominican Rep,30
+Apr-19,Dominican Rep,70
+May-19,Dominican Rep,20
+Jun-19,Dominican Rep,20
+Jul-19,Dominican Rep,20
+Aug-19,Dominican Rep,20
+Sep-19,Dominican Rep,20
+Oct-19,Dominican Rep,20
+Nov-19,Dominican Rep,30
+Dec-19,Dominican Rep,30
+Jan-20,Dominican Rep,20
+Feb-20,Dominican Rep,30
+Mar-20,Dominican Rep,10
+Jan-22,Dominican Rep,10
+Mar-22,Dominican Rep,10
+May-22,Dominican Rep,10
+Jun-22,Dominican Rep,10
+Jul-22,Dominican Rep,10
+Aug-22,Dominican Rep,10
+Sep-22,Dominican Rep,10
+Oct-22,Dominican Rep,20
+Nov-22,Dominican Rep,30
+Dec-22,Dominican Rep,30
+Jan-23,Dominican Rep,30
+Feb-23,Dominican Rep,20
+Mar-23,Dominican Rep,20
+Apr-23,Dominican Rep,20
+May-23,Dominican Rep,40
+Jun-23,Dominican Rep,30
+Jul-23,Dominican Rep,20
+Aug-23,Dominican Rep,20
+Sep-23,Dominican Rep,20
+Oct-23,Dominican Rep,20
+Nov-23,Dominican Rep,20
+Dec-23,Dominican Rep,20
+Jan-24,Dominican Rep,30
+Feb-24,Dominican Rep,40
+Mar-24,Dominican Rep,30
+Apr-24,Dominican Rep,10
+May-24,Dominican Rep,20
+Jun-24,Dominican Rep,20
+Jul-24,Dominican Rep,20
+Jan-19,Grenada,10
+Feb-19,Grenada,10
+Mar-19,Grenada,10
+Jul-19,Grenada,10
+Aug-19,Grenada,10
+Nov-19,Grenada,10
+Dec-19,Grenada,10
+Jan-20,Grenada,10
+Feb-20,Grenada,10
+Nov-22,Grenada,10
+Dec-22,Grenada,10
+Jan-23,Grenada,10
+Feb-23,Grenada,10
+Jun-23,Grenada,10
+Aug-23,Grenada,10
+Sep-23,Grenada,10
+Nov-23,Grenada,10
+Dec-23,Grenada,20
+Jan-24,Grenada,20
+Feb-24,Grenada,10
+Mar-24,Grenada,10
+Apr-24,Grenada,10
+May-24,Grenada,10
+Jul-24,Grenada,10
+Jun-19,Haiti,10
+Jul-19,Haiti,10
+Aug-19,Haiti,10
+Oct-19,Haiti,10
+Nov-19,Haiti,10
+Dec-19,Haiti,10
+Feb-20,Haiti,10
+Nov-22,Haiti,10
+Apr-23,Haiti,10
+Jul-23,Haiti,70
+Aug-23,Haiti,10
+Oct-23,Haiti,10
+Nov-23,Haiti,10
+Dec-23,Haiti,10
+Jan-24,Haiti,10
+Jan-19,Jamaica,70
+Feb-19,Jamaica,60
+Mar-19,Jamaica,40
+Apr-19,Jamaica,40
+May-19,Jamaica,40
+Jun-19,Jamaica,50
+Jul-19,Jamaica,60
+Aug-19,Jamaica,40
+Sep-19,Jamaica,30
+Oct-19,Jamaica,50
+Nov-19,Jamaica,60
+Dec-19,Jamaica,50
+Jan-20,Jamaica,70
+Feb-20,Jamaica,80
+Mar-20,Jamaica,20
+Nov-20,Jamaica,10
+Jan-21,Jamaica,10
+Apr-21,Jamaica,10
+Dec-21,Jamaica,10
+Jan-22,Jamaica,20
+Feb-22,Jamaica,10
+Apr-22,Jamaica,10
+May-22,Jamaica,20
+Jun-22,Jamaica,10
+Jul-22,Jamaica,20
+Aug-22,Jamaica,30
+Sep-22,Jamaica,20
+Oct-22,Jamaica,40
+Nov-22,Jamaica,40
+Dec-22,Jamaica,40
+Jan-23,Jamaica,50
+Feb-23,Jamaica,60
+Mar-23,Jamaica,180
+Apr-23,Jamaica,20
+May-23,Jamaica,20
+Jun-23,Jamaica,30
+Jul-23,Jamaica,90
+Aug-23,Jamaica,40
+Sep-23,Jamaica,40
+Oct-23,Jamaica,40
+Nov-23,Jamaica,50
+Dec-23,Jamaica,50
+Jan-24,Jamaica,60
+Feb-24,Jamaica,50
+Mar-24,Jamaica,50
+Apr-24,Jamaica,40
+May-24,Jamaica,30
+Jun-24,Jamaica,30
+Jul-24,Jamaica,30
+Jan-19,St Kitts/Nevis,10
+Feb-19,St Kitts/Nevis,10
+Mar-19,St Kitts/Nevis,10
+Apr-19,St Kitts/Nevis,10
+May-19,St Kitts/Nevis,10
+Jun-19,St Kitts/Nevis,10
+Jul-19,St Kitts/Nevis,20
+Oct-19,St Kitts/Nevis,10
+Nov-19,St Kitts/Nevis,10
+Dec-19,St Kitts/Nevis,20
+Jan-20,St Kitts/Nevis,10
+Feb-20,St Kitts/Nevis,10
+Mar-22,St Kitts/Nevis,10
+Jun-22,St Kitts/Nevis,10
+Aug-22,St Kitts/Nevis,10
+Sep-22,St Kitts/Nevis,10
+Oct-22,St Kitts/Nevis,10
+Nov-22,St Kitts/Nevis,20
+Dec-22,St Kitts/Nevis,20
+Jan-23,St Kitts/Nevis,10
+Feb-23,St Kitts/Nevis,10
+Mar-23,St Kitts/Nevis,10
+Apr-23,St Kitts/Nevis,10
+May-23,St Kitts/Nevis,10
+Jun-23,St Kitts/Nevis,10
+Jul-23,St Kitts/Nevis,10
+Aug-23,St Kitts/Nevis,20
+Sep-23,St Kitts/Nevis,10
+Oct-23,St Kitts/Nevis,10
+Nov-23,St Kitts/Nevis,20
+Dec-23,St Kitts/Nevis,30
+Jan-24,St Kitts/Nevis,20
+Feb-24,St Kitts/Nevis,20
+Mar-24,St Kitts/Nevis,20
+Apr-24,St Kitts/Nevis,20
+May-24,St Kitts/Nevis,10
+Jun-24,St Kitts/Nevis,10
+Jul-24,St Kitts/Nevis,20
+Jan-19,St Lucia,10
+Feb-19,St Lucia,20
+Mar-19,St Lucia,10
+Apr-19,St Lucia,10
+Jul-19,St Lucia,10
+Sep-19,St Lucia,10
+Jan-20,St Lucia,10
+Feb-20,St Lucia,10
+May-22,St Lucia,10
+Feb-23,St Lucia,10
+Mar-23,St Lucia,10
+Apr-23,St Lucia,10
+May-23,St Lucia,10
+Jun-23,St Lucia,10
+Aug-23,St Lucia,10
+Oct-23,St Lucia,10
+Nov-23,St Lucia,10
+Dec-23,St Lucia,10
+Feb-24,St Lucia,10
+Mar-24,St Lucia,10
+Apr-24,St Lucia,20
+May-24,St Lucia,10
+Jun-24,St Lucia,10
+Jul-24,St Lucia,10
+Mar-19,St Vinc/Grenad,10
+Sep-19,St Vinc/Grenad,10
+Dec-19,St Vinc/Grenad,10
+Feb-23,St Vinc/Grenad,10
+Mar-23,St Vinc/Grenad,10
+Jul-23,St Vinc/Grenad,10
+Aug-23,St Vinc/Grenad,10
+Nov-23,St Vinc/Grenad,10
+Dec-23,St Vinc/Grenad,10
+Jan-24,St Vinc/Grenad,10
+Mar-24,St Vinc/Grenad,10
+Apr-24,St Vinc/Grenad,10
+Jan-19,Trinidad/Tobago,70
+Feb-19,Trinidad/Tobago,60
+Mar-19,Trinidad/Tobago,40
+Apr-19,Trinidad/Tobago,80
+May-19,Trinidad/Tobago,50
+Jun-19,Trinidad/Tobago,40
+Jul-19,Trinidad/Tobago,40
+Aug-19,Trinidad/Tobago,40
+Sep-19,Trinidad/Tobago,50
+Oct-19,Trinidad/Tobago,60
+Nov-19,Trinidad/Tobago,70
+Dec-19,Trinidad/Tobago,80
+Jan-20,Trinidad/Tobago,60
+Feb-20,Trinidad/Tobago,80
+Mar-20,Trinidad/Tobago,30
+Nov-21,Trinidad/Tobago,10
+Dec-21,Trinidad/Tobago,10
+Jan-22,Trinidad/Tobago,10
+Feb-22,Trinidad/Tobago,10
+Mar-22,Trinidad/Tobago,10
+Apr-22,Trinidad/Tobago,10
+May-22,Trinidad/Tobago,10
+Jun-22,Trinidad/Tobago,20
+Jul-22,Trinidad/Tobago,30
+Aug-22,Trinidad/Tobago,30
+Sep-22,Trinidad/Tobago,40
+Oct-22,Trinidad/Tobago,60
+Nov-22,Trinidad/Tobago,70
+Dec-22,Trinidad/Tobago,60
+Jan-23,Trinidad/Tobago,40
+Feb-23,Trinidad/Tobago,60
+Mar-23,Trinidad/Tobago,240
+Apr-23,Trinidad/Tobago,40
+May-23,Trinidad/Tobago,40
+Jun-23,Trinidad/Tobago,40
+Jul-23,Trinidad/Tobago,40
+Aug-23,Trinidad/Tobago,50
+Sep-23,Trinidad/Tobago,50
+Oct-23,Trinidad/Tobago,50
+Nov-23,Trinidad/Tobago,30
+Dec-23,Trinidad/Tobago,50
+Jan-24,Trinidad/Tobago,50
+Feb-24,Trinidad/Tobago,40
+Mar-24,Trinidad/Tobago,40
+Apr-24,Trinidad/Tobago,20
+May-24,Trinidad/Tobago,30
+Jun-24,Trinidad/Tobago,50
+Jul-24,Trinidad/Tobago,40
+Sep-22,Benin,10
+Nov-22,Benin,10
+May-23,Benin,10
+Aug-23,Benin,10
+Jun-24,Benin,10
+Jul-19,Burkina Faso,10
+Sep-19,Burkina Faso,10
+Aug-22,Burkina Faso,10
+Nov-22,Burkina Faso,10
+Sep-23,Burkina Faso,10
+Nov-23,Burkina Faso,10
+Jun-24,Burkina Faso,10
+Jan-19,Cameroon,20
+Feb-19,Cameroon,20
+Mar-19,Cameroon,20
+Apr-19,Cameroon,10
+May-19,Cameroon,10
+Jun-19,Cameroon,20
+Jul-19,Cameroon,10
+Aug-19,Cameroon,20
+Sep-19,Cameroon,20
+Oct-19,Cameroon,20
+Nov-19,Cameroon,20
+Dec-19,Cameroon,20
+Jan-20,Cameroon,20
+Feb-20,Cameroon,20
+Mar-20,Cameroon,10
+Dec-21,Cameroon,10
+Jan-22,Cameroon,10
+Feb-22,Cameroon,10
+Mar-22,Cameroon,10
+Apr-22,Cameroon,10
+May-22,Cameroon,10
+Jun-22,Cameroon,10
+Aug-22,Cameroon,10
+Sep-22,Cameroon,10
+Oct-22,Cameroon,10
+Nov-22,Cameroon,20
+Dec-22,Cameroon,20
+Jan-23,Cameroon,20
+Feb-23,Cameroon,20
+Mar-23,Cameroon,10
+Apr-23,Cameroon,10
+May-23,Cameroon,10
+Jun-23,Cameroon,20
+Jul-23,Cameroon,40
+Aug-23,Cameroon,20
+Sep-23,Cameroon,30
+Oct-23,Cameroon,10
+Nov-23,Cameroon,30
+Dec-23,Cameroon,20
+Jan-24,Cameroon,10
+Feb-24,Cameroon,20
+Mar-24,Cameroon,10
+Apr-24,Cameroon,20
+May-24,Cameroon,10
+Jun-24,Cameroon,20
+Jul-24,Cameroon,10
+Jan-19,Cabo Verde,10
+Nov-22,Cabo Verde,10
+Apr-19,Cent Africa Rep,10
+May-19,Cent Africa Rep,20
+Sep-19,Cent Africa Rep,10
+Nov-19,Cent Africa Rep,50
+Feb-20,Cent Africa Rep,60
+Nov-21,Cent Africa Rep,10
+Nov-22,Cent Africa Rep,10
+Mar-23,Cent Africa Rep,10
+Apr-23,Cent Africa Rep,10
+Jun-23,Cent Africa Rep,10
+Jul-23,Cent Africa Rep,10
+Aug-23,Cent Africa Rep,10
+Sep-23,Cent Africa Rep,10
+Oct-23,Cent Africa Rep,10
+Nov-23,Cent Africa Rep,10
+Dec-23,Cent Africa Rep,10
+Jan-24,Cent Africa Rep,20
+Feb-24,Cent Africa Rep,30
+Mar-24,Cent Africa Rep,20
+Apr-24,Cent Africa Rep,30
+Jun-24,Cent Africa Rep,10
+Jul-24,Cent Africa Rep,30
+Jul-23,Chad,10
+Aug-23,Chad,10
+Dec-23,Chad,10
+Mar-19,"Congo, Rep",10
+May-19,"Congo, Rep",10
+Sep-19,"Congo, Rep",10
+Oct-19,"Congo, Rep",10
+Nov-19,"Congo, Rep",10
+Dec-19,"Congo, Rep",10
+Jan-20,"Congo, Rep",10
+Feb-20,"Congo, Rep",10
+Mar-22,"Congo, Rep",20
+Apr-22,"Congo, Rep",10
+Nov-22,"Congo, Rep",10
+Feb-23,"Congo, Rep",10
+Mar-23,"Congo, Rep",10
+Apr-23,"Congo, Rep",10
+May-23,"Congo, Rep",10
+Aug-23,"Congo, Rep",30
+Sep-23,"Congo, Rep",10
+Nov-23,"Congo, Rep",10
+Dec-23,"Congo, Rep",10
+Jan-24,"Congo, Rep",10
+Feb-24,"Congo, Rep",10
+Mar-24,"Congo, Rep",10
+Apr-24,"Congo, Rep",20
+May-24,"Congo, Rep",20
+Jun-24,"Congo, Rep",20
+Jul-24,"Congo, Rep",10
+Jan-19,"Congo, Dem Rep",220
+Feb-19,"Congo, Dem Rep",360
+Mar-19,"Congo, Dem Rep",140
+Apr-19,"Congo, Dem Rep",230
+May-19,"Congo, Dem Rep",150
+Jun-19,"Congo, Dem Rep",140
+Jul-19,"Congo, Dem Rep",210
+Aug-19,"Congo, Dem Rep",170
+Sep-19,"Congo, Dem Rep",150
+Oct-19,"Congo, Dem Rep",180
+Nov-19,"Congo, Dem Rep",160
+Dec-19,"Congo, Dem Rep",150
+Jan-20,"Congo, Dem Rep",160
+Feb-20,"Congo, Dem Rep",120
+Mar-20,"Congo, Dem Rep",50
+Dec-20,"Congo, Dem Rep",20
+Mar-21,"Congo, Dem Rep",10
+Apr-21,"Congo, Dem Rep",10
+May-21,"Congo, Dem Rep",20
+Nov-21,"Congo, Dem Rep",10
+Dec-21,"Congo, Dem Rep",10
+Jan-22,"Congo, Dem Rep",30
+Feb-22,"Congo, Dem Rep",40
+Mar-22,"Congo, Dem Rep",40
+Apr-22,"Congo, Dem Rep",50
+May-22,"Congo, Dem Rep",150
+Jun-22,"Congo, Dem Rep",70
+Jul-22,"Congo, Dem Rep",30
+Aug-22,"Congo, Dem Rep",40
+Sep-22,"Congo, Dem Rep",40
+Oct-22,"Congo, Dem Rep",20
+Nov-22,"Congo, Dem Rep",80
+Dec-22,"Congo, Dem Rep",50
+Jan-23,"Congo, Dem Rep",20
+Feb-23,"Congo, Dem Rep",110
+Mar-23,"Congo, Dem Rep",90
+Apr-23,"Congo, Dem Rep",60
+May-23,"Congo, Dem Rep",70
+Jun-23,"Congo, Dem Rep",80
+Jul-23,"Congo, Dem Rep",110
+Aug-23,"Congo, Dem Rep",380
+Sep-23,"Congo, Dem Rep",310
+Oct-23,"Congo, Dem Rep",170
+Nov-23,"Congo, Dem Rep",170
+Dec-23,"Congo, Dem Rep",120
+Jan-24,"Congo, Dem Rep",190
+Feb-24,"Congo, Dem Rep",230
+Mar-24,"Congo, Dem Rep",230
+Apr-24,"Congo, Dem Rep",170
+May-24,"Congo, Dem Rep",310
+Jun-24,"Congo, Dem Rep",160
+Jul-24,"Congo, Dem Rep",150
+Jan-19,Cote d'Ivoire,20
+Feb-19,Cote d'Ivoire,10
+Mar-19,Cote d'Ivoire,10
+Apr-19,Cote d'Ivoire,10
+May-19,Cote d'Ivoire,10
+Jun-19,Cote d'Ivoire,10
+Jul-19,Cote d'Ivoire,10
+Aug-19,Cote d'Ivoire,10
+Sep-19,Cote d'Ivoire,10
+Oct-19,Cote d'Ivoire,10
+Nov-19,Cote d'Ivoire,10
+Dec-19,Cote d'Ivoire,10
+Jan-20,Cote d'Ivoire,10
+Mar-20,Cote d'Ivoire,10
+Feb-22,Cote d'Ivoire,10
+Aug-22,Cote d'Ivoire,10
+Oct-22,Cote d'Ivoire,10
+Nov-22,Cote d'Ivoire,20
+Dec-22,Cote d'Ivoire,10
+Jan-23,Cote d'Ivoire,10
+Apr-23,Cote d'Ivoire,10
+May-23,Cote d'Ivoire,10
+Jul-23,Cote d'Ivoire,10
+Aug-23,Cote d'Ivoire,10
+Sep-23,Cote d'Ivoire,10
+Nov-23,Cote d'Ivoire,10
+Dec-23,Cote d'Ivoire,10
+Jan-24,Cote d'Ivoire,10
+Apr-24,Cote d'Ivoire,10
+Jun-24,Cote d'Ivoire,10
+Jul-24,Cote d'Ivoire,10
+Aug-22,Gabon,10
+Aug-23,Gabon,10
+Nov-23,Gabon,10
+Jun-24,Gabon,10
+Feb-19,Gambia,10
+Oct-19,Gambia,10
+Dec-19,Gambia,10
+Jan-20,Gambia,10
+Dec-21,Gambia,10
+Dec-22,Gambia,10
+Mar-23,Gambia,10
+Aug-23,Gambia,10
+Oct-23,Gambia,10
+Jan-24,Gambia,10
+Feb-24,Gambia,10
+Mar-24,Gambia,10
+Apr-24,Gambia,10
+Jan-19,Ghana,140
+Feb-19,Ghana,180
+Mar-19,Ghana,130
+Apr-19,Ghana,130
+May-19,Ghana,120
+Jun-19,Ghana,140
+Jul-19,Ghana,160
+Aug-19,Ghana,160
+Sep-19,Ghana,150
+Oct-19,Ghana,110
+Nov-19,Ghana,150
+Dec-19,Ghana,170
+Jan-20,Ghana,190
+Feb-20,Ghana,200
+Mar-20,Ghana,90
+Apr-20,Ghana,10
+Oct-20,Ghana,10
+Nov-20,Ghana,10
+Dec-20,Ghana,10
+Feb-21,Ghana,10
+Mar-21,Ghana,10
+Apr-21,Ghana,10
+May-21,Ghana,40
+Jun-21,Ghana,20
+Jul-21,Ghana,20
+Aug-21,Ghana,10
+Nov-21,Ghana,30
+Dec-21,Ghana,90
+Jan-22,Ghana,100
+Feb-22,Ghana,100
+Mar-22,Ghana,110
+Apr-22,Ghana,90
+May-22,Ghana,130
+Jun-22,Ghana,90
+Jul-22,Ghana,90
+Aug-22,Ghana,150
+Sep-22,Ghana,150
+Oct-22,Ghana,160
+Nov-22,Ghana,200
+Dec-22,Ghana,160
+Jan-23,Ghana,150
+Feb-23,Ghana,260
+Mar-23,Ghana,220
+Apr-23,Ghana,170
+May-23,Ghana,220
+Jun-23,Ghana,200
+Jul-23,Ghana,180
+Aug-23,Ghana,200
+Sep-23,Ghana,270
+Oct-23,Ghana,190
+Nov-23,Ghana,220
+Dec-23,Ghana,180
+Jan-24,Ghana,270
+Feb-24,Ghana,230
+Mar-24,Ghana,190
+Apr-24,Ghana,170
+May-24,Ghana,200
+Jun-24,Ghana,250
+Jul-24,Ghana,180
+May-19,Guinea,10
+Jun-19,Guinea,10
+Jul-19,Guinea,10
+Aug-19,Guinea,10
+Sep-19,Guinea,20
+Dec-19,Guinea,10
+Jan-20,Guinea,10
+Feb-20,Guinea,10
+Jun-21,Guinea,10
+Jul-21,Guinea,10
+Nov-21,Guinea,10
+Dec-21,Guinea,10
+Feb-22,Guinea,10
+Mar-22,Guinea,10
+May-22,Guinea,10
+Jun-22,Guinea,10
+Oct-22,Guinea,10
+Nov-22,Guinea,10
+Dec-22,Guinea,10
+Jan-23,Guinea,10
+Feb-23,Guinea,10
+Mar-23,Guinea,10
+Jul-23,Guinea,10
+Aug-23,Guinea,10
+Sep-23,Guinea,10
+Oct-23,Guinea,10
+Nov-23,Guinea,10
+Feb-24,Guinea,10
+Mar-24,Guinea,10
+May-24,Guinea,10
+Jun-24,Guinea,10
+Jul-24,Guinea,10
+Jan-19,Liberia,10
+Feb-19,Liberia,40
+Mar-19,Liberia,10
+Apr-19,Liberia,10
+May-19,Liberia,10
+Jul-19,Liberia,10
+Aug-19,Liberia,10
+Sep-19,Liberia,10
+Oct-19,Liberia,10
+Nov-19,Liberia,10
+Dec-19,Liberia,10
+Jan-20,Liberia,20
+Feb-20,Liberia,30
+Mar-20,Liberia,10
+Apr-21,Liberia,10
+May-21,Liberia,10
+Jun-21,Liberia,10
+Nov-21,Liberia,10
+Dec-21,Liberia,10
+Feb-22,Liberia,20
+Mar-22,Liberia,20
+Apr-22,Liberia,10
+Jun-22,Liberia,10
+Jul-22,Liberia,10
+Aug-22,Liberia,10
+Sep-22,Liberia,10
+Oct-22,Liberia,20
+Nov-22,Liberia,20
+Dec-22,Liberia,10
+Jan-23,Liberia,10
+Feb-23,Liberia,20
+Mar-23,Liberia,20
+Apr-23,Liberia,20
+May-23,Liberia,10
+Jun-23,Liberia,10
+Jul-23,Liberia,20
+Aug-23,Liberia,10
+Sep-23,Liberia,10
+Oct-23,Liberia,10
+Nov-23,Liberia,10
+Dec-23,Liberia,20
+Jan-24,Liberia,20
+Feb-24,Liberia,20
+Mar-24,Liberia,20
+Apr-24,Liberia,20
+May-24,Liberia,10
+Jun-24,Liberia,10
+Jul-24,Liberia,10
+May-19,Mali,10
+Aug-19,Mali,10
+Sep-19,Mali,20
+Jan-20,Mali,10
+Mar-20,Mali,10
+Aug-22,Mali,30
+Sep-22,Mali,40
+Oct-22,Mali,10
+Feb-23,Mali,10
+Jul-23,Mali,10
+Aug-23,Mali,10
+Sep-23,Mali,10
+Jan-24,Mali,10
+Feb-24,Mali,10
+May-24,Mali,10
+Nov-22,Mauritania,10
+Jun-23,Mauritania,10
+Jan-19,Niger,10
+Jan-19,Nigeria,740
+Feb-19,Nigeria,560
+Mar-19,Nigeria,360
+Apr-19,Nigeria,380
+May-19,Nigeria,380
+Jun-19,Nigeria,380
+Jul-19,Nigeria,480
+Aug-19,Nigeria,490
+Sep-19,Nigeria,420
+Oct-19,Nigeria,390
+Nov-19,Nigeria,410
+Dec-19,Nigeria,480
+Jan-20,Nigeria,640
+Feb-20,Nigeria,600
+Mar-20,Nigeria,280
+Sep-20,Nigeria,10
+Oct-20,Nigeria,20
+Nov-20,Nigeria,20
+Dec-20,Nigeria,50
+Jan-21,Nigeria,30
+Feb-21,Nigeria,30
+Mar-21,Nigeria,50
+Apr-21,Nigeria,50
+May-21,Nigeria,80
+Jun-21,Nigeria,70
+Jul-21,Nigeria,40
+Aug-21,Nigeria,20
+Sep-21,Nigeria,20
+Oct-21,Nigeria,10
+Nov-21,Nigeria,100
+Dec-21,Nigeria,460
+Jan-22,Nigeria,370
+Feb-22,Nigeria,470
+Mar-22,Nigeria,380
+Apr-22,Nigeria,290
+May-22,Nigeria,370
+Jun-22,Nigeria,360
+Jul-22,Nigeria,330
+Aug-22,Nigeria,510
+Sep-22,Nigeria,410
+Oct-22,Nigeria,440
+Nov-22,Nigeria,710
+Dec-22,Nigeria,630
+Jan-23,Nigeria,570
+Feb-23,Nigeria,820
+Mar-23,Nigeria,600
+Apr-23,Nigeria,520
+May-23,Nigeria,660
+Jun-23,Nigeria,620
+Jul-23,Nigeria,730
+Aug-23,Nigeria,670
+Sep-23,Nigeria,680
+Oct-23,Nigeria,460
+Nov-23,Nigeria,660
+Dec-23,Nigeria,780
+Jan-24,Nigeria,760
+Feb-24,Nigeria,740
+Mar-24,Nigeria,500
+Apr-24,Nigeria,490
+May-24,Nigeria,520
+Jun-24,Nigeria,630
+Jul-24,Nigeria,430
+Jan-19,Senegal,10
+Mar-19,Senegal,10
+May-19,Senegal,10
+Jun-19,Senegal,20
+Aug-19,Senegal,10
+Sep-19,Senegal,10
+Oct-19,Senegal,10
+Nov-19,Senegal,10
+Dec-19,Senegal,10
+Jan-20,Senegal,10
+Feb-20,Senegal,10
+Feb-22,Senegal,10
+Mar-22,Senegal,10
+Aug-22,Senegal,10
+Sep-22,Senegal,10
+Nov-22,Senegal,20
+Dec-22,Senegal,10
+Mar-23,Senegal,20
+Apr-23,Senegal,10
+Jun-23,Senegal,10
+Jul-23,Senegal,10
+Aug-23,Senegal,20
+Sep-23,Senegal,20
+Oct-23,Senegal,10
+Nov-23,Senegal,10
+Dec-23,Senegal,10
+Mar-24,Senegal,10
+May-24,Senegal,10
+Jun-24,Senegal,10
+Jul-24,Senegal,10
+Jan-19,Sierra Leone,30
+Feb-19,Sierra Leone,30
+Mar-19,Sierra Leone,10
+Apr-19,Sierra Leone,10
+May-19,Sierra Leone,20
+Jun-19,Sierra Leone,10
+Jul-19,Sierra Leone,20
+Aug-19,Sierra Leone,20
+Sep-19,Sierra Leone,10
+Oct-19,Sierra Leone,10
+Nov-19,Sierra Leone,10
+Dec-19,Sierra Leone,30
+Jan-20,Sierra Leone,40
+Feb-20,Sierra Leone,20
+Mar-20,Sierra Leone,10
+May-21,Sierra Leone,10
+Jul-21,Sierra Leone,10
+Nov-21,Sierra Leone,20
+Dec-21,Sierra Leone,20
+Jan-22,Sierra Leone,10
+Feb-22,Sierra Leone,20
+Mar-22,Sierra Leone,20
+Apr-22,Sierra Leone,10
+May-22,Sierra Leone,20
+Jun-22,Sierra Leone,10
+Jul-22,Sierra Leone,10
+Aug-22,Sierra Leone,10
+Sep-22,Sierra Leone,20
+Oct-22,Sierra Leone,10
+Nov-22,Sierra Leone,20
+Dec-22,Sierra Leone,30
+Jan-23,Sierra Leone,30
+Feb-23,Sierra Leone,30
+Mar-23,Sierra Leone,20
+Apr-23,Sierra Leone,10
+May-23,Sierra Leone,20
+Jun-23,Sierra Leone,10
+Jul-23,Sierra Leone,10
+Aug-23,Sierra Leone,20
+Sep-23,Sierra Leone,10
+Oct-23,Sierra Leone,10
+Dec-23,Sierra Leone,30
+Jan-24,Sierra Leone,30
+Feb-24,Sierra Leone,30
+Mar-24,Sierra Leone,10
+Apr-24,Sierra Leone,10
+May-24,Sierra Leone,30
+Jun-24,Sierra Leone,20
+Jul-24,Sierra Leone,20
+Jan-19,Togo,10
+Nov-22,Togo,10
+Dec-22,Togo,10
+May-23,Togo,10
+Jul-23,Togo,10
+Aug-23,Togo,10
+Oct-23,Togo,10
+Nov-23,Togo,10
+Mar-24,Togo,10
+Jan-19,Angola,10
+Mar-19,Angola,10
+Apr-19,Angola,10
+Jun-19,Angola,10
+Jul-19,Angola,10
+Sep-19,Angola,10
+Dec-19,Angola,10
+Apr-22,Angola,10
+May-22,Angola,10
+Aug-22,Angola,10
+Nov-22,Angola,10
+Dec-22,Angola,10
+Feb-23,Angola,10
+May-23,Angola,10
+Jun-23,Angola,10
+Aug-23,Angola,10
+Sep-23,Angola,10
+Nov-23,Angola,10
+Mar-24,Angola,10
+Apr-24,Angola,10
+May-24,Angola,10
+Jun-24,Angola,10
+Jul-24,Angola,10
+Jan-19,Botswana,120
+Feb-19,Botswana,70
+Mar-19,Botswana,40
+Apr-19,Botswana,60
+May-19,Botswana,70
+Jun-19,Botswana,60
+Jul-19,Botswana,100
+Aug-19,Botswana,70
+Sep-19,Botswana,80
+Oct-19,Botswana,80
+Nov-19,Botswana,80
+Dec-19,Botswana,100
+Jan-20,Botswana,130
+Feb-20,Botswana,110
+Mar-20,Botswana,30
+Dec-20,Botswana,10
+Jan-22,Botswana,40
+Feb-22,Botswana,30
+Mar-22,Botswana,30
+Apr-22,Botswana,40
+May-22,Botswana,40
+Jun-22,Botswana,40
+Jul-22,Botswana,40
+Aug-22,Botswana,40
+Sep-22,Botswana,50
+Oct-22,Botswana,50
+Nov-22,Botswana,60
+Dec-22,Botswana,70
+Jan-23,Botswana,110
+Feb-23,Botswana,80
+Mar-23,Botswana,60
+Apr-23,Botswana,70
+May-23,Botswana,50
+Jun-23,Botswana,50
+Jul-23,Botswana,90
+Aug-23,Botswana,70
+Sep-23,Botswana,130
+Oct-23,Botswana,70
+Nov-23,Botswana,90
+Dec-23,Botswana,110
+Jan-24,Botswana,120
+Feb-24,Botswana,100
+Mar-24,Botswana,60
+Apr-24,Botswana,50
+May-24,Botswana,70
+Jun-24,Botswana,80
+Jul-24,Botswana,90
+Jan-19,Burundi,30
+Feb-19,Burundi,40
+Mar-19,Burundi,20
+Apr-19,Burundi,10
+May-19,Burundi,20
+Jun-19,Burundi,10
+Jul-19,Burundi,30
+Aug-19,Burundi,30
+Sep-19,Burundi,40
+Oct-19,Burundi,30
+Nov-19,Burundi,50
+Dec-19,Burundi,40
+Jan-20,Burundi,30
+Feb-20,Burundi,20
+Mar-20,Burundi,10
+Mar-21,Burundi,20
+Apr-21,Burundi,10
+Dec-21,Burundi,10
+Jan-22,Burundi,10
+Feb-22,Burundi,20
+Mar-22,Burundi,10
+Apr-22,Burundi,10
+May-22,Burundi,20
+Jun-22,Burundi,10
+Jul-22,Burundi,10
+Aug-22,Burundi,20
+Sep-22,Burundi,10
+Oct-22,Burundi,10
+Nov-22,Burundi,20
+Dec-22,Burundi,10
+Jan-23,Burundi,20
+Feb-23,Burundi,30
+Mar-23,Burundi,20
+Apr-23,Burundi,20
+May-23,Burundi,10
+Jun-23,Burundi,20
+Jul-23,Burundi,30
+Aug-23,Burundi,40
+Sep-23,Burundi,30
+Oct-23,Burundi,20
+Nov-23,Burundi,30
+Dec-23,Burundi,20
+Jan-24,Burundi,30
+Feb-24,Burundi,30
+Mar-24,Burundi,30
+Apr-24,Burundi,10
+May-24,Burundi,30
+Jun-24,Burundi,30
+Jul-24,Burundi,20
+Aug-19,Comoros,10
+Aug-23,Djibouti,10
+Sep-23,Djibouti,10
+Jan-19,Eritrea,80
+Feb-19,Eritrea,100
+Mar-19,Eritrea,50
+Apr-19,Eritrea,70
+May-19,Eritrea,60
+Jun-19,Eritrea,70
+Jul-19,Eritrea,90
+Aug-19,Eritrea,180
+Sep-19,Eritrea,80
+Oct-19,Eritrea,140
+Nov-19,Eritrea,80
+Dec-19,Eritrea,50
+Jan-20,Eritrea,70
+Feb-20,Eritrea,210
+Mar-20,Eritrea,70
+Oct-20,Eritrea,10
+Dec-20,Eritrea,10
+Mar-21,Eritrea,10
+Apr-21,Eritrea,10
+May-21,Eritrea,10
+Nov-21,Eritrea,20
+Dec-21,Eritrea,20
+Jan-22,Eritrea,30
+Feb-22,Eritrea,20
+Mar-22,Eritrea,20
+Apr-22,Eritrea,30
+May-22,Eritrea,50
+Jun-22,Eritrea,40
+Jul-22,Eritrea,20
+Aug-22,Eritrea,50
+Sep-22,Eritrea,60
+Oct-22,Eritrea,50
+Nov-22,Eritrea,180
+Dec-22,Eritrea,60
+Jan-23,Eritrea,40
+Feb-23,Eritrea,80
+Mar-23,Eritrea,60
+Apr-23,Eritrea,30
+May-23,Eritrea,50
+Jun-23,Eritrea,60
+Jul-23,Eritrea,30
+Aug-23,Eritrea,30
+Sep-23,Eritrea,30
+Oct-23,Eritrea,40
+Nov-23,Eritrea,40
+Dec-23,Eritrea,40
+Jan-24,Eritrea,50
+Feb-24,Eritrea,70
+Mar-24,Eritrea,50
+Apr-24,Eritrea,50
+May-24,Eritrea,60
+Jun-24,Eritrea,50
+Jul-24,Eritrea,60
+Jan-19,Ethiopia,120
+Feb-19,Ethiopia,260
+Mar-19,Ethiopia,180
+Apr-19,Ethiopia,110
+May-19,Ethiopia,150
+Jun-19,Ethiopia,200
+Jul-19,Ethiopia,180
+Aug-19,Ethiopia,230
+Sep-19,Ethiopia,180
+Oct-19,Ethiopia,260
+Nov-19,Ethiopia,200
+Dec-19,Ethiopia,150
+Jan-20,Ethiopia,160
+Feb-20,Ethiopia,320
+Mar-20,Ethiopia,120
+May-20,Ethiopia,10
+Jul-20,Ethiopia,10
+Aug-20,Ethiopia,10
+Oct-20,Ethiopia,10
+Nov-20,Ethiopia,10
+Dec-20,Ethiopia,10
+Jan-21,Ethiopia,10
+Feb-21,Ethiopia,10
+Mar-21,Ethiopia,20
+Apr-21,Ethiopia,10
+May-21,Ethiopia,40
+Jun-21,Ethiopia,40
+Jul-21,Ethiopia,20
+Oct-21,Ethiopia,10
+Nov-21,Ethiopia,70
+Dec-21,Ethiopia,100
+Jan-22,Ethiopia,80
+Feb-22,Ethiopia,120
+Mar-22,Ethiopia,130
+Apr-22,Ethiopia,60
+May-22,Ethiopia,130
+Jun-22,Ethiopia,110
+Jul-22,Ethiopia,90
+Aug-22,Ethiopia,100
+Sep-22,Ethiopia,150
+Oct-22,Ethiopia,110
+Nov-22,Ethiopia,150
+Dec-22,Ethiopia,130
+Jan-23,Ethiopia,110
+Feb-23,Ethiopia,300
+Mar-23,Ethiopia,210
+Apr-23,Ethiopia,120
+May-23,Ethiopia,170
+Jun-23,Ethiopia,150
+Jul-23,Ethiopia,160
+Aug-23,Ethiopia,190
+Sep-23,Ethiopia,250
+Oct-23,Ethiopia,170
+Nov-23,Ethiopia,180
+Dec-23,Ethiopia,180
+Jan-24,Ethiopia,160
+Feb-24,Ethiopia,290
+Mar-24,Ethiopia,210
+Apr-24,Ethiopia,160
+May-24,Ethiopia,200
+Jun-24,Ethiopia,200
+Jul-24,Ethiopia,160
+Jan-19,Kenya,1260
+Feb-19,Kenya,930
+Mar-19,Kenya,650
+Apr-19,Kenya,620
+May-19,Kenya,540
+Jun-19,Kenya,500
+Jul-19,Kenya,700
+Aug-19,Kenya,580
+Sep-19,Kenya,600
+Oct-19,Kenya,590
+Nov-19,Kenya,700
+Dec-19,Kenya,970
+Jan-20,Kenya,1230
+Feb-20,Kenya,1010
+Mar-20,Kenya,380
+May-20,Kenya,10
+Jun-20,Kenya,10
+Aug-20,Kenya,10
+Sep-20,Kenya,10
+Oct-20,Kenya,20
+Nov-20,Kenya,20
+Dec-20,Kenya,30
+Jan-21,Kenya,10
+Feb-21,Kenya,10
+Mar-21,Kenya,30
+Apr-21,Kenya,20
+May-21,Kenya,30
+Jun-21,Kenya,30
+Jul-21,Kenya,30
+Aug-21,Kenya,20
+Sep-21,Kenya,10
+Oct-21,Kenya,10
+Nov-21,Kenya,90
+Dec-21,Kenya,390
+Jan-22,Kenya,360
+Feb-22,Kenya,510
+Mar-22,Kenya,410
+Apr-22,Kenya,410
+May-22,Kenya,450
+Jun-22,Kenya,570
+Jul-22,Kenya,660
+Aug-22,Kenya,580
+Sep-22,Kenya,590
+Oct-22,Kenya,560
+Nov-22,Kenya,850
+Dec-22,Kenya,1090
+Jan-23,Kenya,1070
+Feb-23,Kenya,1420
+Mar-23,Kenya,1020
+Apr-23,Kenya,860
+May-23,Kenya,1020
+Jun-23,Kenya,970
+Jul-23,Kenya,1140
+Aug-23,Kenya,1220
+Sep-23,Kenya,1200
+Oct-23,Kenya,960
+Nov-23,Kenya,1210
+Dec-23,Kenya,1290
+Jan-24,Kenya,1550
+Feb-24,Kenya,1350
+Mar-24,Kenya,790
+Apr-24,Kenya,790
+May-24,Kenya,700
+Jun-24,Kenya,690
+Jul-24,Kenya,890
+Jan-19,Lesotho,10
+Feb-19,Lesotho,10
+Mar-19,Lesotho,10
+Jul-19,Lesotho,10
+Aug-19,Lesotho,10
+Oct-19,Lesotho,10
+Nov-19,Lesotho,10
+Dec-19,Lesotho,10
+Jan-20,Lesotho,10
+Mar-20,Lesotho,10
+Jan-22,Lesotho,10
+Sep-22,Lesotho,10
+Nov-22,Lesotho,10
+Jan-23,Lesotho,10
+Mar-23,Lesotho,10
+Apr-23,Lesotho,10
+May-23,Lesotho,10
+Jun-23,Lesotho,10
+Jul-23,Lesotho,10
+Aug-23,Lesotho,10
+Oct-23,Lesotho,10
+Dec-23,Lesotho,10
+Jan-24,Lesotho,10
+Feb-24,Lesotho,10
+Apr-24,Lesotho,10
+Jul-24,Lesotho,10
+Jan-19,Madagascar,20
+Feb-19,Madagascar,20
+Mar-19,Madagascar,10
+Apr-19,Madagascar,10
+May-19,Madagascar,20
+Jun-19,Madagascar,10
+Jul-19,Madagascar,10
+Aug-19,Madagascar,10
+Sep-19,Madagascar,10
+Oct-19,Madagascar,20
+Nov-19,Madagascar,10
+Dec-19,Madagascar,10
+Jan-20,Madagascar,30
+Feb-20,Madagascar,10
+Mar-20,Madagascar,10
+Mar-22,Madagascar,10
+Jul-22,Madagascar,10
+Aug-22,Madagascar,10
+Sep-22,Madagascar,10
+Oct-22,Madagascar,10
+Nov-22,Madagascar,20
+Dec-22,Madagascar,10
+Jan-23,Madagascar,10
+Feb-23,Madagascar,10
+Mar-23,Madagascar,10
+Apr-23,Madagascar,10
+May-23,Madagascar,10
+Jul-23,Madagascar,10
+Aug-23,Madagascar,20
+Sep-23,Madagascar,10
+Oct-23,Madagascar,10
+Nov-23,Madagascar,20
+Dec-23,Madagascar,10
+Jan-24,Madagascar,20
+Feb-24,Madagascar,20
+Mar-24,Madagascar,10
+Apr-24,Madagascar,10
+May-24,Madagascar,10
+Jun-24,Madagascar,30
+Jul-24,Madagascar,10
+Jan-19,Malawi,50
+Feb-19,Malawi,30
+Mar-19,Malawi,30
+Apr-19,Malawi,30
+May-19,Malawi,20
+Jun-19,Malawi,20
+Jul-19,Malawi,30
+Aug-19,Malawi,30
+Sep-19,Malawi,40
+Oct-19,Malawi,30
+Nov-19,Malawi,40
+Dec-19,Malawi,40
+Jan-20,Malawi,50
+Feb-20,Malawi,30
+Mar-20,Malawi,20
+Dec-21,Malawi,10
+Jan-22,Malawi,10
+Feb-22,Malawi,20
+Mar-22,Malawi,10
+Apr-22,Malawi,10
+May-22,Malawi,30
+Jun-22,Malawi,30
+Jul-22,Malawi,20
+Aug-22,Malawi,30
+Sep-22,Malawi,30
+Oct-22,Malawi,20
+Nov-22,Malawi,20
+Dec-22,Malawi,30
+Jan-23,Malawi,20
+Feb-23,Malawi,20
+Mar-23,Malawi,30
+Apr-23,Malawi,50
+May-23,Malawi,20
+Jun-23,Malawi,30
+Jul-23,Malawi,50
+Aug-23,Malawi,40
+Sep-23,Malawi,20
+Oct-23,Malawi,30
+Nov-23,Malawi,30
+Dec-23,Malawi,40
+Jan-24,Malawi,30
+Feb-24,Malawi,40
+Mar-24,Malawi,20
+Apr-24,Malawi,30
+May-24,Malawi,30
+Jun-24,Malawi,30
+Jul-24,Malawi,40
+Jan-19,Mauritius,1140
+Feb-19,Mauritius,1100
+Mar-19,Mauritius,730
+Apr-19,Mauritius,700
+May-19,Mauritius,670
+Jun-19,Mauritius,650
+Jul-19,Mauritius,940
+Aug-19,Mauritius,710
+Sep-19,Mauritius,880
+Oct-19,Mauritius,800
+Nov-19,Mauritius,1030
+Dec-19,Mauritius,1640
+Jan-20,Mauritius,1140
+Feb-20,Mauritius,1030
+Mar-20,Mauritius,500
+Jun-20,Mauritius,20
+Nov-20,Mauritius,10
+Feb-21,Mauritius,10
+Mar-21,Mauritius,10
+Apr-21,Mauritius,10
+May-21,Mauritius,20
+Jun-21,Mauritius,10
+Jul-21,Mauritius,10
+Nov-21,Mauritius,50
+Dec-21,Mauritius,160
+Jan-22,Mauritius,110
+Feb-22,Mauritius,230
+Mar-22,Mauritius,390
+Apr-22,Mauritius,350
+May-22,Mauritius,420
+Jun-22,Mauritius,470
+Jul-22,Mauritius,390
+Aug-22,Mauritius,420
+Sep-22,Mauritius,460
+Oct-22,Mauritius,300
+Nov-22,Mauritius,1500
+Dec-22,Mauritius,1130
+Jan-23,Mauritius,770
+Feb-23,Mauritius,1110
+Mar-23,Mauritius,1020
+Apr-23,Mauritius,750
+May-23,Mauritius,720
+Jun-23,Mauritius,700
+Jul-23,Mauritius,630
+Aug-23,Mauritius,880
+Sep-23,Mauritius,750
+Oct-23,Mauritius,680
+Nov-23,Mauritius,1210
+Dec-23,Mauritius,1290
+Jan-24,Mauritius,910
+Feb-24,Mauritius,1040
+Mar-24,Mauritius,880
+Apr-24,Mauritius,710
+May-24,Mauritius,580
+Jun-24,Mauritius,590
+Jul-24,Mauritius,920
+Jan-19,Mozambique,50
+Feb-19,Mozambique,40
+Mar-19,Mozambique,20
+Apr-19,Mozambique,10
+May-19,Mozambique,20
+Jun-19,Mozambique,10
+Jul-19,Mozambique,50
+Aug-19,Mozambique,20
+Sep-19,Mozambique,10
+Oct-19,Mozambique,20
+Nov-19,Mozambique,10
+Dec-19,Mozambique,50
+Jan-20,Mozambique,30
+Feb-20,Mozambique,30
+Mar-20,Mozambique,10
+Mar-21,Mozambique,10
+Jan-22,Mozambique,10
+Feb-22,Mozambique,10
+Mar-22,Mozambique,10
+Apr-22,Mozambique,10
+May-22,Mozambique,10
+Jun-22,Mozambique,10
+Jul-22,Mozambique,20
+Aug-22,Mozambique,10
+Sep-22,Mozambique,10
+Oct-22,Mozambique,20
+Nov-22,Mozambique,20
+Dec-22,Mozambique,20
+Jan-23,Mozambique,30
+Feb-23,Mozambique,20
+Mar-23,Mozambique,20
+Apr-23,Mozambique,10
+May-23,Mozambique,20
+Jun-23,Mozambique,10
+Jul-23,Mozambique,30
+Aug-23,Mozambique,20
+Sep-23,Mozambique,20
+Oct-23,Mozambique,10
+Nov-23,Mozambique,20
+Dec-23,Mozambique,40
+Jan-24,Mozambique,40
+Feb-24,Mozambique,30
+Mar-24,Mozambique,10
+Apr-24,Mozambique,10
+May-24,Mozambique,10
+Jun-24,Mozambique,10
+Jul-24,Mozambique,40
+Jan-19,Namibia,30
+Feb-19,Namibia,40
+Mar-19,Namibia,30
+Apr-19,Namibia,40
+May-19,Namibia,40
+Jun-19,Namibia,30
+Jul-19,Namibia,30
+Aug-19,Namibia,20
+Sep-19,Namibia,30
+Oct-19,Namibia,50
+Nov-19,Namibia,30
+Dec-19,Namibia,70
+Jan-20,Namibia,40
+Feb-20,Namibia,30
+Mar-20,Namibia,20
+Jan-22,Namibia,20
+Feb-22,Namibia,10
+Mar-22,Namibia,10
+Apr-22,Namibia,10
+May-22,Namibia,10
+Jun-22,Namibia,20
+Jul-22,Namibia,20
+Aug-22,Namibia,30
+Sep-22,Namibia,40
+Oct-22,Namibia,40
+Nov-22,Namibia,60
+Dec-22,Namibia,60
+Jan-23,Namibia,30
+Feb-23,Namibia,40
+Mar-23,Namibia,50
+Apr-23,Namibia,30
+May-23,Namibia,20
+Jun-23,Namibia,50
+Jul-23,Namibia,30
+Aug-23,Namibia,40
+Sep-23,Namibia,50
+Oct-23,Namibia,30
+Nov-23,Namibia,20
+Dec-23,Namibia,60
+Jan-24,Namibia,60
+Feb-24,Namibia,40
+Mar-24,Namibia,50
+Apr-24,Namibia,40
+May-24,Namibia,30
+Jun-24,Namibia,50
+Jul-24,Namibia,30
+Jan-19,Rwanda,10
+Feb-19,Rwanda,20
+Mar-19,Rwanda,20
+Apr-19,Rwanda,20
+May-19,Rwanda,10
+Jun-19,Rwanda,20
+Jul-19,Rwanda,20
+Aug-19,Rwanda,20
+Sep-19,Rwanda,20
+Oct-19,Rwanda,20
+Nov-19,Rwanda,20
+Dec-19,Rwanda,20
+Jan-20,Rwanda,20
+Feb-20,Rwanda,10
+Mar-20,Rwanda,10
+Apr-21,Rwanda,10
+Nov-21,Rwanda,10
+Dec-21,Rwanda,10
+Feb-22,Rwanda,10
+Mar-22,Rwanda,10
+Apr-22,Rwanda,10
+May-22,Rwanda,10
+Jun-22,Rwanda,20
+Jul-22,Rwanda,10
+Aug-22,Rwanda,10
+Sep-22,Rwanda,20
+Oct-22,Rwanda,10
+Nov-22,Rwanda,20
+Dec-22,Rwanda,20
+Jan-23,Rwanda,10
+Feb-23,Rwanda,20
+Mar-23,Rwanda,20
+Apr-23,Rwanda,20
+May-23,Rwanda,20
+Jun-23,Rwanda,20
+Jul-23,Rwanda,30
+Aug-23,Rwanda,20
+Sep-23,Rwanda,30
+Oct-23,Rwanda,10
+Nov-23,Rwanda,20
+Dec-23,Rwanda,10
+Jan-24,Rwanda,30
+Feb-24,Rwanda,20
+Mar-24,Rwanda,30
+Apr-24,Rwanda,10
+May-24,Rwanda,30
+Jun-24,Rwanda,30
+Jul-24,Rwanda,30
+Jan-19,Seychelles,50
+Feb-19,Seychelles,30
+Mar-19,Seychelles,50
+Apr-19,Seychelles,20
+May-19,Seychelles,40
+Jun-19,Seychelles,30
+Jul-19,Seychelles,40
+Aug-19,Seychelles,20
+Sep-19,Seychelles,30
+Oct-19,Seychelles,40
+Nov-19,Seychelles,30
+Dec-19,Seychelles,110
+Jan-20,Seychelles,50
+Feb-20,Seychelles,40
+Mar-20,Seychelles,10
+Feb-22,Seychelles,10
+Mar-22,Seychelles,10
+Apr-22,Seychelles,20
+May-22,Seychelles,10
+Jun-22,Seychelles,20
+Jul-22,Seychelles,10
+Aug-22,Seychelles,30
+Sep-22,Seychelles,20
+Oct-22,Seychelles,10
+Nov-22,Seychelles,30
+Dec-22,Seychelles,50
+Jan-23,Seychelles,30
+Feb-23,Seychelles,30
+Mar-23,Seychelles,20
+Apr-23,Seychelles,20
+May-23,Seychelles,20
+Jun-23,Seychelles,20
+Jul-23,Seychelles,20
+Aug-23,Seychelles,30
+Sep-23,Seychelles,40
+Oct-23,Seychelles,20
+Nov-23,Seychelles,20
+Dec-23,Seychelles,100
+Jan-24,Seychelles,20
+Feb-24,Seychelles,50
+Mar-24,Seychelles,20
+Apr-24,Seychelles,20
+May-24,Seychelles,20
+Jun-24,Seychelles,20
+Jul-24,Seychelles,30
+Jan-19,Somalia,40
+Feb-19,Somalia,20
+Mar-19,Somalia,40
+Apr-19,Somalia,20
+May-19,Somalia,30
+Jun-19,Somalia,30
+Jul-19,Somalia,30
+Aug-19,Somalia,40
+Sep-19,Somalia,40
+Oct-19,Somalia,20
+Nov-19,Somalia,30
+Dec-19,Somalia,20
+Jan-20,Somalia,50
+Feb-20,Somalia,40
+Mar-20,Somalia,20
+May-20,Somalia,10
+Feb-21,Somalia,10
+Mar-21,Somalia,10
+Apr-21,Somalia,20
+May-21,Somalia,10
+Jul-21,Somalia,10
+Aug-21,Somalia,10
+Sep-21,Somalia,10
+Oct-21,Somalia,10
+Nov-21,Somalia,20
+Dec-21,Somalia,30
+Jan-22,Somalia,30
+Feb-22,Somalia,30
+Mar-22,Somalia,20
+Apr-22,Somalia,30
+May-22,Somalia,20
+Jun-22,Somalia,30
+Jul-22,Somalia,10
+Aug-22,Somalia,30
+Sep-22,Somalia,20
+Oct-22,Somalia,20
+Nov-22,Somalia,30
+Dec-22,Somalia,20
+Jan-23,Somalia,20
+Feb-23,Somalia,40
+Mar-23,Somalia,40
+Apr-23,Somalia,40
+May-23,Somalia,40
+Jun-23,Somalia,40
+Jul-23,Somalia,20
+Aug-23,Somalia,30
+Sep-23,Somalia,30
+Oct-23,Somalia,40
+Nov-23,Somalia,50
+Dec-23,Somalia,20
+Jan-24,Somalia,40
+Feb-24,Somalia,90
+Mar-24,Somalia,30
+Apr-24,Somalia,30
+May-24,Somalia,60
+Jun-24,Somalia,30
+Jul-24,Somalia,30
+Jan-19,South Africa,7530
+Feb-19,South Africa,5190
+Mar-19,South Africa,6670
+Apr-19,South Africa,7060
+May-19,South Africa,5110
+Jun-19,South Africa,5870
+Jul-19,South Africa,5760
+Aug-19,South Africa,5590
+Sep-19,South Africa,6740
+Oct-19,South Africa,6360
+Nov-19,South Africa,6720
+Dec-19,South Africa,13250
+Jan-20,South Africa,7780
+Feb-20,South Africa,5560
+Mar-20,South Africa,4070
+Apr-20,South Africa,170
+May-20,South Africa,170
+Jun-20,South Africa,330
+Jul-20,South Africa,50
+Aug-20,South Africa,100
+Sep-20,South Africa,80
+Oct-20,South Africa,290
+Nov-20,South Africa,380
+Dec-20,South Africa,460
+Jan-21,South Africa,300
+Feb-21,South Africa,200
+Mar-21,South Africa,260
+Apr-21,South Africa,340
+May-21,South Africa,460
+Jun-21,South Africa,370
+Jul-21,South Africa,250
+Aug-21,South Africa,270
+Sep-21,South Africa,220
+Oct-21,South Africa,150
+Nov-21,South Africa,610
+Dec-21,South Africa,540
+Jan-22,South Africa,2000
+Feb-22,South Africa,1820
+Mar-22,South Africa,2580
+Apr-22,South Africa,3530
+May-22,South Africa,3710
+Jun-22,South Africa,3700
+Jul-22,South Africa,3660
+Aug-22,South Africa,3920
+Sep-22,South Africa,4130
+Oct-22,South Africa,4380
+Nov-22,South Africa,6650
+Dec-22,South Africa,8990
+Jan-23,South Africa,5670
+Feb-23,South Africa,5030
+Mar-23,South Africa,6270
+Apr-23,South Africa,5260
+May-23,South Africa,4260
+Jun-23,South Africa,4900
+Jul-23,South Africa,4670
+Aug-23,South Africa,4780
+Sep-23,South Africa,5320
+Oct-23,South Africa,4950
+Nov-23,South Africa,5880
+Dec-23,South Africa,9490
+Jan-24,South Africa,6700
+Feb-24,South Africa,5040
+Mar-24,South Africa,6240
+Apr-24,South Africa,5670
+May-24,South Africa,4550
+Jun-24,South Africa,5020
+Jul-24,South Africa,4790
+Apr-19,Eswatini,10
+May-19,Eswatini,10
+Jul-19,Eswatini,10
+Sep-19,Eswatini,10
+Feb-20,Eswatini,10
+Apr-22,Eswatini,10
+Dec-22,Eswatini,10
+Apr-23,Eswatini,10
+Jul-23,Eswatini,10
+Aug-23,Eswatini,10
+Sep-23,Eswatini,10
+Oct-23,Eswatini,10
+Nov-23,Eswatini,10
+Dec-23,Eswatini,10
+Jan-24,Eswatini,10
+Mar-24,Eswatini,10
+Jun-24,Eswatini,10
+Jan-19,Tanzania,120
+Feb-19,Tanzania,110
+Mar-19,Tanzania,80
+Apr-19,Tanzania,70
+May-19,Tanzania,60
+Jun-19,Tanzania,70
+Jul-19,Tanzania,70
+Aug-19,Tanzania,70
+Sep-19,Tanzania,80
+Oct-19,Tanzania,70
+Nov-19,Tanzania,80
+Dec-19,Tanzania,120
+Jan-20,Tanzania,110
+Feb-20,Tanzania,80
+Mar-20,Tanzania,50
+Oct-20,Tanzania,10
+Jun-21,Tanzania,10
+Nov-21,Tanzania,10
+Dec-21,Tanzania,20
+Jan-22,Tanzania,30
+Feb-22,Tanzania,30
+Mar-22,Tanzania,30
+Apr-22,Tanzania,30
+May-22,Tanzania,40
+Jun-22,Tanzania,30
+Jul-22,Tanzania,50
+Aug-22,Tanzania,50
+Sep-22,Tanzania,30
+Oct-22,Tanzania,40
+Nov-22,Tanzania,60
+Dec-22,Tanzania,50
+Jan-23,Tanzania,70
+Feb-23,Tanzania,80
+Mar-23,Tanzania,70
+Apr-23,Tanzania,70
+May-23,Tanzania,50
+Jun-23,Tanzania,70
+Jul-23,Tanzania,110
+Aug-23,Tanzania,50
+Sep-23,Tanzania,80
+Oct-23,Tanzania,60
+Nov-23,Tanzania,80
+Dec-23,Tanzania,70
+Jan-24,Tanzania,90
+Feb-24,Tanzania,90
+Mar-24,Tanzania,60
+Apr-24,Tanzania,50
+May-24,Tanzania,50
+Jun-24,Tanzania,60
+Jul-24,Tanzania,70
+Jan-19,Uganda,120
+Feb-19,Uganda,90
+Mar-19,Uganda,70
+Apr-19,Uganda,110
+May-19,Uganda,60
+Jun-19,Uganda,60
+Jul-19,Uganda,80
+Aug-19,Uganda,50
+Sep-19,Uganda,90
+Oct-19,Uganda,70
+Nov-19,Uganda,70
+Dec-19,Uganda,70
+Jan-20,Uganda,120
+Feb-20,Uganda,100
+Mar-20,Uganda,40
+Nov-20,Uganda,10
+Feb-21,Uganda,10
+Apr-21,Uganda,10
+Jul-21,Uganda,10
+Nov-21,Uganda,10
+Dec-21,Uganda,20
+Jan-22,Uganda,40
+Feb-22,Uganda,50
+Mar-22,Uganda,40
+Apr-22,Uganda,30
+May-22,Uganda,50
+Jun-22,Uganda,30
+Jul-22,Uganda,50
+Aug-22,Uganda,60
+Sep-22,Uganda,50
+Oct-22,Uganda,70
+Nov-22,Uganda,60
+Dec-22,Uganda,60
+Jan-23,Uganda,90
+Feb-23,Uganda,130
+Mar-23,Uganda,80
+Apr-23,Uganda,80
+May-23,Uganda,250
+Jun-23,Uganda,70
+Jul-23,Uganda,150
+Aug-23,Uganda,100
+Sep-23,Uganda,90
+Oct-23,Uganda,70
+Nov-23,Uganda,60
+Dec-23,Uganda,70
+Jan-24,Uganda,150
+Feb-24,Uganda,130
+Mar-24,Uganda,90
+Apr-24,Uganda,80
+May-24,Uganda,80
+Jun-24,Uganda,160
+Jul-24,Uganda,100
+Jan-19,Zambia,170
+Feb-19,Zambia,120
+Mar-19,Zambia,90
+Apr-19,Zambia,90
+May-19,Zambia,100
+Jun-19,Zambia,70
+Jul-19,Zambia,120
+Aug-19,Zambia,110
+Sep-19,Zambia,120
+Oct-19,Zambia,110
+Nov-19,Zambia,110
+Dec-19,Zambia,180
+Jan-20,Zambia,160
+Feb-20,Zambia,160
+Mar-20,Zambia,50
+Aug-20,Zambia,10
+Oct-20,Zambia,10
+Dec-20,Zambia,10
+Jan-21,Zambia,10
+Mar-21,Zambia,10
+Apr-21,Zambia,20
+May-21,Zambia,20
+Jun-21,Zambia,10
+Jul-21,Zambia,10
+Sep-21,Zambia,10
+Oct-21,Zambia,10
+Nov-21,Zambia,10
+Dec-21,Zambia,20
+Jan-22,Zambia,30
+Feb-22,Zambia,90
+Mar-22,Zambia,40
+Apr-22,Zambia,60
+May-22,Zambia,90
+Jun-22,Zambia,50
+Jul-22,Zambia,90
+Aug-22,Zambia,90
+Sep-22,Zambia,90
+Oct-22,Zambia,100
+Nov-22,Zambia,170
+Dec-22,Zambia,200
+Jan-23,Zambia,140
+Feb-23,Zambia,130
+Mar-23,Zambia,130
+Apr-23,Zambia,130
+May-23,Zambia,130
+Jun-23,Zambia,110
+Jul-23,Zambia,170
+Aug-23,Zambia,160
+Sep-23,Zambia,160
+Oct-23,Zambia,170
+Nov-23,Zambia,150
+Dec-23,Zambia,200
+Jan-24,Zambia,190
+Feb-24,Zambia,170
+Mar-24,Zambia,120
+Apr-24,Zambia,130
+May-24,Zambia,140
+Jun-24,Zambia,110
+Jul-24,Zambia,140
+Jan-19,Zimbabwe,930
+Feb-19,Zimbabwe,540
+Mar-19,Zimbabwe,460
+Apr-19,Zimbabwe,590
+May-19,Zimbabwe,470
+Jun-19,Zimbabwe,510
+Jul-19,Zimbabwe,590
+Aug-19,Zimbabwe,580
+Sep-19,Zimbabwe,600
+Oct-19,Zimbabwe,500
+Nov-19,Zimbabwe,560
+Dec-19,Zimbabwe,1070
+Jan-20,Zimbabwe,800
+Feb-20,Zimbabwe,650
+Mar-20,Zimbabwe,340
+May-20,Zimbabwe,10
+Jun-20,Zimbabwe,10
+Jul-20,Zimbabwe,10
+Sep-20,Zimbabwe,10
+Oct-20,Zimbabwe,10
+Nov-20,Zimbabwe,40
+Dec-20,Zimbabwe,50
+Jan-21,Zimbabwe,20
+Feb-21,Zimbabwe,60
+Mar-21,Zimbabwe,50
+Apr-21,Zimbabwe,40
+May-21,Zimbabwe,50
+Jun-21,Zimbabwe,40
+Jul-21,Zimbabwe,20
+Aug-21,Zimbabwe,20
+Sep-21,Zimbabwe,30
+Oct-21,Zimbabwe,30
+Nov-21,Zimbabwe,120
+Dec-21,Zimbabwe,100
+Jan-22,Zimbabwe,260
+Feb-22,Zimbabwe,310
+Mar-22,Zimbabwe,260
+Apr-22,Zimbabwe,370
+May-22,Zimbabwe,440
+Jun-22,Zimbabwe,320
+Jul-22,Zimbabwe,440
+Aug-22,Zimbabwe,630
+Sep-22,Zimbabwe,500
+Oct-22,Zimbabwe,580
+Nov-22,Zimbabwe,810
+Dec-22,Zimbabwe,1000
+Jan-23,Zimbabwe,840
+Feb-23,Zimbabwe,880
+Mar-23,Zimbabwe,810
+Apr-23,Zimbabwe,710
+May-23,Zimbabwe,630
+Jun-23,Zimbabwe,580
+Jul-23,Zimbabwe,770
+Aug-23,Zimbabwe,760
+Sep-23,Zimbabwe,690
+Oct-23,Zimbabwe,710
+Nov-23,Zimbabwe,770
+Dec-23,Zimbabwe,1140
+Jan-24,Zimbabwe,1240
+Feb-24,Zimbabwe,850
+Mar-24,Zimbabwe,690
+Apr-24,Zimbabwe,760
+May-24,Zimbabwe,650
+Jun-24,Zimbabwe,680
+Jul-24,Zimbabwe,810
