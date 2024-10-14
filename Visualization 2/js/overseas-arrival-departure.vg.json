@@ -23,40 +23,73 @@
         "as": ["variable", "value"]
       }
     ],
-    "mark": {
-      "type": "line",
-      "point": true
-    },
-    "encoding": {
-      "x": {
-        "field": "ParsedDate",
-        "type": "temporal",
-        "axis": {
-          "title": "Date",
-          "format": "%b %Y",
-          "labelAngle": -45
-        }
-      },
-      "y": {
-        "field": "value",
-        "type": "quantitative",
-        "axis": {
-          "title": "Millions",
-          "format": "s"
-        }
-      },
-      "color": {
-        "field": "variable",
-        "type": "nominal",
-        "legend": {
-          "title": null,
-          "orient": "bottom",
-          "labelFontSize": 12
+    "layer": [
+      {
+        "mark": {
+          "type": "line",
+          "tooltip": true
         },
-        "scale": {
-          "range": ["#1f77b4", "#ff7f0e"]
+        "encoding": {
+          "x": {
+            "field": "ParsedDate",
+            "type": "temporal",
+            "axis": {
+              "title": "Date",
+              "format": "%b %Y",
+              "labelAngle": -45
+            }
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "axis": {
+              "title": "Millions",
+              "format": "s"
+            }
+          },
+          "color": {
+            "field": "variable",
+            "type": "nominal",
+            "legend": {
+              "title": null,
+              "orient": "bottom",
+              "labelFontSize": 12
+            },
+            "scale": {
+              "range": ["#1f77b4", "#ff7f0e"]
+            }
+          },
+          "opacity": {
+            "condition": {
+              "param": "hover",
+              "value": 1
+            },
+            "value": 0.2
+          }
         }
+      },
+      {
+        "mark": {
+          "type": "point",
+          "filled": true,
+          "size": 20
+        },
+        "encoding": {
+          "x": {"field": "ParsedDate", "type": "temporal"},
+          "y": {"field": "value", "type": "quantitative"},
+          "color": {"field": "variable", "type": "nominal"},
+          "tooltip": [
+            {"field": "ParsedDate", "title": "Date"},
+            {"field": "value", "title": "Millions"}
+          ]
+        },
+        "params": [
+          {
+            "name": "hover",
+            "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+          }
+        ]
       }
-    }
+    ]
   }
   
