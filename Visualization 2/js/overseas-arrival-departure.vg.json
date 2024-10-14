@@ -1,0 +1,60 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Total Overseas Arrivals and Departures (July 2014 - August 2024)",
+    "width": 800,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Total%20overseas%20arrivals%20and%20departures%20-%20July%202014%20to%20August%202024(a).csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {
+        "calculate": "substring(datum['Date'], 0, 3) + '-' + substring(datum['Date'], 4, 4)",
+        "as": "ParsedDate"
+      }
+    ],
+    "layer": [
+      {
+        "mark": {"type": "line", "color": "steelblue"},
+        "encoding": {
+          "x": {
+            "field": "ParsedDate",
+            "type": "temporal",
+            "title": "Date",
+            "axis": {"labelAngle": 45}
+          },
+          "y": {
+            "field": "Arrivals (M)",
+            "type": "quantitative",
+            "title": "Arrivals (Millions)",
+            "axis": {"title": "Millions"}
+          }
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "darkblue"},
+        "encoding": {
+          "x": {
+            "field": "ParsedDate",
+            "type": "temporal",
+            "title": "Date",
+            "axis": {"labelAngle": 45}
+          },
+          "y": {
+            "field": "Departures (M)",
+            "type": "quantitative",
+            "title": "Departures (Millions)",
+            "axis": {"title": "Millions"}
+          }
+        }
+      }
+    ],
+    "encoding": {
+      "tooltip": [
+        {"field": "ParsedDate", "type": "temporal", "title": "Date"},
+        {"field": "Arrivals (M)", "type": "quantitative", "title": "Arrivals (Millions)"},
+        {"field": "Departures (M)", "type": "quantitative", "title": "Departures (Millions)"}
+      ]
+    }
+  }
+  
