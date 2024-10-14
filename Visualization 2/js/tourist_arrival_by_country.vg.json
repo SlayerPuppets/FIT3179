@@ -1,22 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Annual Tourist Arrivals by Country (2019 - 2024)",
+  "title": "Annual Tourist Arrivals by Country (2024)",
   "width": 900,
   "height": 600,
   "projection": {
     "type": "equalEarth"
   },
-  "params": [
-    {
-      "name": "selectedYear",
-      "value": 2024,
-      "bind": {
-        "input": "select",
-        "options": [2019, 2020, 2021, 2022, 2023, 2024],
-        "name": "Select Year: "
-      }
-    }
-  ],
   "layer": [
     {
       "data": {
@@ -57,7 +46,7 @@
           "as": ["Year", "Arrivals"]
         },
         {
-          "filter": "datum.Year == selectedYear"
+          "filter": "datum.Year == 2024"
         },
         {
           "filter": "datum.Arrivals > 0"
