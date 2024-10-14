@@ -157,6 +157,23 @@
       </script>
     </div>
     
+    <!-- Visualization 4: Total Overseas Arrivals and Departures -->
+    <div class="viz-container world-map-container">
+      <div class="viz-title">Total Overseas Arrivals and Departures (July 2014 - August 2024)</div>
+      <div id="overseas-arrivals-departures"></div>
+      <script type="text/javascript">
+        // URL to the externally hosted overseas-arrival-departure.vg.json file
+        const overseasArrivalsDeparturesSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/overseas-arrival-departure.vg.json";
+        
+        // Embed the overseas arrivals and departures visualization using the external vg.json file
+        vegaEmbed('#overseas-arrivals-departures', overseasArrivalsDeparturesSpecURL).then(result => {
+          // Access the Vega view instance (optional)
+          // const view = result.view;
+        }).catch(error => {
+          console.error(error);
+        });
+      </script>
+    </div>
   </div>
 </body>
 </html>
