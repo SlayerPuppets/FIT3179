@@ -72,7 +72,7 @@
             "type": "log",
             "scheme": "blues"
           },
-          "title": "Number of Tourist Arrivals",
+          "title": "Tourist Arrivals",
           "legend": {
             "orient": "right",
             "offset": -90 
