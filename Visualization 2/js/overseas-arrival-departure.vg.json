@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 900,
-  "height": 500,
+  "width": 600,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Total%20overseas%20arrivals%20and%20departures%20-%20July%202014%20to%20August%202024(a).csv",
     "format": {
