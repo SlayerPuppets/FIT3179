@@ -1,63 +1,73 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f4f7fa;
-    color: #333;
-  }
-  
-  h1 {
-    text-align: center;
-    font-size: 32px;
-    color: #2171b5;
-    margin-bottom: 20px;
-  }
-  
-  p.story {
-    font-size: 18px;
-    margin: 15px 0;
-    line-height: 1.6;
-    color: #555;
-  }
-  
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  line-height: 1.4;
+  font-size: 14px; /* Reduced font size */
+}
+
+h1 {
+  font-size: 28px; /* Reduced title size */
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p.story {
+  font-size: 14px; /* Reduced font size */
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.visualizations {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.viz-row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+  margin-bottom: 30px; /* Reduced margin between visualizations */
+}
+
+.viz-container {
+  width: 46%; /* Adjusted width to fit more compactly */
+  margin-bottom: 20px; /* Reduced margin for more compact layout */
+}
+
+.world-map-container {
+  width: 46%; /* Adjusted for better fit */
+}
+
+.line-chart-container {
+  width: 46%; /* Adjusted for better fit */
+}
+
+/* Smaller screens adjustments */
+@media (max-width: 999px) {
   .viz-container {
-    margin-bottom: 50px;
-    background-color: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Responsive Layout: Visualizations side by side on larger screens */
-  .visualizations {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .viz-row {
-    display: flex;
-    flex-wrap: wrap;
     width: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 15px;
   }
-  
-  .viz-row .viz-container {
-    width: 45%; /* Adjusted width to make the bar chart smaller */
-  }
-  
-  /* World Map Visualization */
-  .world-map-container {
-    width: 60%; /* Full width for the world map and line chart on larger screens */
-  }
-  
+
+  .world-map-container,
   .line-chart-container {
-    width: 40%; /* Line chart width */
+    width: 100%;
   }
-  
-  /* Responsive adjustments */
-  @media (max-width: 999px) {
-    .viz-row .viz-container {
-      width: 100%; /* Stack visualizations on smaller screens */
-    }
-  }
-  
+}
+
+h2 {
+  font-size: 20px; /* Reduced size for subheadings */
+  color: #34495e;
+  text-align: left;
+}
+
+#bar-chart,
+#australia-map,
+#world-map,
+#overseas-arrivals-departures {
+  width: 100%;
+  height: auto;
+}

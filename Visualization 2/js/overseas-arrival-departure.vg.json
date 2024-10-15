@@ -1,95 +1,100 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-      "text": "Total Overseas Arrivals and Departures (July 2014 - August 2024)",
-      "fontSize": 18,
-      "fontWeight": "bold"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Total Overseas Arrivals and Departures (July 2018 - January 2024)",
+    "fontSize": 18,
+    "fontWeight": "bold"
+  },
+  "width": 900,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Total%20overseas%20arrivals%20and%20departures%20-%20July%202014%20to%20August%202024(a).csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "calculate": "toDate(datum.Date, '%b-%y')", 
+      "as": "ParsedDate"
     },
-    "width": 900,
-    "height": 500,
-    "data": {
-      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/Total%20overseas%20arrivals%20and%20departures%20-%20July%202014%20to%20August%202024(a).csv",
-      "format": {
-        "type": "csv"
+    {
+      "filter": {
+        "field": "ParsedDate",
+        "range": [{"year": 2018, "month": 6}, {"year": 2024, "month": 0}]
       }
     },
-    "transform": [
-      {
-        "calculate": "toDate(datum.Date, '%b-%y')", 
-        "as": "ParsedDate"
+    {
+      "fold": ["Arrivals (M)", "Departures (M)"],
+      "as": ["variable", "value"]
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "tooltip": true
       },
-      {
-        "fold": ["Arrivals (M)", "Departures (M)"],
-        "as": ["variable", "value"]
-      }
-    ],
-    "layer": [
-      {
-        "mark": {
-          "type": "line",
-          "tooltip": true
-        },
-        "encoding": {
-          "x": {
-            "field": "ParsedDate",
-            "type": "temporal",
-            "axis": {
-              "title": "Date",
-              "format": "%b %Y",
-              "labelAngle": -45
-            }
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "axis": {
-              "title": "Millions",
-              "format": "s"
-            }
-          },
-          "color": {
-            "field": "variable",
-            "type": "nominal",
-            "legend": {
-              "title": null,
-              "orient": "bottom",
-              "labelFontSize": 12
-            },
-            "scale": {
-              "range": ["#1f77b4", "#ff7f0e"]
-            }
-          },
-          "opacity": {
-            "condition": {
-              "param": "hover",
-              "value": 1
-            },
-            "value": 0.2
+      "encoding": {
+        "x": {
+          "field": "ParsedDate",
+          "type": "temporal",
+          "axis": {
+            "title": "Date",
+            "format": "%b %Y",
+            "labelAngle": -45
           }
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "axis": {
+            "title": "Millions",
+            "format": "s"
+          }
+        },
+        "color": {
+          "field": "variable",
+          "type": "nominal",
+          "legend": {
+            "title": null,
+            "orient": "bottom",
+            "labelFontSize": 12
+          },
+          "scale": {
+            "range": ["#1f77b4", "#ff7f0e"]
+          }
+        },
+        "opacity": {
+          "condition": {
+            "param": "hover",
+            "value": 1
+          },
+          "value": 0.2
         }
-      },
-      {
-        "mark": {
-          "type": "point",
-          "filled": true,
-          "size": 20
-        },
-        "encoding": {
-          "x": {"field": "ParsedDate", "type": "temporal"},
-          "y": {"field": "value", "type": "quantitative"},
-          "color": {"field": "variable", "type": "nominal"},
-          "tooltip": [
-            {"field": "ParsedDate", "title": "Date"},
-            {"field": "value", "title": "Millions"}
-          ]
-        },
-        "params": [
-          {
-            "name": "hover",
-            "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
-          }
-        ]
       }
-    ]
-  }
-  
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 20
+      },
+      "encoding": {
+        "x": {"field": "ParsedDate", "type": "temporal"},
+        "y": {"field": "value", "type": "quantitative"},
+        "color": {"field": "variable", "type": "nominal"},
+        "tooltip": [
+          {"field": "ParsedDate", "title": "Date"},
+          {"field": "value", "title": "Millions"}
+        ]
+      },
+      "params": [
+        {
+          "name": "hover",
+          "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+        }
+      ]
+    }
+  ]
+}
