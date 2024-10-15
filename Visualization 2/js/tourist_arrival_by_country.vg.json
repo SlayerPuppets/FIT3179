@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Annual Tourist Arrivals by Country (2024)",
   "width": 800, 
   "height": 600,
   "projection": {

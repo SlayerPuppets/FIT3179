@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 700,
   "height": 500,
-  "title": "Short-term Visitor Arrivals per Capita by Australian States (July 2024)",
   "data": {
     "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/georef-australia-state@public.topojson",
     "format": {

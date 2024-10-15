@@ -1,10 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Total Overseas Arrivals and Departures (July 2018 - January 2024)",
-    "fontSize": 18,
-    "fontWeight": "bold"
-  },
   "width": 900,
   "height": 500,
   "data": {
