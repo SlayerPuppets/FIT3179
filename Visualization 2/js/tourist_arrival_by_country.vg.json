@@ -20,9 +20,13 @@
       },
       "mark": {
         "type": "geoshape",
-        "fill": "lightgray",
         "stroke": "black",
         "strokeWidth": 0.5
+      },
+      "encoding": {
+        "color": {
+          "value": "#f7fbff"  
+        }
       }
     },
     {
@@ -50,9 +54,6 @@
         },
         {
           "filter": "datum.Year == 2024"
-        },
-        {
-          "filter": "datum.Arrivals > 0"
         },
         {
           "calculate": "toNumber(datum.Arrivals)",
