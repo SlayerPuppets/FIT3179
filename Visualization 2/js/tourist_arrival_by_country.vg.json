@@ -25,7 +25,7 @@
       },
       "encoding": {
         "color": {
-          "value": "#f7fbff"  
+          "value": "#f7fbff" 
         }
       }
     },
@@ -70,8 +70,9 @@
           "field": "Arrivals",
           "type": "quantitative",
           "scale": {
-            "type": "log",
-            "scheme": "blues"
+            "domain": [100, 1000, 10000, 100000],  
+            "range": ["#f7fbff", "#c6dbef", "#6baed6", "#2171b5", "#08306b"],  
+            "type": "log"
           },
           "title": "Tourist Arrivals",
           "legend": {
