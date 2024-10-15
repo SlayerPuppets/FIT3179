@@ -2,118 +2,79 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Australian Tourism Visualizations</title>
+  <title>Australian Tourism Dashboard</title>
   <!-- Include Vega, Vega-Lite, and Vega-Embed via CDN -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .viz-container {
-      margin-bottom: 50px;
-    }
-    /* Responsive Layout: Visualizations side by side on larger screens */
-    .visualizations {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-    .viz-row {
-      display: flex;
-      flex-wrap: wrap;
-      width: 100%;
-      margin-bottom: 50px;
-    }
-    .viz-row .viz-container {
-      width: 48%; /* Adjust to fit two visualizations side by side */
-    }
-    /* World Map Visualization */
-    .world-map-container {
-      width: 100%; /* Full width below the first two */
-    }
-    /* Responsive adjustments */
-    @media (max-width: 999px) {
-      .viz-row .viz-container {
-        width: 100%; /* Stack visualizations on smaller screens */
-      }
-    }
-  </style>
+  <!-- Link to external CSS file -->
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   
+  <h1>Australian Tourism Dashboard: Trends and Insights</h1>
+
+  <p class="story">
+    Tourism plays a vital role in the Australian economy, attracting millions of visitors every year from across the globe. The following visualizations provide an in-depth look at tourism patterns in Australia. By exploring data on short-term visitor arrivals by states, the number of tourists from various countries, and the long-term trends in overseas arrivals and departures, we can gain a deeper understanding of Australia's place in global tourism and how the industry has evolved over time.
+  </p>
+
   <div class="visualizations">
     <!-- Container for the first two visualizations -->
     <div class="viz-row">
       <!-- Visualization 1: Short-term Visitor Arrivals by Australian States -->
       <div class="viz-container">
+        <h2>Short-term Visitor Arrivals by Australian States</h2>
+        <p class="story">
+          This map highlights the distribution of short-term visitor arrivals across Australian states in July 2024. Major tourist destinations like New South Wales, Queensland, and Victoria continue to attract the highest number of visitors, while less populated states see fewer arrivals. Understanding these patterns helps guide resource allocation and tourism development efforts across the country.
+        </p>
         <div id="australia-map"></div>
         <script type="text/javascript">
-          // URL to the externally hosted australia_map.vg.json file
           const australiaMapSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/aus_tourism.vg.json";
-          
-          // Embed the Australian States map visualization using the external vg.json file
-          vegaEmbed('#australia-map', australiaMapSpecURL).then(result => {
-            // Access the Vega view instance (optional)
-            // const view = result.view;
-          }).catch(error => {
-            console.error(error);
-          });
+          vegaEmbed('#australia-map', australiaMapSpecURL).then(result => {}).catch(error => console.error(error));
         </script>
       </div>
       
       <!-- Visualization 2: Number of Tourists per Country with Year Filter -->
       <div class="viz-container">
+        <h2>Number of Tourists per Country</h2>
+        <p class="story">
+          The bar chart below illustrates the number of tourists visiting Australia from various countries, with an option to filter by year. By exploring this data, we can observe the shifting global tourism patterns, such as how events like international relations or pandemics affect tourist inflows from particular regions.
+        </p>
         <div id="bar-chart"></div>
         <script type="text/javascript">
-          // URL to the externally hosted bar_chart.vg.json file
           const barChartSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/aus_visitors.vg.json";
-          
-          // Embed the bar chart visualization using the external vg.json file
-          vegaEmbed('#bar-chart', barChartSpecURL).then(result => {
-            // Access the Vega view instance (optional)
-            // const view = result.view;
-          }).catch(error => {
-            console.error(error);
-          });
+          vegaEmbed('#bar-chart', barChartSpecURL).then(result => {}).catch(error => console.error(error));
         </script>
       </div>
     </div>
     
-    <!-- Visualization 3: World Map of Annual Tourist Arrivals by Country -->
-    <div class="viz-container world-map-container">
-      <div id="world-map"></div>
-      <script type="text/javascript">
-        // URL to the externally hosted world_map.vg.json file
-        const worldMapSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/tourist_arrival_by_country.vg.json";
-        
-        // Embed the world map visualization using the external vg.json file
-        vegaEmbed('#world-map', worldMapSpecURL).then(result => {
-          // Access the Vega view instance (optional)
-          // const view = result.view;
-        }).catch(error => {
-          console.error(error);
-        });
-      </script>
-    </div>
-    
-    <!-- Visualization 4: Total Overseas Arrivals and Departures -->
-    <div class="viz-container world-map-container">
-      <div id="overseas-arrivals-departures"></div>
-      <script type="text/javascript">
-        // URL to the externally hosted overseas-arrival-departure.vg.json file
-        const overseasArrivalsDeparturesSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/overseas-arrival-departure.vg.json";
-        
-        // Embed the overseas arrivals and departures visualization using the external vg.json file
-        vegaEmbed('#overseas-arrivals-departures', overseasArrivalsDeparturesSpecURL).then(result => {
-          // Access the Vega view instance (optional)
-          // const view = result.view;
-        }).catch(error => {
-          console.error(error);
-        });
-      </script>
+    <!-- Visualization 3 & 4: World Map and Line Chart Side by Side -->
+    <div class="viz-row">
+      <!-- World Map Visualization -->
+      <div class="viz-container world-map-container">
+        <h2>Annual Tourist Arrivals by Country (2019-2024)</h2>
+        <p class="story">
+          This world map provides a global perspective on tourist arrivals to Australia from different countries over the years. The map allows for visual comparison between regions, showing the international reach of Australia's tourism industry and identifying key source markets.
+        </p>
+        <div id="world-map"></div>
+        <script type="text/javascript">
+          const worldMapSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/tourist_arrival_by_country.vg.json";
+          vegaEmbed('#world-map', worldMapSpecURL).then(result => {}).catch(error => console.error(error));
+        </script>
+      </div>
+      
+      <!-- Line Chart Visualization: Total Overseas Arrivals and Departures -->
+      <div class="viz-container line-chart-container">
+        <h2>Total Overseas Arrivals and Departures</h2>
+        <p class="story">
+          The line chart tracks Australia's overseas arrivals and departures from 2014 to 2024. The sharp drop in 2020 corresponds to the global COVID-19 pandemic, where international travel was halted. As the economy rebounds, we see a gradual recovery in tourism starting from 2021, illustrating the resilience of the travel industry.
+        </p>
+        <div id="overseas-arrivals-departures"></div>
+        <script type="text/javascript">
+          const overseasArrivalsDeparturesSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/overseas-arrival-departure.vg.json";
+          vegaEmbed('#overseas-arrivals-departures', overseasArrivalsDeparturesSpecURL).then(result => {}).catch(error => console.error(error));
+        </script>
+      </div>
     </div>
   </div>
 </body>
