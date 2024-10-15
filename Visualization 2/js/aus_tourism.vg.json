@@ -53,7 +53,8 @@
         "range": ["#f7fbff", "#6baed6", "#08306b"]
       },
       "legend": {
-        "title": "Visitor Arrivals per Capita"
+        "title": "Visitor Arrivals per Capita",
+        "offset": -60  
       }
     },
     "tooltip": [
