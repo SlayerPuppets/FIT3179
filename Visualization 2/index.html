@@ -15,13 +15,7 @@
     .viz-container {
       margin-bottom: 50px;
     }
-    .viz-title {
-      text-align: center;
-      margin-bottom: 10px;
-      font-size: 24px;
-      color: #333;
-    }
-    /* Responsive Layout: First two visualizations side by side on larger screens */
+    /* Responsive Layout: Visualizations side by side on larger screens */
     .visualizations {
       display: flex;
       flex-wrap: wrap;
@@ -49,69 +43,19 @@
   </style>
 </head>
 <body>
-  <h1>Australian Tourism Dashboard</h1>
   
   <div class="visualizations">
     <!-- Container for the first two visualizations -->
     <div class="viz-row">
-      <!-- Visualization 1: Map of Short-term Visitor Arrivals by Australian States -->
+      <!-- Visualization 1: Short-term Visitor Arrivals by Australian States -->
       <div class="viz-container">
-        <div class="viz-title">Short-term Visitor Arrivals by Australian States (July 2024)</div>
         <div id="australia-map"></div>
         <script type="text/javascript">
-          const australiaMapSpec = {
-            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "width": 700,
-            "height": 500,
-            "title": "Short-term Visitor Arrivals by Australian States (July 2024)",
-            "data": {
-              "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%209%20Homework/data/georef-australia-state@public.topojson",
-              "format": {
-                "type": "topojson",
-                "feature": "georef-australia-state@public"
-              }
-            },
-            "transform": [
-              {
-                "lookup": "properties.ste_name",
-                "from": {
-                  "data": {
-                    "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%209%20Homework/data/tourist_by_state.csv"
-                  },
-                  "key": "Region",
-                  "fields": ["Number of visitor arrivals"]
-                }
-              }
-            ],
-            "projection": {
-              "type": "mercator"
-            },
-            "mark": {
-              "type": "geoshape",
-              "stroke": "black",
-              "strokeWidth": 0.5
-            },
-            "encoding": {
-              "color": {
-                "field": "Number of visitor arrivals",
-                "type": "quantitative",
-                "scale": {
-                  "domain": [0, 50000, 100000, 150000, 200000, 250000],
-                  "range": ["#f7fbff", "#c6dbef", "#6baed6", "#2171b5", "#08306b"]
-                },
-                "legend": {
-                  "title": "Visitor Arrivals"
-                }
-              },
-              "tooltip": [
-                {"field": "properties.ste_name", "type": "nominal", "title": "State or Territory"},
-                {"field": "Number of visitor arrivals", "type": "quantitative", "title": "Visitor Arrivals"}
-              ]
-            }
-          };
+          // URL to the externally hosted australia_map.vg.json file
+          const australiaMapSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/aus_tourism.vg.json";
           
-          // Embed the Australian States map visualization
-          vegaEmbed('#australia-map', australiaMapSpec).then(result => {
+          // Embed the Australian States map visualization using the external vg.json file
+          vegaEmbed('#australia-map', australiaMapSpecURL).then(result => {
             // Access the Vega view instance (optional)
             // const view = result.view;
           }).catch(error => {
@@ -122,11 +66,10 @@
       
       <!-- Visualization 2: Number of Tourists per Country with Year Filter -->
       <div class="viz-container">
-        <div class="viz-title">Number of Tourists per Country (Selected Year)</div>
         <div id="bar-chart"></div>
         <script type="text/javascript">
-          // URL to externally hosted bar_chart.vg.json file
-          const barChartSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%2010%20Homework/js/aus_visitors.vg.json";
+          // URL to the externally hosted bar_chart.vg.json file
+          const barChartSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/aus_visitors.vg.json";
           
           // Embed the bar chart visualization using the external vg.json file
           vegaEmbed('#bar-chart', barChartSpecURL).then(result => {
@@ -141,10 +84,9 @@
     
     <!-- Visualization 3: World Map of Annual Tourist Arrivals by Country -->
     <div class="viz-container world-map-container">
-      <div class="viz-title">Annual Tourist Arrivals by Country (2019 - 2024)</div>
       <div id="world-map"></div>
       <script type="text/javascript">
-        // URL to externally hosted world_map.vg.json file
+        // URL to the externally hosted world_map.vg.json file
         const worldMapSpecURL = "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/refs/heads/main/Visualization%202/js/tourist_arrival_by_country.vg.json";
         
         // Embed the world map visualization using the external vg.json file
@@ -159,7 +101,6 @@
     
     <!-- Visualization 4: Total Overseas Arrivals and Departures -->
     <div class="viz-container world-map-container">
-      <div class="viz-title">Total Overseas Arrivals and Departures (July 2014 - August 2024)</div>
       <div id="overseas-arrivals-departures"></div>
       <script type="text/javascript">
         // URL to the externally hosted overseas-arrival-departure.vg.json file
