@@ -11,7 +11,7 @@
     },
     "description": "Vertical bar chart showing the number of tourists per country with a year filter, including an average line annotation.",
     "data": {
-      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%2010%20Homework/data/2.2%20Short-term%20visitor%20arrivals,%20Australia%20-%20top%2010%20source%20countries(a).csv",
+      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/2.2%20Short-term%20visitor%20arrivals,%20Australia%20-%20top%2010%20source%20countries(a).csv",
       "format": {
         "type": "csv"
       }

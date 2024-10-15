@@ -4,7 +4,7 @@
     "height": 500,
     "title": "Short-term Visitor Arrivals by Australian States (July 2024)",
     "data": {
-      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%209%20Homework/data/georef-australia-state@public.topojson",
+      "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/georef-australia-state@public.topojson",
       "format": {
         "type": "topojson",
         "feature": "georef-australia-state@public"
@@ -15,7 +15,7 @@
         "lookup": "properties.ste_name",
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Week%209%20Homework/data/tourist_by_state.csv"
+            "url": "https://raw.githubusercontent.com/SlayerPuppets/FIT3179/main/Visualization%202/data/tourist_by_state.csv"
           },
           "key": "Region",
           "fields": ["Number of visitor arrivals"]
